@@ -1,0 +1,30 @@
+{
+  "label2id": {
+    "crime": 0,
+    "entertainment": 1,
+    "international": 2,
+    "sports": 3,
+    "technology": 4
+  },
+  "id2label": {
+    "0": "crime",
+    "1": "entertainment",
+    "2": "international",
+    "3": "sports",
+    "4": "technology"
+  },
+  "languages": [
+    "Hindi",
+    "Tamil",
+    "Telugu",
+    "Malayalam",
+    "Marathi"
+  ],
+  "categories": [
+    "crime",
+    "entertainment",
+    "international",
+    "sports",
+    "technology"
+  ]
+}

@@ -1,0 +1,891 @@
+model,language,text,true_label,predicted_label,confidence,correct
+IndicBERT-v2,Telugu,Reverse aging in Humans: ఉప్పెనలో హీరోయిన్‌ కోరిక నెరవేరే టైం వచ్చింది- ఎలుకలపై ప్రయోగం సూపర్ సక్సెస్‌,international,entertainment,0.9986545,False
+IndicBERT-v2,Malayalam,"ഇനി കടം വാങ്ങേണ്ട, ഗൗതമിനും കൂട്ടർക്കും പോൾ സ്വന്തമായി",sports,entertainment,0.99819344,False
+XLM-RoBERTa,Telugu,Google New Feature: డాక్టర్ ప్రిస్క్రిప్షన్‌ అర్థం కావట్లేదా! ఇకపై సులువుగా డీకోడ్ చేసేయొచ్చు - గూగుల్‌ కొత్త ఫీచర్ వచ్చేస్తోంది,international,technology,0.9975177,False
+XLM-RoBERTa,Tamil,ப்ளூ டிக் மறுவெளியீடு மீண்டும் தள்ளிவைப்பு: ஆள்மாறாட்டத்தை தடுக்க மஸ்க் ஆலோசனை,international,technology,0.99732625,False
+IndicBERT-v2,Hindi,बनारस का एक लड़का जो पहले बना इंटरनेशनल किडनैपर और फिर बन गया अंडरवर्ल्ड डॉन,international,crime,0.99705076,False
+IndicBERT-v2,Tamil,இந்தியாவின் முதல் செங்குத்து லிஃப்ட் ரயில்வே கடல் பாலம் - பாம்பன் மறுசீரமைப்பு பணிகள் 84% நிறைவு,technology,entertainment,0.99693346,False
+IndicBERT-v2,Marathi,"ज्या बँकेत काम केले, तिथेच टाकला दरोडा; 68 कोटी घेऊन महिला फरार, नंतर...",international,crime,0.9966749,False
+IndicBERT-v2,Telugu,"Burglar: ఇతడో మంచి దొంగ, ఏమీ ఎత్తుకుపోలేదు సరికదా తిరిగి ఇచ్చి వెళ్లాడు",international,crime,0.9966485,False
+XLM-RoBERTa,Telugu,"Muttiah Muralitharan Movie : '800'లో క్రికెట్టే కాదు, అంతకు మించి -  అక్టోబర్ తొలి వారంలో ముత్తయ్య బయోపిక్",sports,entertainment,0.99657154,False
+IndicBERT-v2,Hindi,"दिल्ली पुलिस ने बृजभूषण सिंह के खिलाफ जुटाए फोटो और VIDEO सबूत, जानिए क्या-क्या है चार्जशीट में?",sports,crime,0.9964116,False
+IndicBERT-v2,Marathi,"Fraud Baba : धक्कादायक! या भोंदू बाबाकडे सापडले तब्बल 11 मृतदेह, शिष्यांना देत होता मल-मूत्र खाण्याचा सल्ला",international,crime,0.9963869,False
+XLM-RoBERTa,Tamil,உலகின் முதல் மின்சார தானியங்கி கார்கோ கப்பல்: நார்வேயின் யாரா இன்டர்நேஷனல் அறிமுகம்,international,technology,0.99629265,False
+IndicBERT-v2,Malayalam,ജസ്റ്റിന്‍ ട്രൂഡോയും ഭാര്യ സോഫിയും വേർപിരിഞ്ഞു,entertainment,international,0.9962857,False
+IndicBERT-v2,Telugu,"Siddharth: ఎట్టకేలకు నోరు విప్పిన సిద్ధార్థ్, బెంగళూరు అవమానంపై ఇంట్రెస్టింగ్ కామెంట్స్",entertainment,sports,0.9962717,False
+IndicBERT-v2,Malayalam,91 കുട്ടികളെ ലൈംഗികമായി പീഡിപ്പിച്ചു; ശിശു സംരക്ഷണ കേന്ദ്രത്തിലെ മുൻ ജീവനക്കാരൻ പിടിയിൽ,international,crime,0.9962321,False
+XLM-RoBERTa,Tamil,சென்னை | சிறையில் பெண் கைதி தற்கொலை,entertainment,crime,0.99608946,False
+IndicBERT-v2,Telugu,Google New Feature: డాక్టర్ ప్రిస్క్రిప్షన్‌ అర్థం కావట్లేదా! ఇకపై సులువుగా డీకోడ్ చేసేయొచ్చు - గూగుల్‌ కొత్త ఫీచర్ వచ్చేస్తోంది,international,technology,0.99598444,False
+IndicBERT-v2,Hindi,"IPL 2021: भारत-इंग्लैंड टेस्ट मैच में दिखा आईपीएल का खुमार, टूर्नामेंट के दूसरे चरण में इन क्रिकेटर्स की खल सकती है कमी",international,sports,0.9958984,False
+XLM-RoBERTa,Tamil,ம.பி.யில் துப்புரவு தொழிலாளியிடம் ரூ.47 லட்சம் பழைய நோட்டுகள் பறிமுதல்,entertainment,crime,0.99585366,False
+XLM-RoBERTa,Marathi,"""मी दोन नोकऱ्या करते पण तरीही रोज रात्री मिळत नाही जेवण कारण...""; 'तिने' मांडली व्यथा",international,entertainment,0.9957799,False
+XLM-RoBERTa,Hindi,"दिल्ली पुलिस ने बृजभूषण सिंह के खिलाफ जुटाए फोटो और VIDEO सबूत, जानिए क्या-क्या है चार्जशीट में?",sports,crime,0.99569917,False
+XLM-RoBERTa,Hindi,"अभिनंदन संग फोटो में दिखे PAK मेजर से ट्रेन्ड दो शख्स अरेस्ट, बोली दिल्ली पुलिस- आतंकी साजिश में था हाथ",international,crime,0.99562895,False
+XLM-RoBERTa,Tamil,கமிஷன் தொகை விவகாரத்தில் காப்பீட்டு நிறுவன உதவி மேலாளரை கடத்திய 3 பேர் கைது,entertainment,crime,0.9955915,False
+XLM-RoBERTa,Telugu,Reverse aging in Humans: ఉప్పెనలో హీరోయిన్‌ కోరిక నెరవేరే టైం వచ్చింది- ఎలుకలపై ప్రయోగం సూపర్ సక్సెస్‌,international,entertainment,0.99552083,False
+IndicBERT-v2,Tamil,கமிஷன் தொகை விவகாரத்தில் காப்பீட்டு நிறுவன உதவி மேலாளரை கடத்திய 3 பேர் கைது,entertainment,crime,0.99545985,False
+XLM-RoBERTa,Malayalam,91 കുട്ടികളെ ലൈംഗികമായി പീഡിപ്പിച്ചു; ശിശു സംരക്ഷണ കേന്ദ്രത്തിലെ മുൻ ജീവനക്കാരൻ പിടിയിൽ,international,crime,0.99539477,False
+XLM-RoBERTa,Telugu,Samson Post Viral: సంజూ శాంసన్‌ పోస్ట్‌! టీమ్‌ఇండియాపై 'బాహుబలి' ఇంటర్వెల్‌ సీన్‌ రిపీట్‌!,sports,entertainment,0.9953917,False
+XLM-RoBERTa,Marathi,अरेरे! 'त्याने' कचऱ्यात फेकला तब्बल 2000 कोटींचा 'खजिना' अन् आता...; नेमकं काय घडलं?,international,entertainment,0.99534154,False
+IndicBERT-v2,Marathi,"""मुलींनो, एक लक्षात ठेवा...""; श्रद्धा हत्या प्रकरणानंतर केतकीची पोस्ट व्हायरल",crime,entertainment,0.9952998,False
+XLM-RoBERTa,Telugu,Kalki 2898 AD: కల్కి లీక్ - నష్టపరిహారం కోసం VFX కంపెనీపై కేసు నమోదు చేసిన మేకర్స్?,entertainment,crime,0.9952851,False
+XLM-RoBERTa,Tamil,மதுரையில் இஸ்லாமிய இளைஞரிடம் என்ஐஏ அதிகாரிகள் விசாரணை,entertainment,crime,0.9952218,False
+XLM-RoBERTa,Hindi,"तालिबान के सामने झुका पंजशीर, महिला पुलिसकर्मी को पति-बच्चों के सामने ही लड़ाकों ने मार दी गोली",international,crime,0.99522,False
+IndicBERT-v2,Marathi,"Jara Hatke: फुटबॉल सामना खेळण्यासाठी भावासोबत लावून दिलं होणाऱ्या पत्नीचं लग्न, त्यानंतर...",sports,international,0.9952077,False
+IndicBERT-v2,Hindi,"सऊदी अरब के इतिहास में पहली बार 81 लोगों को एक साथ दी गई फांसी, आतंकी संगठनों से जुड़े होने का था आरोप",crime,international,0.995187,False
+XLM-RoBERTa,Telugu,"కిడ్నాప్ చేస్తున్నాడన్న డౌట్‌తో ఉబర్‌ డ్రైవర్‌పై కాల్పులు, పరిస్థితి విషమం",international,crime,0.9950832,False
+XLM-RoBERTa,Malayalam,കൗതുകമുണർത്തി  വാലാട്ടിയുടെ തീം സോങ്- വിഡിയോ,entertainment,technology,0.9950441,False
+XLM-RoBERTa,Marathi,"कविता, संगीता, पूजा आणि पिंकी…सगळ्यांचा नवरा संदीप; तरुणींना फसवणाऱ्याला ठोकल्या बेड्या",crime,entertainment,0.9948996,False
+XLM-RoBERTa,Tamil,காரக்பூர் ஐஐடி-யில் தெலங்கானா மாணவர் தற்கொலை: போலீஸ் விசாரணை,entertainment,crime,0.99486625,False
+XLM-RoBERTa,Tamil,ஹாங்சோ | விளையாட்டு அரங்கில் தவறவிடப்பட்ட மொபைல் போன் - தேடித் தந்த தன்னார்வலர்கள்!,international,technology,0.9948626,False
+XLM-RoBERTa,Tamil,அலுவலகத்திலேயே தூங்கும் ட்விட்டர் நிறுவன ஊழியர்கள்: எலான் மஸ்க் ஏற்பாடு,international,technology,0.99482924,False
+XLM-RoBERTa,Telugu,"Burglar: ఇతడో మంచి దొంగ, ఏమీ ఎత్తుకుపోలేదు సరికదా తిరిగి ఇచ్చి వెళ్లాడు",international,crime,0.99482226,False
+XLM-RoBERTa,Tamil,பெங்களூருவில் ஒப்பந்ததாரர்களின் வீடுகளில் நடந்த‌ வருமான வரி சோதனையில் ரூ.95 கோடி ரொக்கம் பறிமுதல்,entertainment,crime,0.9948019,False
+IndicBERT-v2,Hindi,दुनिया की पहली महिला हाईजैकर जिसने फिलिस्तीन को आजाद कराने का देखा था सपना,crime,international,0.99477863,False
+IndicBERT-v2,Marathi,"""मी दोन नोकऱ्या करते पण तरीही रोज रात्री मिळत नाही जेवण कारण...""; 'तिने' मांडली व्यथा",international,entertainment,0.99461406,False
+IndicBERT-v2,Tamil,ஹாங்சோ | விளையாட்டு அரங்கில் தவறவிடப்பட்ட மொபைல் போன் - தேடித் தந்த தன்னார்வலர்கள்!,international,sports,0.9945576,False
+XLM-RoBERTa,Marathi,"बुर्ज खलिफावर पुन्हा झळकला शाहरुख, व्हिडिओतून सांगतिली प्रेरणादायी कथा",international,entertainment,0.9944351,False
+XLM-RoBERTa,Marathi,पोलिसांनी लढविली शक्कल अन... मेलेल्या डासांमुळे पकडला गेला चोर!,international,crime,0.99440336,False
+IndicBERT-v2,Marathi,पोलिसांनी लढविली शक्कल अन... मेलेल्या डासांमुळे पकडला गेला चोर!,international,crime,0.99434954,False
+IndicBERT-v2,Tamil,திருச்சி - சென்னை தேசிய நெடுஞ்சாலையில் அதிநவீன சோதனைச் சாவடி திறப்பு,crime,entertainment,0.994325,False
+IndicBERT-v2,Malayalam,മരണവീട് പോലെയായി ‘ക്ലബ്ഹൗസ്’; രക്ഷയില്ലാതെ പാതിയിലേറെ ജീവനക്കാരെയും പിരിച്ചുവിടുന്നു...,international,technology,0.9943198,False
+IndicBERT-v2,Hindi,"छात्र को चाइनीज खाना पड़ा महंगा, शरीर का रंग हुआ बैंगनी, काटने पड़े दोनों पैर और अंगुलियां",international,crime,0.9942502,False
+IndicBERT-v2,Tamil,"ODI WC 2023 | புதிய வரலாறு படைத்த பும்ரா, விராட் கோலி!",entertainment,sports,0.9942016,False
+XLM-RoBERTa,Tamil,பொய்களைப் பரப்பவே ட்விட்டரை எலான் மஸ்க் வாங்கியுள்ளார்: பைடன் விமர்சனம்,international,technology,0.99418867,False
+IndicBERT-v2,Marathi,ट्रॅफिक जामचे टेन्शन संपले! खरेदी करा हवेत उडणारी बाइक,international,technology,0.99407876,False
+XLM-RoBERTa,Malayalam,ബലാത്സംഗം പ്രതിരോധിക്കുന്നതിനിടെ അക്രമിയെ കൊന്ന യുവതിക്ക് ആറു വർഷം തടവ്,international,crime,0.9940572,False
+XLM-RoBERTa,Hindi,बजरंग पूनिया को मानहानि केस में राहत! दिल्ली की अदालत ने पेशी के लिए दी एक दिन की छूट,sports,crime,0.9940352,False
+IndicBERT-v2,Tamil,சென்னை | சிறையில் பெண் கைதி தற்கொலை,entertainment,crime,0.99396557,False
+IndicBERT-v2,Malayalam,മൂന്ന് മക്കളെ കഴുത്ത് ഞെരിച്ച് കൊന്ന കേസില്‍ മാതാവിനെ കുറ്റക്കാരിയെന്ന് വിധിച്ച് കോടതി,international,crime,0.9939208,False
+XLM-RoBERTa,Telugu,"ABP Explain: మొబైల్‌ రీఛార్జులు, టికెట్ల బుకింగ్స్‌పై 'కన్వీనియెన్స్‌' దోపిడీ! అయిష్టంతోనే చెల్లిస్తున్న కస్టమర్లు!",technology,crime,0.9938975,False
+IndicBERT-v2,Hindi,"कश्मीर प्रीमियर लीग को लेकर शोएब अख्तर ने कहा-‘खेल होना चाहिए खून-खराबा नहीं’, लोगों ने किए ऐसे कमेंट्स; देखें Video",international,sports,0.99386084,False
+XLM-RoBERTa,Marathi,Texas School Firing: नियतीचा क्रूर खेळ; शाळेच्या बक्षीस समारंभातील आई-मुलाची भेट ठरली शेवटची!,international,crime,0.9938361,False
+XLM-RoBERTa,Tamil,‘நான் ரெடிதான் வரவா’ - பயிற்சியில் ஈடுபடும் படத்தைப் பகிர்ந்த பும்ரா,sports,entertainment,0.9938356,False
+IndicBERT-v2,Malayalam,നിദയുടെ അശ്വമേധം,sports,entertainment,0.99376726,False
+XLM-RoBERTa,Hindi,दुनिया की पहली महिला हाईजैकर जिसने फिलिस्तीन को आजाद कराने का देखा था सपना,crime,international,0.9937423,False
+XLM-RoBERTa,Telugu,"China Battery: ఆడుకుంటుండగా పేలిన చైనా బ్యాటరీ, 9 ఏళ్ల బాలుడి పరిస్థితి విషమం",crime,international,0.99366564,False
+IndicBERT-v2,Telugu,"Top Headlines Today: నేటి నుంచి యువగళం పునఃప్రారంభం, విజయవాడలో సీఎం జగన్ టూర్",international,entertainment,0.9936354,False
+XLM-RoBERTa,Marathi,"Fraud Baba : धक्कादायक! या भोंदू बाबाकडे सापडले तब्बल 11 मृतदेह, शिष्यांना देत होता मल-मूत्र खाण्याचा सल्ला",international,crime,0.99356693,False
+XLM-RoBERTa,Tamil,வங்கிப் பணிக்கு ஆட்களைத் தேர்வு செய்யும் ரோபோ: கேரள தனியார் வங்கி அசத்தல்,technology,entertainment,0.9935601,False
+XLM-RoBERTa,Hindi,"अगर अनजाने में हो गई यह गलती तो तुरंत बदले पासवर्ड, Cyber Dost ने दी चेतावनी",crime,technology,0.99350643,False
+IndicBERT-v2,Tamil,அமெரிக்க போதை ஆட்டம் போகிமான் கோ- சற்றே பெரிய குறிப்பு,technology,international,0.9935016,False
+IndicBERT-v2,Tamil,ஆசிய விளையாட்டுப் போட்டி நிறைவு: 107 பதக்கங்களுடன் இந்தியா 4-ம் இடம்,entertainment,sports,0.99347913,False
+IndicBERT-v2,Telugu,"China Battery: ఆడుకుంటుండగా పేలిన చైనా బ్యాటరీ, 9 ఏళ్ల బాలుడి పరిస్థితి విషమం",crime,international,0.9934355,False
+XLM-RoBERTa,Malayalam,തൊഷാഖാന കേസിൽ ഇംറാൻ ഖാനെ അറസ്റ്റ് ചെയ്യാൻ നീക്കം; ലാഹോറിലെ വസതി വളഞ്ഞ് പൊലീസ് സന്നാഹം,international,crime,0.99343276,False
+XLM-RoBERTa,Malayalam,റഷ്യയിൽ ആപ്പിൾ ഉത്പന്നങ്ങളുടെ വിതരണം നിർത്തിവെക്കണം; ടിം കുക്കിന് കത്തയച്ച് യുക്രെയ്ൻ ഉപ ​പ്രധാനമന്ത്രി,technology,international,0.99342066,False
+XLM-RoBERTa,Marathi,"वाह रे पठाण! Irfan Pathan ने पाकिस्तानच्या पंतप्रधानांना सुनावले; म्हणाला, तुम्ही दुसऱ्याच्या दुःखात आनंदी होणारे...",sports,international,0.9933913,False
+IndicBERT-v2,Malayalam,കോം​ഗോ പ്ര​ള​യം: മ​ര​ണം 200 ക​വി​ഞ്ഞു,international,technology,0.9933708,False
+XLM-RoBERTa,Malayalam,മയക്കുമരുന്നിന്​ പ്രോത്സാഹനം: ‘നല്ല സമയം’ ട്രെയിലറിനെതിരെ കേസ്​,entertainment,crime,0.9933488,False
+IndicBERT-v2,Malayalam,ഖത്തറിൽ ല​ഹ​രി മ​രു​ന്ന് പി​ടി​കൂ​ടി,crime,international,0.99313194,False
+IndicBERT-v2,Tamil,காவல் நிலையத்தில் பெண் கைதி உயிரிழந்த விவகாரம்: கோவையில் 2-வது நாளாக மாஜிஸ்திரேட் விசாரணை,entertainment,crime,0.9931183,False
+XLM-RoBERTa,Marathi,ट्रॅफिक जामचे टेन्शन संपले! खरेदी करा हवेत उडणारी बाइक,international,technology,0.9930455,False
+XLM-RoBERTa,Malayalam,'ബ്ലാക്ക്ഔട്ട് ചലഞ്ച്' പെൺകുട്ടികൾ മരിച്ചതിന് ടിക് ടോക്കിനെതിരെ കേസെടുത്തു,technology,entertainment,0.9929992,False
+XLM-RoBERTa,Marathi,"डेटवर गेलेली अभिनेत्री अचानक गायब झाल्यामुळे उडाली होती खळबळ, आता अशा अवस्थेत सापडली",international,entertainment,0.99290836,False
+XLM-RoBERTa,Hindi,"सऊदी अरब के इतिहास में पहली बार 81 लोगों को एक साथ दी गई फांसी, आतंकी संगठनों से जुड़े होने का था आरोप",crime,international,0.99290365,False
+IndicBERT-v2,Malayalam,"ഗംഗാതീരത്ത് മദ്യപിച്ച ഇസ്രായേലി ടൂറിസ്റ്റുകളെ വളഞ്ഞിട്ട് മർദിച്ചു, രക്ഷപ്പെടാൻ കക്കൂസിൽ കയറി ഒളിച്ചു; 500 രൂപ പിഴയിട്ട് വിട്ടയച്ചു",crime,international,0.99288565,False
+XLM-RoBERTa,Hindi,"IPL 2021: भारत-इंग्लैंड टेस्ट मैच में दिखा आईपीएल का खुमार, टूर्नामेंट के दूसरे चरण में इन क्रिकेटर्स की खल सकती है कमी",international,sports,0.9928019,False
+IndicBERT-v2,Hindi,"जब एक बक्से में बंद होकर फ्लाइट से भागा था Nissan और Renault कंपनी का बॉस, जानिए क्या थी वजह",crime,international,0.9927867,False
+XLM-RoBERTa,Marathi,"ज्या बँकेत काम केले, तिथेच टाकला दरोडा; 68 कोटी घेऊन महिला फरार, नंतर...",international,crime,0.9927591,False
+XLM-RoBERTa,Malayalam,സീരിയൽ കില്ലർ ചാൾസ് ശോഭരാജ് ജയിൽ മോചിതനാകുന്നു,international,entertainment,0.99272,False
+XLM-RoBERTa,Tamil,தரவரிசையில் பி.வி.சிந்து முன்னேற்றம்,sports,technology,0.99269813,False
+XLM-RoBERTa,Tamil,டெல்லியில் ரூ.294 கோடி போதைப் பொருள் அழிப்பு,entertainment,crime,0.9926958,False
+IndicBERT-v2,Malayalam,ഇമ്രാൻ ഖാൻ ‘അഭിനയത്തിൽ ഷാരൂഖിനെയും സൽമാനെയും പിന്നിലാക്കി’; പരിഹാസവുമായി പിഡിഎം നേതാവ്,international,entertainment,0.9926305,False
+XLM-RoBERTa,Hindi,"अमेरिकी हाउस स्पीकर नैंसी पेलोसी के पति को हुई जेल, शराब पीकर चला रहे थे गाड़ी",crime,international,0.9926058,False
+XLM-RoBERTa,Tamil,"இஸ்ரேலை குறிவைத்து ஹமாஸ் மீண்டும் தாக்குதல்: இரு தரப்பு பலி 1,800 ஆக அதிகரிப்பு",entertainment,international,0.99250585,False
+XLM-RoBERTa,Telugu,"బ్రేకప్ చెప్పిందని గర్ల్‌ఫ్రెండ్‌ని చంపేసిన టీనేజర్, గన్‌తో ఐదు రౌండ్ల కాల్పులు",international,crime,0.9924758,False
+XLM-RoBERTa,Malayalam,"നൂറ്റാണ്ടിലെ മികച്ച ടൂർണമെന്റായി ഖത്തർ ലോകകപ്പ്, ബി.ബി.സി സർവേയിൽ ബഹുദൂരം മുന്നിൽ",international,sports,0.9924345,False
+XLM-RoBERTa,Telugu,"WFH Job Scam: వాట్సాప్, టెలిగ్రాంలో ‘వర్క్ ఫ్రం హోం’ జాబ్స్ దందా - యస్ అంటే మీ డబ్బులు గోవిందా!",technology,crime,0.99240243,False
+IndicBERT-v2,Marathi,"डेटवर गेलेली अभिनेत्री अचानक गायब झाल्यामुळे उडाली होती खळबळ, आता अशा अवस्थेत सापडली",international,entertainment,0.99237704,False
+IndicBERT-v2,Malayalam,"നൂറ്റാണ്ടിലെ മികച്ച ടൂർണമെന്റായി ഖത്തർ ലോകകപ്പ്, ബി.ബി.സി സർവേയിൽ ബഹുദൂരം മുന്നിൽ",international,sports,0.99236894,False
+XLM-RoBERTa,Hindi,"जिस सहारनपुर वाले गुप्ता बंधु की दक्षिण अफ्रीका में बोलती थी तूती, बनाते थे मंत्री और संतरी! अब हुए दुबई से गिरफ्तार, जानें पूरी कहानी",crime,international,0.9923459,False
+XLM-RoBERTa,Hindi,Twitter के पूर्व CEO जैक डोर्सी ला रहे नया सोशल प्लेटफॉर्म! जानिये क्या होगा खास,international,technology,0.99228764,False
+XLM-RoBERTa,Hindi,"शाकिब अल हसन ने T20 इंटरनेशनल में रचा इतिहास, बांग्लादेश ने पहली बार ऑस्ट्रेलिया से जीती सीरीज; कंगारू टीम ने बनाया शर्मनाक रिकॉर्ड",international,sports,0.9922535,False
+XLM-RoBERTa,Hindi,"Bomb Threat: तेहरान से चीन जा रहे विमान में बम की खबर, पायलट ने दिल्ली ATC से मांगी थी मदद",crime,international,0.9922444,False
+XLM-RoBERTa,Malayalam,ഐപിഎൽ തുണച്ചു; ലോക്​ഡൗൺ കാലത്ത്​ കോളടിച്ചത്​ ഡിസ്​നി പ്ലസ്​ ഹോട്​സ്റ്റാറിന്​,technology,sports,0.99222,False
+XLM-RoBERTa,Tamil,"ODI WC 2023 | புதிய வரலாறு படைத்த பும்ரா, விராட் கோலி!",entertainment,sports,0.9921577,False
+XLM-RoBERTa,Hindi,"T20 वर्ल्ड कप: पाकिस्तान क्रिकेट बोर्ड ने फिर किया टीम में बदलाव, सानिया मिर्जा के पति की लगी लॉटरी",international,sports,0.99208635,False
+XLM-RoBERTa,Hindi,"America: खूबसूरत मॉडल ने बॉयफ्रेंड से कहासुनी के बाद उठाया ऐसा कदम, पड़ोसियों ने भी लगाया बड़ा आरोप",crime,international,0.9920655,False
+XLM-RoBERTa,Hindi,"Wrestlers News: बृजभूषण सिंह का दावा- महिला पहलवान के स्तन पर नहीं योग सिखाते हुए अपने पेट पर लगाया हाथ, BJP सांसद ने पूछताछ में बेटे की आत्महत्या का भी किया जिक्र",crime,sports,0.9920574,False
+IndicBERT-v2,Telugu,"కిడ్నాప్ చేస్తున్నాడన్న డౌట్‌తో ఉబర్‌ డ్రైవర్‌పై కాల్పులు, పరిస్థితి విషమం",international,crime,0.9919675,False
+XLM-RoBERTa,Tamil,ஆசிய விளையாட்டுப் போட்டி நிறைவு: 107 பதக்கங்களுடன் இந்தியா 4-ம் இடம்,entertainment,sports,0.99188614,False
+XLM-RoBERTa,Marathi,"महिलेने केला होता 9 हजार कोटीचा फ्रॉड, मग 9 वर्ष नाव बदलून आरामात जगत होती",international,crime,0.9918502,False
+IndicBERT-v2,Telugu,AP SAP Godava : అవినీతి ఆరోపణల గుప్పిట్లో శాప్ - చైర్మన్ బైరెడ్డి సిద్ధార్థ రెడ్డి ఏం చేశారంటే ?,sports,crime,0.9917537,False
+IndicBERT-v2,Marathi,Twitter Blue Tick : 29 नोव्हेंबरला लाँच होणार नाही ब्लू टिक सबस्क्रिप्शन प्लॅन; 'या' कारणामुळे इलॉन मस्क यांनी बदलली रणनीती,international,technology,0.99154186,False
+IndicBERT-v2,Hindi,"अमेरिकी हाउस स्पीकर नैंसी पेलोसी के पति को हुई जेल, शराब पीकर चला रहे थे गाड़ी",crime,international,0.991486,False
+XLM-RoBERTa,Tamil,காவல் நிலையத்தில் பெண் கைதி உயிரிழந்த விவகாரம்: கோவையில் 2-வது நாளாக மாஜிஸ்திரேட் விசாரணை,entertainment,crime,0.9913692,False
+XLM-RoBERTa,Tamil,கிரிக்கெட் உட்பட 5 விளையாட்டுகள் 2028-ம் ஆண்டு ஒலிம்பிக்கில் சேர்ப்பு,entertainment,sports,0.9912977,False
+IndicBERT-v2,Hindi,"जब लेखक और पत्रकार रहे जॉर्जी मार्कोव का छाते से किया गया था कत्ल, पढ़िए पूरा किस्सा",crime,international,0.99122745,False
+IndicBERT-v2,Marathi,"लगीन ठरलं, मंडप सजला, वाजत गाजत वऱ्हाड आले; इतक्यात नवऱ्याला मिळाला १ फोटो, मग..",crime,entertainment,0.9911999,False
+IndicBERT-v2,Malayalam,റഷ്യയിൽ ആപ്പിൾ ഉത്പന്നങ്ങളുടെ വിതരണം നിർത്തിവെക്കണം; ടിം കുക്കിന് കത്തയച്ച് യുക്രെയ്ൻ ഉപ ​പ്രധാനമന്ത്രി,technology,international,0.99113387,False
+XLM-RoBERTa,Tamil,அமெரிக்க போதை ஆட்டம் போகிமான் கோ- சற்றே பெரிய குறிப்பு,technology,international,0.99102354,False
+mBERT,Tamil,சையது முஸ்டாக் அலி தொடரிலும் இம்பேக்ட் பிளேயர் விதி அறிமுகம்,sports,technology,0.9910154,False
+XLM-RoBERTa,Tamil,"ODI WC 2023 | சிராஜ், சமி விக்கெட் - நியூசிலாந்துக்கு எதிரான இந்தியாவின் சிறப்பான தொடக்கம்",entertainment,sports,0.9909897,False
+mBERT,Hindi,"शाकिब अल हसन ने T20 इंटरनेशनल में रचा इतिहास, बांग्लादेश ने पहली बार ऑस्ट्रेलिया से जीती सीरीज; कंगारू टीम ने बनाया शर्मनाक रिकॉर्ड",international,sports,0.9909781,False
+mBERT,Telugu,Jr. NTR Watch Cost: వామ్మో! యంగ్ టైగర్ ఎన్టీఆర్ పెట్టుకున్న వాచ్ రేటు అన్ని కోట్లా?,entertainment,technology,0.9909667,False
+XLM-RoBERTa,Hindi,"पेनल्टी शूटआउट में इंग्लैंड को हरा इटली ने जीता यूरो कप, कीवी क्रिकेटर जेम्स नीशम ने इस तरह उड़ाया मजाक",international,sports,0.99092567,False
+mBERT,Malayalam,ആക്ഷൻ ലുക്കിൽ മമ്മൂട്ടി; ഏജന്റിന്റെ പുതിയ പോസ്റ്റർ പുറത്ത്,entertainment,technology,0.9908449,False
+mBERT,Malayalam,ഏ​ഷ്യ​ൻ ക​പ്പി​ൽ വ​നി​തറ​ഫ​റി​മാ​ർ​ക്ക് അ​ര​ങ്ങേ​റ്റം,international,sports,0.9908024,False
+mBERT,Hindi,"IPL 2021: भारत-इंग्लैंड टेस्ट मैच में दिखा आईपीएल का खुमार, टूर्नामेंट के दूसरे चरण में इन क्रिकेटर्स की खल सकती है कमी",international,sports,0.99077857,False
+mBERT,Telugu,Microsoft CMO:  జీతం పెరగలేదా? ఈ చిట్కా పాటిస్తే హైక్ వచ్చేస్తుంది - మైక్రోసాఫ్ట్ సీఎమ్‌వో సలహా,international,technology,0.99076533,False
+XLM-RoBERTa,Tamil,"""வடக்கிலிருந்து வெளியேறுங்கள்; இல்லாவிட்டால் தீவிரவாதிகளாகக் கருதுவோம்"" - காசாவாசிகளுக்கு இஸ்ரேல் அவசர எச்சரிக்கை",entertainment,international,0.9907616,False
+mBERT,Hindi,"अभिनंदन संग फोटो में दिखे PAK मेजर से ट्रेन्ड दो शख्स अरेस्ट, बोली दिल्ली पुलिस- आतंकी साजिश में था हाथ",international,crime,0.99074286,False
+XLM-RoBERTa,Hindi,इस बार MLA बनकर दिखा दो- BJP प्रत्याशी से भिड़े मुजफ्फरनगर के ग्रामीण; पूर्व IAS ने वीडियो शेयर कर ली चुटकी,entertainment,crime,0.99068916,False
+XLM-RoBERTa,Malayalam,‘ആ കുഞ്ഞുങ്ങൾക്ക് ഒരു പാവ സഹായം’- തുർക്കിയിൽ ഭൂകമ്പത്തിനിരയായ കുരുന്നുകൾക്ക് വേറിട്ട സഹായവുമായി ഫുട്ബാൾ മത്സരം- വിഡിയോ,international,sports,0.9906708,False
+IndicBERT-v2,Tamil,"தான்சானியா | தேடுதல், மீட்பு நடவடிக்கைகளுக்காக எலிகளுக்கு சிறப்பு பயிற்சி",technology,international,0.9906058,False
+IndicBERT-v2,Tamil,ம.பி.யில் துப்புரவு தொழிலாளியிடம் ரூ.47 லட்சம் பழைய நோட்டுகள் பறிமுதல்,entertainment,crime,0.9905813,False
+mBERT,Hindi,"तालिबान के सामने झुका पंजशीर, महिला पुलिसकर्मी को पति-बच्चों के सामने ही लड़ाकों ने मार दी गोली",international,crime,0.99052596,False
+XLM-RoBERTa,Tamil,"காசா சுற்றுப் பகுதிகளில் 1,500 ஹமாஸ் இயக்கத்தினரின் உடல்கள் கண்டெடுப்பு: இஸ்ரேல் ராணுவம்",entertainment,international,0.99051464,False
+XLM-RoBERTa,Malayalam,സ്കോട്ട്‍ലൻഡിനെ നയിക്കാൻ ഇനി ഹംസ യൂസഫ്,international,sports,0.9904467,False
+mBERT,Telugu,"Apple: మూడ్రోజుల్లో రెండు యాపిల్‌ స్టోర్ల ఓపెనింగ్‌, రిబ్బన్‌ కటింగ్‌కు రానున్న టిమ్‌ కుక్‌!",international,technology,0.99040484,False
+mBERT,Marathi,"काबुलमध्ये शाळेवर आत्मघातकी हल्ला, २७ विद्यार्थ्यांचा मृत्यू",international,crime,0.9903948,False
+XLM-RoBERTa,Malayalam,മൂന്ന് മക്കളെ കഴുത്ത് ഞെരിച്ച് കൊന്ന കേസില്‍ മാതാവിനെ കുറ്റക്കാരിയെന്ന് വിധിച്ച് കോടതി,international,crime,0.9903251,False
+mBERT,Hindi,"T20 वर्ल्ड कप: पाकिस्तान क्रिकेट बोर्ड ने फिर किया टीम में बदलाव, सानिया मिर्जा के पति की लगी लॉटरी",international,sports,0.9903082,False
+mBERT,Telugu,Rishabh Pant Accident: పంత్ ను పరామర్శించిన డీడీసీఏ డైరెక్టర్- అభిమానుల తీరుతో పెరుగుతోన్న ఆందోళన,sports,crime,0.9902879,False
+XLM-RoBERTa,Hindi,"टोक्यो पैरालंपिक्स: इतिहास रचने के बाद भाविना पटेल ने पदक भी पक्का किया, तीरंदाज राकेश कुमार ने भी किया कमाल",international,sports,0.9902086,False
+mBERT,Tamil,மதுரையில் இஸ்லாமிய இளைஞரிடம் என்ஐஏ அதிகாரிகள் விசாரணை,entertainment,crime,0.9901428,False
+XLM-RoBERTa,Tamil,ட்விட்டர் போர்டை கலைத்த எலான் மஸ்க்: ஒற்றை இயக்குநராக தன்னையே அறிவித்தார்,international,technology,0.990114,False
+mBERT,Tamil,சென்னை | சிறையில் பெண் கைதி தற்கொலை,entertainment,crime,0.98998266,False
+mBERT,Marathi,पोलिसांनी लढविली शक्कल अन... मेलेल्या डासांमुळे पकडला गेला चोर!,international,crime,0.98997784,False
+mBERT,Malayalam,"നൂറ്റാണ്ടിലെ മികച്ച ടൂർണമെന്റായി ഖത്തർ ലോകകപ്പ്, ബി.ബി.സി സർവേയിൽ ബഹുദൂരം മുന്നിൽ",international,sports,0.989974,False
+mBERT,Malayalam,ബലാത്സംഗം പ്രതിരോധിക്കുന്നതിനിടെ അക്രമിയെ കൊന്ന യുവതിക്ക് ആറു വർഷം തടവ്,international,crime,0.98995715,False
+mBERT,Malayalam,കപ്പ് കേക്കുകളും സാൻഡ്‍വിച്ചും മധുര പലഹാരങ്ങളും...ജിൽ ബൈഡന് വിരുന്നൊരുക്കി ​ഋഷി സുനക്കും അക്ഷതയും,international,sports,0.9898997,False
+mBERT,Tamil,காவல் நிலையத்தில் பெண் கைதி உயிரிழந்த விவகாரம்: கோவையில் 2-வது நாளாக மாஜிஸ்திரேட் விசாரணை,entertainment,crime,0.9898525,False
+IndicBERT-v2,Tamil,ப்ளூ டிக் மறுவெளியீடு மீண்டும் தள்ளிவைப்பு: ஆள்மாறாட்டத்தை தடுக்க மஸ்க் ஆலோசனை,international,technology,0.9897892,False
+mBERT,Malayalam,മൂന്ന് മക്കളെ കഴുത്ത് ഞെരിച്ച് കൊന്ന കേസില്‍ മാതാവിനെ കുറ്റക്കാരിയെന്ന് വിധിച്ച് കോടതി,international,crime,0.98976874,False
+mBERT,Malayalam,ജൂഡ് ആന്തണിയുടെ അടുത്ത പടം ലൈക്ക പ്രൊഡക്ഷൻസ് നിർമിക്കും,entertainment,technology,0.989654,False
+mBERT,Hindi,"Ind vs Eng: शार्दुल ठाकुर दूसरे टेस्ट से बाहर; भारतीय दिग्गज ने लॉर्ड्स के मैदान पर मढ़ा दोष, लोग बोले- एक म्यान में दो तलवारें नहीं रह सकतीं",international,sports,0.9896449,False
+IndicBERT-v2,Hindi,"अगर अनजाने में हो गई यह गलती तो तुरंत बदले पासवर्ड, Cyber Dost ने दी चेतावनी",crime,technology,0.98958135,False
+IndicBERT-v2,Marathi,Free Fire गेममध्ये अवघ्या १२ वर्षांच्या मुलाने उडविले तब्बल १२ लाख,crime,technology,0.9895628,False
+mBERT,Tamil,ப்ளூ டிக் மறுவெளியீடு மீண்டும் தள்ளிவைப்பு: ஆள்மாறாட்டத்தை தடுக்க மஸ்க் ஆலோசனை,international,technology,0.9895381,False
+mBERT,Telugu,"దయచేసి నన్ను చంపొద్దు, పాలస్తీనా ఉగ్రవాదుల్ని వేడుకున్న యువతి - వైరల్ వీడియో",international,crime,0.98948854,False
+mBERT,Hindi,"दिल्ली पुलिस ने बृजभूषण सिंह के खिलाफ जुटाए फोटो और VIDEO सबूत, जानिए क्या-क्या है चार्जशीट में?",sports,crime,0.9894847,False
+IndicBERT-v2,Tamil,"ODI WC 2023 | சிராஜ், சமி விக்கெட் - நியூசிலாந்துக்கு எதிரான இந்தியாவின் சிறப்பான தொடக்கம்",entertainment,sports,0.9892448,False
+XLM-RoBERTa,Malayalam,അറസ്റ്റിനെതിരായ ഇംറാൻ ഖാന്റെ ഹരജി ഇന്ന് പരിഗണിക്കും,international,entertainment,0.9891398,False
+IndicBERT-v2,Telugu,Women Trapping Men: హనీట్రాప్‌ అంటే ఏమిటి? శృంగారాన్ని ఆయుధంగా వాడుతున్న యువతులు - ఎక్కువ మోసపోతుంది వాళ్లేనట!,international,crime,0.98912686,False
+IndicBERT-v2,Tamil,மதுரையில் இஸ்லாமிய இளைஞரிடம் என்ஐஏ அதிகாரிகள் விசாரணை,entertainment,crime,0.9891026,False
+XLM-RoBERTa,Tamil,யூடியூப்-ன் புதிய தலைமை செயல் அதிகாரியாக அமெரிக்க - இந்தியர் நீல் மோகன் நியமனம்,technology,international,0.98902357,False
+XLM-RoBERTa,Tamil,கந்த சஷ்டி கவசம் பற்றி அவதூறு வீடியோ: தொகுப்பாளர் சுரேந்தர் இ-பாஸ் இல்லாமல் வந்ததால் புதுச்சேரியில் வழக்கு,crime,entertainment,0.988997,False
+XLM-RoBERTa,Tamil,தமிழகத்தில் 14 உதவி ஆணையர்கள் அதிரடி மாற்றம்: டிஜிபி திரிபாதி உத்தரவு,crime,entertainment,0.9889938,False
+IndicBERT-v2,Telugu,"NIA Announces Reward: అండర్ వరల్డ్ డాన్‌ దావూద్‌పై రూ.25 లక్షల రివార్డ్, ప్రకటించిన NIA",international,crime,0.9888898,False
+mBERT,Tamil,ஆசிய விளையாட்டுப் போட்டி நிறைவு: 107 பதக்கங்களுடன் இந்தியா 4-ம் இடம்,entertainment,sports,0.98884785,False
+mBERT,Malayalam,കുട്ടികളെ പീഡിപ്പിച്ചു; കുവൈത്തില്‍ പ്രവാസിയായ മത അധ്യാപകനെ തൂക്കിക്കൊല്ലാന്‍ കോടതി വിധി,international,crime,0.9888103,False
+XLM-RoBERTa,Tamil,இலங்கை கடற்படையால் சிறைபிடிக்கப்பட்ட தமிழக மீனவர் 17 பேர் தாயகம் திரும்பினர்,entertainment,international,0.9886602,False
+XLM-RoBERTa,Tamil,காஷ்மீரில் அமைதி ஏற்படுத்திய பிரதமர் மோடி: ஜேஎன்யு முன்னாள் மாணவர் சங்க துணை தலைவர் பாராட்டு,entertainment,international,0.98863655,False
+XLM-RoBERTa,Tamil,திருச்சி - சென்னை தேசிய நெடுஞ்சாலையில் அதிநவீன சோதனைச் சாவடி திறப்பு,crime,entertainment,0.9885356,False
+IndicBERT-v2,Tamil,கந்த சஷ்டி கவசம் பற்றி அவதூறு வீடியோ: தொகுப்பாளர் சுரேந்தர் இ-பாஸ் இல்லாமல் வந்ததால் புதுச்சேரியில் வழக்கு,crime,entertainment,0.98852843,False
+IndicBERT-v2,Malayalam,ബെൻസെമ ഇത്തിഹാദിലേക്ക്; പ്രാഥമിക കരാർ ഒപ്പുവെച്ചു,sports,international,0.98845345,False
+mBERT,Hindi,"पेनल्टी शूटआउट में इंग्लैंड को हरा इटली ने जीता यूरो कप, कीवी क्रिकेटर जेम्स नीशम ने इस तरह उड़ाया मजाक",international,sports,0.988432,False
+XLM-RoBERTa,Hindi,"लड़ाकों से घिरा, मौत को सामने देख कर भी तालिबान पर चुटकुले सुनाता रहा कॉमेडियन; मिली सिर कटी लाश",international,crime,0.98836005,False
+mBERT,Marathi,दुबईच्या राजाचा घटस्फोट; पत्नी मालामाल!,international,crime,0.9882178,False
+mBERT,Malayalam,ആദ്യ ത്രീ​ഡി പ്രി​ന്റ് റോ​ക്ക​റ്റ് വി​ക്ഷേ​പ​ണം മാറ്റിവെച്ചു,technology,sports,0.98816675,False
+IndicBERT-v2,Malayalam,"ഫോ​ൺ പി​ടി​ച്ചെ​ടു​ത്തു; 14കാ​രി സ്കൂ​ൾ ഡോ​ർ​മി​റ്റ​റി​ക്ക് ​തീ​വെ​ച്ചു, 19 മ​ര​ണം",international,crime,0.98806655,False
+mBERT,Tamil,பெங்களூருவில் ஒப்பந்ததாரர்களின் வீடுகளில் நடந்த‌ வருமான வரி சோதனையில் ரூ.95 கோடி ரொக்கம் பறிமுதல்,entertainment,crime,0.988052,False
+mBERT,Tamil,காரக்பூர் ஐஐடி-யில் தெலங்கானா மாணவர் தற்கொலை: போலீஸ் விசாரணை,entertainment,crime,0.9878615,False
+IndicBERT-v2,Hindi,"Bomb Threat: तेहरान से चीन जा रहे विमान में बम की खबर, पायलट ने दिल्ली ATC से मांगी थी मदद",crime,international,0.98780686,False
+mBERT,Malayalam,അഡ്വാൻസ് തിരികെ നൽകിയതിന്‍റെ ബാങ്ക് സ്റ്റേറ്റ്മെന്‍റ് അടക്കം പുറത്തുവിട്ട് ആന്‍റണി വർഗീസ്,entertainment,technology,0.987806,False
+XLM-RoBERTa,Malayalam,"ഗംഗാതീരത്ത് മദ്യപിച്ച ഇസ്രായേലി ടൂറിസ്റ്റുകളെ വളഞ്ഞിട്ട് മർദിച്ചു, രക്ഷപ്പെടാൻ കക്കൂസിൽ കയറി ഒളിച്ചു; 500 രൂപ പിഴയിട്ട് വിട്ടയച്ചു",crime,international,0.98779964,False
+mBERT,Telugu,Google New Feature: డాక్టర్ ప్రిస్క్రిప్షన్‌ అర్థం కావట్లేదా! ఇకపై సులువుగా డీకోడ్ చేసేయొచ్చు - గూగుల్‌ కొత్త ఫీచర్ వచ్చేస్తోంది,international,technology,0.9877642,False
+XLM-RoBERTa,Tamil,"காசா மீது 6 நாட்களில் 6,000 குண்டுகள் வீச்சு - ‘இடைவிடாமல் தாக்குவோம்’ என ஹமாஸுக்கு இஸ்ரேல் எச்சரிக்கை",entertainment,international,0.9877002,False
+mBERT,Hindi,इस बार MLA बनकर दिखा दो- BJP प्रत्याशी से भिड़े मुजफ्फरनगर के ग्रामीण; पूर्व IAS ने वीडियो शेयर कर ली चुटकी,entertainment,crime,0.9876875,False
+IndicBERT-v2,Malayalam,സ്വ​യം നി​ർ​മി​ച്ച ബൈ​ക്കു​മാ​യി   പ​ത്താം ക്ലാ​സ് വി​ദ്യാ​ർ​ഥി,technology,sports,0.98766464,False
+IndicBERT-v2,Hindi,OTT पर मौजूद टॉप 5 बेहतरीन क्राइम थ्रिलर शो जो हैं सस्पेंस और रोमांच से भरपूर,crime,entertainment,0.9874972,False
+mBERT,Malayalam,നെറ്റ്ഫ്ളിക്സിനെതിരെ ​ഗുരുതര ആരോപണവുമായി തല്ലുമാല ടീം,entertainment,sports,0.9870904,False
+mBERT,Tamil,"விஷால், எஸ்.ஜே.சூர்யாவின் ‘மார்க் ஆண்டனி’ அக்.13-ல் ஓடிடியில் ரிலீஸ்",entertainment,sports,0.9869911,False
+XLM-RoBERTa,Malayalam,ബി.ബി.സി ടോപ് ഗിയർ ഇന്ത്യ അവാർഡ് സ്വന്തമാക്കി ദുൽഖർ സൽമാൻ,entertainment,sports,0.98674613,False
+IndicBERT-v2,Tamil,"தமிழகத்தில் 1,567 காவல் நிலையங்களில் ரூ.38.35 கோடியில் சிசிடிவி கேமராக்கள்: அரசு தகவல்",crime,entertainment,0.9867378,False
+mBERT,Tamil,5 ஆண்டுகளில் களம் கண்டது வெறும் 8 டெஸ்ட்கள் - புறக்கணிப்புகளை மீறி நிரூபிக்கும் குல்தீப் யாதவ்!,sports,technology,0.98672014,False
+mBERT,Telugu,Mega Millions Jackpot: అదృష్టం అంటే అతడిది - లాటరీలో 13 వేల కోట్ల జాక్ పాట్,international,technology,0.98667383,False
+XLM-RoBERTa,Hindi,"भारत के खिलाफ मैच में ब्रायन लारा की हुई थी बेइज्जती, ड्रेसिंग रूम से फेंक दिया गया था किटबैग",international,sports,0.98656917,False
+IndicBERT-v2,Tamil,''ஹமாஸ் அழிக்கப்படும் வரை இஸ்ரேல் ஓயாது'' - புதினிடம் நேதன்யாகு உறுதி,entertainment,international,0.9864907,False
+mBERT,Marathi,'या' देशात दारू पिणाऱ्यांमुळे पसरला कोरोना? आता टेस्टसाठी लागतायत लांबच लांब रांगा,international,sports,0.9864326,False
+XLM-RoBERTa,Telugu,"Gun Fire in US: అమెరికాలో మరోసారి కాల్పుల కలకలం - ఆరుగురి హత్య, నిందితుడూ మృతి",crime,international,0.9861434,False
+mBERT,Hindi,"Wrestlers News: बृजभूषण सिंह का दावा- महिला पहलवान के स्तन पर नहीं योग सिखाते हुए अपने पेट पर लगाया हाथ, BJP सांसद ने पूछताछ में बेटे की आत्महत्या का भी किया जिक्र",crime,sports,0.9861021,False
+mBERT,Tamil,மானாமதுரை அருகே அரசு பள்ளியை தரம் உயர்த்தாததால் படிப்பை பாதியில் கைவிடும் மாணவிகள்,entertainment,crime,0.98585224,False
+mBERT,Hindi,"भारत के खिलाफ मैच में ब्रायन लारा की हुई थी बेइज्जती, ड्रेसिंग रूम से फेंक दिया गया था किटबैग",international,sports,0.98575914,False
+XLM-RoBERTa,Marathi,नीरज चोप्रा इंग्रजीऐवजी हिंदीतच का बोलतो? कारण ऐकून कौतुक कराल...,sports,entertainment,0.98557824,False
+XLM-RoBERTa,Malayalam,പ്രതിഷേധക്കാരെ പിന്തുണച്ചതിന് ജയിലിലടച്ച നടിയെ ഇറാൻ വിട്ടയച്ചു,international,entertainment,0.9855386,False
+IndicBERT-v2,Tamil,கிரிக்கெட் உட்பட 5 விளையாட்டுகள் 2028-ம் ஆண்டு ஒலிம்பிக்கில் சேர்ப்பு,entertainment,sports,0.98529184,False
+mBERT,Tamil,ஆபரேஷன் அஜய் | இஸ்ரேலில் உள்ள இந்தியர்களை மீட்கும் திட்டம்,international,sports,0.98523235,False
+IndicBERT-v2,Telugu,Krishnamma kalipindi iddarini July 20th: మొదటి రోజే గౌరీని బాధపెట్టిన అఖిల.. రోడ్డునపడ్డ పరిస్థితికి వచ్చిన సౌదామిని ఫ్యామిలీ?,entertainment,crime,0.9852306,False
+XLM-RoBERTa,Marathi,"बॉस असावा तर असा...! स्वखर्चानं कर्मचाऱ्यांना घेऊन गेला परदेशवारीला, १४ दिवस 'बाली'त धमाल",international,entertainment,0.9852228,False
+mBERT,Hindi,"एक बॉलीवुड अभिनेता की तस्वीर कैसे बनी डॉन श्रीप्रकाश शुक्ला के एनकाउंटर की वजह, पढ़िए यह दिलचस्प किस्सा",crime,entertainment,0.9851643,False
+XLM-RoBERTa,Tamil,இந்தியாவின் முதல் செங்குத்து லிஃப்ட் ரயில்வே கடல் பாலம் - பாம்பன் மறுசீரமைப்பு பணிகள் 84% நிறைவு,technology,entertainment,0.98513454,False
+IndicBERT-v2,Hindi,इस बार MLA बनकर दिखा दो- BJP प्रत्याशी से भिड़े मुजफ्फरनगर के ग्रामीण; पूर्व IAS ने वीडियो शेयर कर ली चुटकी,entertainment,crime,0.9851242,False
+mBERT,Hindi,"भारतीय क्रिकेटर्स को गाली बकते थे अजहर महमूद; पाकिस्तानी ऑलराउंडर ने कबूला सच, सचिन तेंदुलकर को भी कही यह बात",international,sports,0.9850604,False
+mBERT,Telugu,MS Dhoni Tamil Film: ధోనీ ఎంటర్టైన్ మెంట్ తొలి సినిమా- పూజా కార్యక్రమాల పిక్స్ వైరల్,sports,entertainment,0.98503935,False
+IndicBERT-v2,Tamil,"""வடக்கிலிருந்து வெளியேறுங்கள்; இல்லாவிட்டால் தீவிரவாதிகளாகக் கருதுவோம்"" - காசாவாசிகளுக்கு இஸ்ரேல் அவசர எச்சரிக்கை",entertainment,international,0.98503083,False
+mBERT,Hindi,"सीमा की तरह प्यार की खातिर बच्चे को लेकर बांग्लादेश से भारत आई सोनिया अख्तर, कहानी में है ट्विस्ट",crime,international,0.98487365,False
+IndicBERT-v2,Telugu,"Apple: మూడ్రోజుల్లో రెండు యాపిల్‌ స్టోర్ల ఓపెనింగ్‌, రిబ్బన్‌ కటింగ్‌కు రానున్న టిమ్‌ కుక్‌!",international,technology,0.9846734,False
+XLM-RoBERTa,Hindi,"भारतीय क्रिकेटर्स को गाली बकते थे अजहर महमूद; पाकिस्तानी ऑलराउंडर ने कबूला सच, सचिन तेंदुलकर को भी कही यह बात",international,sports,0.9845718,False
+XLM-RoBERTa,Tamil,''ஹமாஸ் அழிக்கப்படும் வரை இஸ்ரேல் ஓயாது'' - புதினிடம் நேதன்யாகு உறுதி,entertainment,international,0.98423994,False
+IndicBERT-v2,Tamil,டெல்லியில் ரூ.294 கோடி போதைப் பொருள் அழிப்பு,entertainment,crime,0.9841816,False
+XLM-RoBERTa,Malayalam,തകർത്തടിച്ച് ഗില്ലും സാഹയും; റൺമല തീർത്ത് ഗുജറാത്ത്,sports,entertainment,0.9841307,False
+IndicBERT-v2,Tamil,காரக்பூர் ஐஐடி-யில் தெலங்கானா மாணவர் தற்கொலை: போலீஸ் விசாரணை,entertainment,crime,0.98363197,False
+mBERT,Telugu,"China Battery: ఆడుకుంటుండగా పేలిన చైనా బ్యాటరీ, 9 ఏళ్ల బాలుడి పరిస్థితి విషమం",crime,international,0.98362744,False
+mBERT,Hindi,"इक्वाडोर की जेल में बंद ड्रग्स माफियाओं के बीच गैंगवार, 68 की मौत, 25 घायल",international,crime,0.98361224,False
+XLM-RoBERTa,Tamil,கரூர் மணல் குவாரிகளில் 3-வது முறையாக அமலாக்கத்துறை சோதனை,entertainment,crime,0.98340076,False
+mBERT,Hindi,बजरंग पूनिया को मानहानि केस में राहत! दिल्ली की अदालत ने पेशी के लिए दी एक दिन की छूट,sports,crime,0.9833634,False
+XLM-RoBERTa,Telugu,"రేవ్‌ పార్టీ కల్చర్‌ భారత్‌కు ఎలా వచ్చింది, అసలు రేవ్‌  పార్టీలో ఏం జరుగుతుంది ?",crime,international,0.98327535,False
+mBERT,Hindi,"America: खूबसूरत मॉडल ने बॉयफ्रेंड से कहासुनी के बाद उठाया ऐसा कदम, पड़ोसियों ने भी लगाया बड़ा आरोप",crime,international,0.9830888,False
+IndicBERT-v2,Tamil,"காசா மீது 6 நாட்களில் 6,000 குண்டுகள் வீச்சு - ‘இடைவிடாமல் தாக்குவோம்’ என ஹமாஸுக்கு இஸ்ரேல் எச்சரிக்கை",entertainment,international,0.9827869,False
+mBERT,Marathi,"""मी दोन नोकऱ्या करते पण तरीही रोज रात्री मिळत नाही जेवण कारण...""; 'तिने' मांडली व्यथा",international,entertainment,0.982624,False
+XLM-RoBERTa,Hindi,"दिन में 15 घंटे काम, जबरन साइबर क्राइम और इलेक्ट्रिक शॉक- थाईलैंड में दिया जॉब का झांसा, म्यांमार में बंधक बनाए गए 300 भारतीय",crime,international,0.9826066,False
+XLM-RoBERTa,Malayalam,താൻ ശിവന്‍റെ അവതാരമെന്ന് അവകാശപ്പെട്ട് വയോധികൻ സ്ത്രീയെ അടിച്ച് കൊന്നു,crime,entertainment,0.9825404,False
+XLM-RoBERTa,Telugu,Mask: టైమ్ బ్యాడ్... పదహారు సెకన్ల పాటూ మాస్క్ తీసినందుకు రూ.2 లక్షల ఫైన్,international,entertainment,0.98238844,False
+mBERT,Hindi,"IPL 2023 से पहले बड़ी साझेदारी! वनप्लस टीवी यूजर्स के लिए खुशखबरी, फ्री देख पाएंगे JioCinema",technology,sports,0.98234504,False
+XLM-RoBERTa,Hindi,"सीमा की तरह प्यार की खातिर बच्चे को लेकर बांग्लादेश से भारत आई सोनिया अख्तर, कहानी में है ट्विस्ट",crime,international,0.9822412,False
+mBERT,Hindi,कोरोना के कमजोर पड़ते ही मजबूत हुआ बालीवुड,entertainment,international,0.9822318,False
+mBERT,Tamil,"தான்சானியா | தேடுதல், மீட்பு நடவடிக்கைகளுக்காக எலிகளுக்கு சிறப்பு பயிற்சி",technology,international,0.98220575,False
+mBERT,Malayalam,91 കുട്ടികളെ ലൈംഗികമായി പീഡിപ്പിച്ചു; ശിശു സംരക്ഷണ കേന്ദ്രത്തിലെ മുൻ ജീവനക്കാരൻ പിടിയിൽ,international,crime,0.9820358,False
+XLM-RoBERTa,Malayalam,പു​രു​ഷ​ 4x400 മീ​റ്റ​ർ റി​ലേയിൽ ഇ​ന്ത്യ അ​ഞ്ചാ​മ​ത്; മ​ല​യാ​ളി മേ​ധാ​വി​ത്വം,sports,technology,0.9818939,False
+mBERT,Telugu,"Muttiah Muralitharan Movie : '800'లో క్రికెట్టే కాదు, అంతకు మించి -  అక్టోబర్ తొలి వారంలో ముత్తయ్య బయోపిక్",sports,entertainment,0.98187953,False
+mBERT,Hindi,दुनिया की पहली महिला हाईजैकर जिसने फिलिस्तीन को आजाद कराने का देखा था सपना,crime,international,0.981862,False
+mBERT,Hindi,"‘एक मौका आप को, न दिन में बिजली ना रात को…’ पंजाब में बिजली कटौती पर सिद्धू का शेर, लोग लेने लगे मजे",entertainment,crime,0.9817753,False
+mBERT,Telugu,"Actor Manoj: సహజీవనం చేస్తున్న భార్య వద్దకు భర్త, గాల్లోకి నటుడు మనోజ్ కాల్పులు - అసలేం జరిగిందంటే?",crime,entertainment,0.98158514,False
+IndicBERT-v2,Hindi,"T20 वर्ल्ड कप: पाकिस्तान क्रिकेट बोर्ड ने फिर किया टीम में बदलाव, सानिया मिर्जा के पति की लगी लॉटरी",international,sports,0.9815377,False
+mBERT,Marathi,नीरज चोप्रा इंग्रजीऐवजी हिंदीतच का बोलतो? कारण ऐकून कौतुक कराल...,sports,entertainment,0.9813131,False
+mBERT,Tamil,ம.பி.யில் துப்புரவு தொழிலாளியிடம் ரூ.47 லட்சம் பழைய நோட்டுகள் பறிமுதல்,entertainment,crime,0.9812723,False
+mBERT,Malayalam,"ചന്ദ്രനിലിറങ്ങി ചന്ദ്രയാൻ 3, ചരിത്രം തിരുത്തി ഇന്ത്യ; അഭിമാനമായി ഐ.എസ്.ആർ.ഒ",technology,entertainment,0.98110056,False
+IndicBERT-v2,Malayalam,ദ​ക്ഷി​ണ കൊ​റി​യ​യി​ൽ പേ​മാ​രി; 20 മ​ര​ണം,international,crime,0.9810415,False
+XLM-RoBERTa,Malayalam,നെറ്റ്ഫ്ളിക്സിനെതിരെ ​ഗുരുതര ആരോപണവുമായി തല്ലുമാല ടീം,entertainment,sports,0.98102486,False
+XLM-RoBERTa,Hindi,"कश्मीर प्रीमियर लीग को लेकर शोएब अख्तर ने कहा-‘खेल होना चाहिए खून-खराबा नहीं’, लोगों ने किए ऐसे कमेंट्स; देखें Video",international,sports,0.98102427,False
+mBERT,Tamil,கமிஷன் தொகை விவகாரத்தில் காப்பீட்டு நிறுவன உதவி மேலாளரை கடத்திய 3 பேர் கைது,entertainment,crime,0.9809396,False
+mBERT,Hindi,"सारे भारतीय मुसलमानों को कन्वर्ट होकर हिंदू बन जाना चाहिए, उन्हें कोई बचाने नहीं आएगा- एक्टर ने दी सलाह, लोग करने लगे खिंचाई",entertainment,international,0.98089796,False
+mBERT,Malayalam,ഇമ്രാൻ ഖാൻ ‘അഭിനയത്തിൽ ഷാരൂഖിനെയും സൽമാനെയും പിന്നിലാക്കി’; പരിഹാസവുമായി പിഡിഎം നേതാവ്,international,entertainment,0.9808493,False
+mBERT,Hindi,"अमेरिकी हाउस स्पीकर नैंसी पेलोसी के पति को हुई जेल, शराब पीकर चला रहे थे गाड़ी",crime,international,0.9806975,False
+XLM-RoBERTa,Malayalam,കപ്പ് കേക്കുകളും സാൻഡ്‍വിച്ചും മധുര പലഹാരങ്ങളും...ജിൽ ബൈഡന് വിരുന്നൊരുക്കി ​ഋഷി സുനക്കും അക്ഷതയും,international,sports,0.9806091,False
+mBERT,Tamil,கிரிக்கெட் உட்பட 5 விளையாட்டுகள் 2028-ம் ஆண்டு ஒலிம்பிக்கில் சேர்ப்பு,entertainment,sports,0.9805414,False
+IndicBERT-v2,Tamil,"இஸ்ரேலை குறிவைத்து ஹமாஸ் மீண்டும் தாக்குதல்: இரு தரப்பு பலி 1,800 ஆக அதிகரிப்பு",entertainment,international,0.98005116,False
+mBERT,Telugu,"కిడ్నాప్ చేస్తున్నాడన్న డౌట్‌తో ఉబర్‌ డ్రైవర్‌పై కాల్పులు, పరిస్థితి విషమం",international,crime,0.979982,False
+IndicBERT-v2,Hindi,"शाकिब अल हसन ने T20 इंटरनेशनल में रचा इतिहास, बांग्लादेश ने पहली बार ऑस्ट्रेलिया से जीती सीरीज; कंगारू टीम ने बनाया शर्मनाक रिकॉर्ड",international,sports,0.9798503,False
+mBERT,Hindi,"दिन में 15 घंटे काम, जबरन साइबर क्राइम और इलेक्ट्रिक शॉक- थाईलैंड में दिया जॉब का झांसा, म्यांमार में बंधक बनाए गए 300 भारतीय",crime,international,0.9797488,False
+mBERT,Malayalam,കൂട്ടബലാത്സംഗത്തിൽ പരാതി നൽകിയിട്ടും പ്രതികളെ പിടികൂടിയില്ല; യു.പിയിൽ പരാതിക്കാരിയും ഭർത്താവും ആത്മഹത്യക്ക് ശ്രമിച്ചു,crime,international,0.97970724,False
+XLM-RoBERTa,Tamil,சென்சார் போர்டில் ஊழல் விவகாரம்: விஷால் புகாரில் சிபிஐ வழக்குப் பதிவு,entertainment,crime,0.97967726,False
+mBERT,Tamil,‘நான் ரெடிதான் வரவா’ - பயிற்சியில் ஈடுபடும் படத்தைப் பகிர்ந்த பும்ரா,sports,entertainment,0.9796259,False
+mBERT,Marathi,ओटीपी शेअर न करता या बॉलिवूड अभिनेत्रीची लाखोंची फसवणूक;वाचा नेमकं काय घडल?,crime,entertainment,0.9794724,False
+XLM-RoBERTa,Tamil,அசாமின் 2 மாவட்டங்களில் பாகிஸ்தான் ஏஜென்டுகளுக்கு சிம் கார்டுகள் சப்ளை செய்த 5 பேர் கைது,crime,international,0.979446,False
+mBERT,Marathi,"वाह रे पठाण! Irfan Pathan ने पाकिस्तानच्या पंतप्रधानांना सुनावले; म्हणाला, तुम्ही दुसऱ्याच्या दुःखात आनंदी होणारे...",sports,international,0.9791864,False
+mBERT,Hindi,"सऊदी अरब के इतिहास में पहली बार 81 लोगों को एक साथ दी गई फांसी, आतंकी संगठनों से जुड़े होने का था आरोप",crime,international,0.978878,False
+mBERT,Tamil,இலங்கை போராட்டம் | ரணில் விக்ரமசிங்கே வீட்டிற்கு தீ வைத்த ஆர்ப்பாட்டக்காரர்கள்,international,sports,0.97886455,False
+mBERT,Telugu,"Actor Manoj Remand: శామీర్‌పేట్‌ కాల్పుల ఘటనలో నటుడు మనోజ్‌కు రిమాండ్‌, చర్లపల్లి జైలుకు తరలింపు",crime,entertainment,0.97879857,False
+mBERT,Marathi,Twitter Blue Tick : 29 नोव्हेंबरला लाँच होणार नाही ब्लू टिक सबस्क्रिप्शन प्लॅन; 'या' कारणामुळे इलॉन मस्क यांनी बदलली रणनीती,international,technology,0.9786017,False
+XLM-RoBERTa,Malayalam,ശനിയെക്കാണാൻ ടെലസ്​കോപ്പുമായി നടുറോഡിലിറങ്ങി വയോധികൻ; ജനം കൂടിയതോടെ ഗതാഗതസ്തംഭനം -വിഡിയോ,international,technology,0.97835827,False
+mBERT,Malayalam,സൂപ്പർ വില്ലൻമാരായി അദാനിയും അംബാനിയും; പിന്നിൽ ‘നിർമിത ബുദ്ധി’,technology,entertainment,0.97795326,False
+IndicBERT-v2,Marathi,"शेअर, लाइक्स अन् फेम... 'रुको जरा सब्र करो...!'",technology,entertainment,0.97779924,False
+mBERT,Malayalam,മഞ്ജു വാര്യരെ വീണ്ടും വിസ്തരിക്കുന്നതിനെതിരെ ദിലീപ്; എതിർത്ത് സംസ്ഥാനം സുപ്രീം കോടതിയിൽ,entertainment,crime,0.97768503,False
+IndicBERT-v2,Telugu,"నడక దారిలో దాడులు జరుగుతుంటే ఏం చేస్తున్నారు? టీటీడీని ప్రశ్నిస్తున్న ప్రతిపక్షాలు, భక్తులు",crime,entertainment,0.9776493,False
+XLM-RoBERTa,Telugu,AP SAP Godava : అవినీతి ఆరోపణల గుప్పిట్లో శాప్ - చైర్మన్ బైరెడ్డి సిద్ధార్థ రెడ్డి ఏం చేశారంటే ?,sports,crime,0.9772052,False
+mBERT,Telugu,"బ్రేకప్ చెప్పిందని గర్ల్‌ఫ్రెండ్‌ని చంపేసిన టీనేజర్, గన్‌తో ఐదు రౌండ్ల కాల్పులు",international,sports,0.97716117,False
+XLM-RoBERTa,Marathi,ऑफर सुरू होती म्हणून केली संपूर्ण कुटुंबाची DNA Test अन् 'बाप' निघाला कुणी दुसराच,international,crime,0.9770612,False
+IndicBERT-v2,Tamil,"காசா சுற்றுப் பகுதிகளில் 1,500 ஹமாஸ் இயக்கத்தினரின் உடல்கள் கண்டெடுப்பு: இஸ்ரேல் ராணுவம்",entertainment,international,0.97689295,False
+XLM-RoBERTa,Marathi,"""तू माझा झाला नाहीस तर मी तुला कोणाचाच होऊ देणार नाही""; 'तिने' तरुणावर फेकलं अ‍ॅसिड",crime,entertainment,0.97685575,False
+IndicBERT-v2,Hindi,"विराट कोहली के साथी खिलाड़ी को दिल्ली पुलिस ने पीटा, मचा बवाल",crime,sports,0.97673506,False
+IndicBERT-v2,Hindi,"पेनल्टी शूटआउट में इंग्लैंड को हरा इटली ने जीता यूरो कप, कीवी क्रिकेटर जेम्स नीशम ने इस तरह उड़ाया मजाक",international,sports,0.9767269,False
+mBERT,Telugu,Oppenheimer: ‘ఓపెన్ హైమర్’ మూవీపై మండిపడ్డ కేంద్ర మంత్రి - ఆ సన్నివేశాలను తొలగించాలని డిమాండ్!,entertainment,international,0.9767249,False
+mBERT,Telugu,"Siddharth: ఎట్టకేలకు నోరు విప్పిన సిద్ధార్థ్, బెంగళూరు అవమానంపై ఇంట్రెస్టింగ్ కామెంట్స్",entertainment,crime,0.97665954,False
+mBERT,Telugu,Top Headlines Today:  ఇవాళ్టి షెడ్యూల్‌లో ఏమున్నాయంటే?,international,technology,0.97660214,False
+IndicBERT-v2,Malayalam,സീരിയൽ കില്ലർ ചാൾസ് ശോഭരാജ് ജയിൽ മോചിതനാകുന്നു,international,entertainment,0.97642756,False
+mBERT,Tamil,அரசு மருத்துவமனைக்குள் புகுந்து இருவரை அரிவாளால் வெட்டிய மர்ம கும்பல் - விருதுநகரில் பரபரப்பு,crime,entertainment,0.97628546,False
+mBERT,Telugu,Naveen reddy Video : వైశాలి వెర్షన్ విన్నారు.. ఇక నవీన్ రెడ్డి చెప్పేదేంటో తెలుసా ? ఆదిభట్ల కిడ్నాప్ కేసులో ఇంకో కోణం ఇదే  !,crime,entertainment,0.97625864,False
+XLM-RoBERTa,Malayalam,സൂപ്പർ വില്ലൻമാരായി അദാനിയും അംബാനിയും; പിന്നിൽ ‘നിർമിത ബുദ്ധി’,technology,entertainment,0.97622037,False
+mBERT,Malayalam,ബി.ബി.സി ടോപ് ഗിയർ ഇന്ത്യ അവാർഡ് സ്വന്തമാക്കി ദുൽഖർ സൽമാൻ,entertainment,sports,0.9760928,False
+XLM-RoBERTa,Telugu,"Actor Manoj: సహజీవనం చేస్తున్న భార్య వద్దకు భర్త, గాల్లోకి నటుడు మనోజ్ కాల్పులు - అసలేం జరిగిందంటే?",crime,entertainment,0.9760626,False
+mBERT,Marathi,धक्कादायक! हॉटेल रुममध्ये गर्लफ्रेंडसोबतच्या सेक्सनंतर इंग्लंडच्या खेळाडूचा मृत्यू; महिलाही जखमी,international,sports,0.97594357,False
+mBERT,Marathi,"एलॉन मस्क घेतात 'श्रीरामांचा' सल्ला, ट्विटरच्या मालकांचा पडद्यामागील सिनेमा",international,entertainment,0.9752353,False
+XLM-RoBERTa,Malayalam,"‘ദൗത്യം പൂർത്തിയായി, ലാന്ററും റോവറും ഉണർന്നില്ലെങ്കിലും പ്രശ്നമില്ല’",technology,sports,0.97522414,False
+IndicBERT-v2,Tamil,அலுவலகத்திலேயே தூங்கும் ட்விட்டர் நிறுவன ஊழியர்கள்: எலான் மஸ்க் ஏற்பாடு,international,technology,0.9751388,False
+mBERT,Malayalam,"ഗംഗാതീരത്ത് മദ്യപിച്ച ഇസ്രായേലി ടൂറിസ്റ്റുകളെ വളഞ്ഞിട്ട് മർദിച്ചു, രക്ഷപ്പെടാൻ കക്കൂസിൽ കയറി ഒളിച്ചു; 500 രൂപ പിഴയിട്ട് വിട്ടയച്ചു",crime,international,0.9749399,False
+mBERT,Marathi,धक्कादायक! पत्नीने 'भाजी घेऊन या' म्हणताच पती संतापला; भररस्त्यात केली बेदम मारहाण,crime,entertainment,0.9748341,False
+mBERT,Tamil,அவர்கள் படிக்கட்டும்: ஆப்கன் பெண்களுக்கு கிரிக்கெட் வீரர் ரஷீத் கான் ஆதரவுக் குரல்,international,sports,0.97459656,False
+mBERT,Malayalam,"ഞങ്ങളുടെ മനോഹര നിമിഷം, മറ്റുള്ളവരെ ബോധിപ്പിക്കേണ്ട ആവശ്യമില്ല; സണ്ണിക്കും ബോബിക്കുമൊപ്പമുള്ള  വൈറൽ ഫോട്ടോയെക്കുറിച്ച് ഇഷ",entertainment,technology,0.974294,False
+XLM-RoBERTa,Marathi,"Video: पंतप्रधानांना ओळखण्यात न्यूज अँकरकडून झाली मोठी चूक, म्हणाली 'हे तर...""",international,technology,0.97419125,False
+XLM-RoBERTa,Tamil,கருந்துளை ஒளி எதிரொலிகளை ஒலி அலையாக மாற்றிய நாசா,international,technology,0.9734807,False
+mBERT,Hindi,"Pervez Musharraf Death: आज भी दिल्ली में रहते हैं परवेज मुशर्रफ के रिश्तेदार, जानिए कितनी बदल गई दरियांगज की हवेली",international,crime,0.9732998,False
+mBERT,Tamil,அசாமின் 2 மாவட்டங்களில் பாகிஸ்தான் ஏஜென்டுகளுக்கு சிம் கார்டுகள் சப்ளை செய்த 5 பேர் கைது,crime,international,0.9732492,False
+mBERT,Hindi,"जब ‘आश्रम-3’ के एक्टर को उनके ही भाई ने इस गलत हरकत के कारण जड़ दिया था थप्पड़, खुद किया खुलासा",entertainment,crime,0.97320503,False
+mBERT,Tamil,"சிவகாசியில் அதிகரிக்கும் போதைப் பொருள் விற்பனை: பள்ளி, கல்லூரி மாணவர்கள் பாதிப்பு",crime,entertainment,0.97301304,False
+IndicBERT-v2,Telugu,Bank Fraud Cases India: బ్యాంకులకు రూ.22వేల కోట్ల షాక్‌ - దేశంలో అతిపెద్ద బ్యాంకు మోసాలివి!,international,crime,0.97295433,False
+mBERT,Marathi,आयलानी कुटुंबातील चौघांविरोधात गुन्हा; दुकानातील कामगाराचा मारहाणीत समावेश,crime,international,0.9727858,False
+IndicBERT-v2,Hindi,"सीमा की तरह प्यार की खातिर बच्चे को लेकर बांग्लादेश से भारत आई सोनिया अख्तर, कहानी में है ट्विस्ट",crime,entertainment,0.9727734,False
+XLM-RoBERTa,Marathi,ओटीपी शेअर न करता या बॉलिवूड अभिनेत्रीची लाखोंची फसवणूक;वाचा नेमकं काय घडल?,crime,entertainment,0.97227997,False
+IndicBERT-v2,Hindi,"America: खूबसूरत मॉडल ने बॉयफ्रेंड से कहासुनी के बाद उठाया ऐसा कदम, पड़ोसियों ने भी लगाया बड़ा आरोप",crime,international,0.97215825,False
+mBERT,Tamil,சக பணியாளரை கொன்றவருக்கு ஆயுள்: செங்கை மாவட்ட நீதிமன்றம் தீர்ப்பு,crime,entertainment,0.9716461,False
+XLM-RoBERTa,Malayalam,'പെഗസസ്​ കാരണം എല്ലാവരും രാത്രി സമാധാനമായി ഉറങ്ങുന്നു'; വിചിത്ര ന്യായീകരണവുമായി ഇസ്രായേലി മാതൃകമ്പനി,technology,international,0.9715486,False
+XLM-RoBERTa,Malayalam,"ഇനി കടം വാങ്ങേണ്ട, ഗൗതമിനും കൂട്ടർക്കും പോൾ സ്വന്തമായി",sports,entertainment,0.97069913,False
+mBERT,Marathi,"Fraud Baba : धक्कादायक! या भोंदू बाबाकडे सापडले तब्बल 11 मृतदेह, शिष्यांना देत होता मल-मूत्र खाण्याचा सल्ला",international,crime,0.9706683,False
+mBERT,Hindi,"बंटवारे में बिछड़ा परिवार, 92 साल के सरवन सिंह की भतीजे अब्‍दुल खालिक से 75 साल बाद हुई मुलाकात, करतारपुर साहिब में हुआ आमना-सामना",international,crime,0.97040623,False
+mBERT,Telugu,Top 10 Headlines Today: లేటెస్ట్ అప్‌డేట్స్‌తో మార్నింగ్ టాప్‌ టెన్స్‌ న్యూస్,international,technology,0.9703711,False
+XLM-RoBERTa,Malayalam,കുട്ടികളെ പീഡിപ്പിച്ചു; കുവൈത്തില്‍ പ്രവാസിയായ മത അധ്യാപകനെ തൂക്കിക്കൊല്ലാന്‍ കോടതി വിധി,international,crime,0.9702219,False
+mBERT,Tamil,டெல்லியில் ரூ.294 கோடி போதைப் பொருள் அழிப்பு,entertainment,international,0.9699802,False
+XLM-RoBERTa,Tamil,தமிழகம் முழுவதும் செயலி முன்பதிவு வாகனங்கள் இன்று முதல் 3 நாட்கள் வேலைநிறுத்தம்,entertainment,technology,0.96983385,False
+mBERT,Hindi,अयोध्या के बाद DM उन्नाव ही क्यों पीछे रहें?- पार्क में लगे झूले का रंग बदला तो लोगों ने ऐसे लिए मजे,entertainment,international,0.96978,False
+XLM-RoBERTa,Malayalam,"ചരിത്രം സൃഷ്ടിച്ച്  ഷാറൂഖ് ഖാൻ, ജവാൻ 1000 കോടി ക്ലബ്ബിൽ; സന്തോഷം പങ്കുവെച്ച്  റെഡ് ചില്ലീസ്",entertainment,sports,0.96953154,False
+mBERT,Marathi,"""तू माझा झाला नाहीस तर मी तुला कोणाचाच होऊ देणार नाही""; 'तिने' तरुणावर फेकलं अ‍ॅसिड",crime,entertainment,0.9691328,False
+mBERT,Hindi,"लड़ाकों से घिरा, मौत को सामने देख कर भी तालिबान पर चुटकुले सुनाता रहा कॉमेडियन; मिली सिर कटी लाश",international,crime,0.9690972,False
+XLM-RoBERTa,Telugu,Top 10 Headlines Today: లేటెస్ట్ అప్‌డేట్స్‌తో మార్నింగ్ టాప్‌ టెన్స్‌ న్యూస్,international,sports,0.96888375,False
+mBERT,Hindi,"जूता पहनने का भी नहीं मिला मौका, चप्पल पहनकर भागना पड़ा, बोले अशरफ गनी",international,entertainment,0.9684568,False
+IndicBERT-v2,Malayalam,മോദിക്കെതിരേ വാർത്ത നൽകിയതിന്​ സൈബർ ആക്രമണത്തിന്​ ഇരയായെന്ന്​​ ദക്ഷിണാഫ്രിക്കൻ​ വെബ്​സൈറ്റ്​,international,technology,0.9683414,False
+IndicBERT-v2,Telugu,"Actor Manoj: సహజీవనం చేస్తున్న భార్య వద్దకు భర్త, గాల్లోకి నటుడు మనోజ్ కాల్పులు - అసలేం జరిగిందంటే?",crime,entertainment,0.96830475,False
+mBERT,Malayalam,"ഇനി കടം വാങ്ങേണ്ട, ഗൗതമിനും കൂട്ടർക്കും പോൾ സ്വന്തമായി",sports,technology,0.9679355,False
+XLM-RoBERTa,Tamil,2030-ம் ஆண்டில் இந்தியா உலகின் 3-வது பெரிய பொருளாதார நாடாக மாறும்: சர்வதேச பொருளாதார மதிப்பீட்டு நிறுவனம் தகவல்,entertainment,international,0.967611,False
+IndicBERT-v2,Marathi,"संतापजनक! १८ वर्षीय बास्केटबॉलपटूवर बलात्काराचा प्रयत्न, तीन तरुणांनी स्टेडियमच्या छतावरून फेकले खाली",sports,crime,0.96753156,False
+XLM-RoBERTa,Tamil,ட்விட்டர் சிஇஓ பதவியில் இருந்து எலான் மஸ்க் வெளியேற 57 சதவீதம் பேர் விருப்பம்,international,technology,0.9673845,False
+XLM-RoBERTa,Tamil,அவர்கள் படிக்கட்டும்: ஆப்கன் பெண்களுக்கு கிரிக்கெட் வீரர் ரஷீத் கான் ஆதரவுக் குரல்,international,sports,0.9671304,False
+XLM-RoBERTa,Telugu,"Apple: మూడ్రోజుల్లో రెండు యాపిల్‌ స్టోర్ల ఓపెనింగ్‌, రిబ్బన్‌ కటింగ్‌కు రానున్న టిమ్‌ కుక్‌!",international,sports,0.96703935,False
+IndicBERT-v2,Hindi,"टोक्यो पैरालंपिक्स: इतिहास रचने के बाद भाविना पटेल ने पदक भी पक्का किया, तीरंदाज राकेश कुमार ने भी किया कमाल",international,sports,0.96683407,False
+XLM-RoBERTa,Tamil,"தான்சானியா | தேடுதல், மீட்பு நடவடிக்கைகளுக்காக எலிகளுக்கு சிறப்பு பயிற்சி",technology,international,0.9668102,False
+mBERT,Malayalam,‘പലതും തുറന്നുപറയണം’; നിർമിത ബുദ്ധിയുടെ ‘ഗോഡ്ഫാദർ’ ഗൂഗിൾ വിട്ടു,technology,entertainment,0.9666648,False
+XLM-RoBERTa,Hindi,"बीते तीन महीने से गायब हैं अर्पिता मुखर्जी की लग्जरी कारें, ड्राइवर बोला- मुझे नहीं थी बाकी गाड़ियों को चलाने की इजाजत",crime,entertainment,0.9665544,False
+XLM-RoBERTa,Marathi,"Jara Hatke: ३० वर्षे झाली, ती ‘उभी’च आहे!",international,sports,0.9665012,False
+mBERT,Telugu,Football Coach: బాలికను వేధించిన ఫుట్‌బాల్ కోచ్ - 2019 నాటి కేసులో దోషికి 20 ఏళ్ల జైలు శిక్ష,crime,sports,0.96633875,False
+mBERT,Malayalam,'പെഗസസ്​ കാരണം എല്ലാവരും രാത്രി സമാധാനമായി ഉറങ്ങുന്നു'; വിചിത്ര ന്യായീകരണവുമായി ഇസ്രായേലി മാതൃകമ്പനി,technology,international,0.9661822,False
+XLM-RoBERTa,Malayalam,"ഫോ​ൺ പി​ടി​ച്ചെ​ടു​ത്തു; 14കാ​രി സ്കൂ​ൾ ഡോ​ർ​മി​റ്റ​റി​ക്ക് ​തീ​വെ​ച്ചു, 19 മ​ര​ണം",international,crime,0.9658988,False
+mBERT,Malayalam,നാസയുടെ റോവർ ചലഞ്ചിൽ വിജയികളായി ഇന്ത്യൻ വിദ്യാർഥി സംഘം,technology,sports,0.9653766,False
+XLM-RoBERTa,Marathi,"Parag Agrawal: ट्विटरचं भविष्य अंधारात, मस्कसोबत डिल होताच पराग अग्रवालांचं भाकीत",international,technology,0.96447754,False
+mBERT,Tamil,‘டிஎன்பிஎஸ்சி குரூப் 1-க்கும் வயது வரம்பை உயர்த்துங்க...’ - 39 வயதை கடந்த போட்டித் தேர்வர்கள் எதிர்பார்ப்பு,entertainment,sports,0.9640902,False
+mBERT,Tamil,அலுவலகத்திலேயே தூங்கும் ட்விட்டர் நிறுவன ஊழியர்கள்: எலான் மஸ்க் ஏற்பாடு,international,technology,0.9638008,False
+XLM-RoBERTa,Telugu,Flight Tickets Booking: ఈ సైట్ల నుంచి ఫ్లైట్ టికెట్లు బుక్ చేస్తున్నారా? మీ సొమ్ము గోవిందా!,crime,technology,0.96365684,False
+XLM-RoBERTa,Marathi,"Salman Khan: मोठा खुलासा! सलमानची सुपारी घेणारा चिरकूट नव्हता; अल्पवयीन असला तरी पाकिस्तानी ISIशी संबंध, झाली अटक",crime,entertainment,0.96317834,False
+mBERT,Marathi,"बिल गेट्स म्हणतात, पैसा हे सर्वस्व नव्हे!",international,technology,0.96301734,False
+mBERT,Malayalam,റഷ്യയിൽ ആപ്പിൾ ഉത്പന്നങ്ങളുടെ വിതരണം നിർത്തിവെക്കണം; ടിം കുക്കിന് കത്തയച്ച് യുക്രെയ്ൻ ഉപ ​പ്രധാനമന്ത്രി,technology,international,0.96287084,False
+mBERT,Tamil,''ஹமாஸ் அழிக்கப்படும் வரை இஸ்ரேல் ஓயாது'' - புதினிடம் நேதன்யாகு உறுதி,entertainment,technology,0.9626298,False
+mBERT,Malayalam,ഷവോമിയെ ഇന്ത്യയിലെ ‘നമ്പർ വൺ സ്മാർട്ട്ഫോൺ ബ്രാൻഡാ’ക്കിയ മനു കുമാർ ജെയിൻ രാജിവെച്ചു,technology,entertainment,0.96250033,False
+mBERT,Malayalam,കളക്ഷൻ 80 കോടിയിലധികം; ‘ആർആർആർ’ ജപ്പാനിൽ പുതിയ റെക്കോർഡ് സൃഷ്ടിച്ചു,entertainment,technology,0.9620199,False
+IndicBERT-v2,Telugu,"బ్రేకప్ చెప్పిందని గర్ల్‌ఫ్రెండ్‌ని చంపేసిన టీనేజర్, గన్‌తో ఐదు రౌండ్ల కాల్పులు",international,crime,0.9619093,False
+XLM-RoBERTa,Marathi,ऋषी सुनक इतिहासाच्या उंबरठ्यावर! अधिकृत दावेदारीची केली घोषणा,international,entertainment,0.9615342,False
+mBERT,Malayalam,മഞ്ഞുപുതപ്പിനുള്ളിൽ ആറ് കോടി മത്സ്യക്കൂടുകൾ; ലോകത്തെ അമ്പരപ്പിച്ച് വെഡ്ഡെൽ കടലിലെ മഞ്ഞുമത്സ്യക്കോളനി,technology,international,0.96149606,False
+XLM-RoBERTa,Tamil,வரும் 10 ஆண்டுகளில் உலகின் முதல் 5 கப்பல் கட்டும் நாடுகளில் ஒன்றாக இந்தியா திகழும்: பிரதமர் மோடி,entertainment,international,0.96132463,False
+mBERT,Malayalam,പി.എസ്.ജി സൂപ്പർതാരത്തെ മാഞ്ചസ്റ്റർ യുനൈറ്റഡ് സ്വന്തമാക്കുമോ?,sports,technology,0.9612623,False
+XLM-RoBERTa,Malayalam,കാറപകടം: സുരാജ് വെഞ്ഞാറമൂടിനെതിരെ അലക്ഷ്യമായി വാഹനമോടിച്ചതിന് കേസ്,entertainment,crime,0.9608895,False
+mBERT,Telugu,"Samantha: అమెరికా నుంచి తిరిగి వచ్చిన సమంత, సడెన్ గా రావడానికి కారణం ఏంటో తెలుసా?",entertainment,international,0.9608423,False
+XLM-RoBERTa,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.96081173,False
+XLM-RoBERTa,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.96081173,False
+XLM-RoBERTa,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.96081173,False
+mBERT,Hindi,Twitter के पूर्व CEO जैक डोर्सी ला रहे नया सोशल प्लेटफॉर्म! जानिये क्या होगा खास,international,technology,0.9606084,False
+mBERT,Malayalam,ലാഭവിഹിതം 60 ശതമാനം; ഷാറൂഖ് ഖാന് പത്താൻ നേടിക്കൊടുത്തത് വൻ പ്രതിഫലം,entertainment,sports,0.960375,False
+IndicBERT-v2,Tamil,2030-ம் ஆண்டில் இந்தியா உலகின் 3-வது பெரிய பொருளாதார நாடாக மாறும்: சர்வதேச பொருளாதார மதிப்பீட்டு நிறுவனம் தகவல்,entertainment,international,0.95946056,False
+mBERT,Malayalam,ചരിത്രത്തിലേക്ക് പായ് വഞ്ചിയോടിച്ച് അഭിലാഷ് ടോമി; ഗോൾഡൻ ഗ്ലോബ് റേസില്‍ രണ്ടാം സ്ഥാനം ഉറപ്പിച്ചു,sports,entertainment,0.959357,False
+XLM-RoBERTa,Tamil,பிரபஞ்சத்தின் வயது 13.7 பில்லியன் ஆண்டுகள் அல்ல: விஞ்ஞானிகளை குழப்பத்தில் ஆழ்த்திய புதிய ஆய்வு,international,technology,0.95929325,False
+XLM-RoBERTa,Telugu,డేంజర్ డ్రింకింగ్ వాటర్ ఛాలెంజ్- అతిగా నీళ్లు తాగి సోషల్‌మీడియా ఇన్‌ఫ్లూయిన్సర్‌ ఆసుపత్రిపాలు!,international,crime,0.95927954,False
+mBERT,Hindi,"UK: गलती से फोन पर रिकॉर्ड हुई चोरी से जुड़ी बातें, चेकिंग में धरा गया; अब चोर को 4 साल की जेल",crime,international,0.95895034,False
+XLM-RoBERTa,Telugu,Naveen reddy Video : వైశాలి వెర్షన్ విన్నారు.. ఇక నవీన్ రెడ్డి చెప్పేదేంటో తెలుసా ? ఆదిభట్ల కిడ్నాప్ కేసులో ఇంకో కోణం ఇదే  !,crime,entertainment,0.95894223,False
+mBERT,Telugu,Hyderabad Weather Today: సన్‌రైజర్స్‌ మ్యాచ్‌ డౌటే! ఉప్పల్‌లో వర్షం కురిసే ఛాన్స్‌!,sports,crime,0.95861083,False
+mBERT,Marathi,"कविता, संगीता, पूजा आणि पिंकी…सगळ्यांचा नवरा संदीप; तरुणींना फसवणाऱ्याला ठोकल्या बेड्या",crime,entertainment,0.9581574,False
+IndicBERT-v2,Hindi,Twitter के पूर्व CEO जैक डोर्सी ला रहे नया सोशल प्लेटफॉर्म! जानिये क्या होगा खास,international,technology,0.95723647,False
+XLM-RoBERTa,Telugu,Sore Throat: గొంతు నొప్పి అనుకొని యాంటీబయోటిక్ ఇచ్చారు- ప్రాణాలు పోతేగానీ తెలియలేదు ఆ వ్యాధి ఏంటో?,international,entertainment,0.95707333,False
+mBERT,Malayalam,മമ്മൂട്ടിയുടെ ജന്മദിനം: കാൽ ലക്ഷം രക്തദാനവുമായി ആരാധകർ,entertainment,crime,0.95693785,False
+XLM-RoBERTa,Malayalam,അ​ര​ങ്ങി​ൽ തീ ​പ​ട​ർ​ത്തു​ന്ന പ്ര​തി​ച​രി​ത്രം,entertainment,crime,0.9568034,False
+XLM-RoBERTa,Telugu,Top 10 Headlines Today: లేటెస్ట్ అప్‌డేట్స్‌తో మే 19 నాటి  మార్నింగ్ టాప్‌ టెన్‌ న్యూస్,international,technology,0.9563904,False
+XLM-RoBERTa,Marathi,"बँक खात्यात अचानक आले ६ कोटी, तरुणाने सर्व पैसे केले खर्च, आणि मग...",international,crime,0.95585537,False
+XLM-RoBERTa,Tamil,டிஜிபி அலுவலகத்தில் பளிங்கு கற்களில் உயிர்நீத்த காவலர் உருவம் பொறிப்பு: நினைவு தினத்தில் அஞ்சலி செலுத்த அனுமதி,entertainment,crime,0.9550971,False
+mBERT,Hindi,"बीते तीन महीने से गायब हैं अर्पिता मुखर्जी की लग्जरी कारें, ड्राइवर बोला- मुझे नहीं थी बाकी गाड़ियों को चलाने की इजाजत",crime,entertainment,0.95437944,False
+XLM-RoBERTa,Tamil,தன்பாலின ஈர்ப்பாளர்கள் திருமண வழக்கு | உச்ச நீதிமன்ற நீதிபதிகள் மாறுபட்ட தீர்ப்பு,entertainment,crime,0.9543786,False
+IndicBERT-v2,Hindi,"अभिनंदन संग फोटो में दिखे PAK मेजर से ट्रेन्ड दो शख्स अरेस्ट, बोली दिल्ली पुलिस- आतंकी साजिश में था हाथ",international,crime,0.9537909,False
+XLM-RoBERTa,Telugu,Microsoft CMO:  జీతం పెరగలేదా? ఈ చిట్కా పాటిస్తే హైక్ వచ్చేస్తుంది - మైక్రోసాఫ్ట్ సీఎమ్‌వో సలహా,international,technology,0.95357156,False
+XLM-RoBERTa,Hindi,"Ind vs Eng: शार्दुल ठाकुर दूसरे टेस्ट से बाहर; भारतीय दिग्गज ने लॉर्ड्स के मैदान पर मढ़ा दोष, लोग बोले- एक म्यान में दो तलवारें नहीं रह सकतीं",international,sports,0.9531793,False
+mBERT,Malayalam,ഹലോ മാമുക്കോയ അല്ലേ..? ഇങ്ങൾ മയ്യിത്തായില്ലാ...?,entertainment,technology,0.95305,False
+mBERT,Tamil,ஹாங்சோ | விளையாட்டு அரங்கில் தவறவிடப்பட்ட மொபைல் போன் - தேடித் தந்த தன்னார்வலர்கள்!,international,sports,0.952987,False
+IndicBERT-v2,Telugu,"Muttiah Muralitharan Movie : '800'లో క్రికెట్టే కాదు, అంతకు మించి -  అక్టోబర్ తొలి వారంలో ముత్తయ్య బయోపిక్",sports,entertainment,0.9528951,False
+mBERT,Marathi,"बँक खात्यात अचानक आले ६ कोटी, तरुणाने सर्व पैसे केले खर्च, आणि मग...",international,crime,0.9526632,False
+mBERT,Malayalam,"‘ദൗത്യം പൂർത്തിയായി, ലാന്ററും റോവറും ഉണർന്നില്ലെങ്കിലും പ്രശ്നമില്ല’",technology,sports,0.9526194,False
+XLM-RoBERTa,Telugu,"Rathika: మీరు చూసింది వేరు, ఇంతకంటే దిగజారవద్దు - రతిక టీమ్ మండిపాటు",entertainment,sports,0.9523733,False
+IndicBERT-v2,Hindi,"Indian Muslim दोस्तों के लिए इफ्तार की तैयारी कर रहा था हिंदू परिवार, आग में जलकर मौत, पड़ोसी दुखी",international,crime,0.9522009,False
+mBERT,Tamil,வரும் 10 ஆண்டுகளில் உலகின் முதல் 5 கப்பல் கட்டும் நாடுகளில் ஒன்றாக இந்தியா திகழும்: பிரதமர் மோடி,entertainment,international,0.951911,False
+IndicBERT-v2,Malayalam,നിത്യയൗവനത്തിന് 45കാരൻ പ്രതിവർഷം ചെലവിടുന്നത് 16 കോടി; 5.1 വയസ് കുറഞ്ഞെന്ന് അവകാശവാദം,technology,international,0.95182467,False
+mBERT,Tamil,ஜி20 தலைமை பொறுப்பில் பன்முகத்தன்மையை பறைசாற்றுவோம் - வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் நம்பிக்கை,international,entertainment,0.9515898,False
+IndicBERT-v2,Tamil,கோபி அடுத்த வெள்ளாங்கோவிலில் ஆசிரியர் தேர்வு வாரிய செயலர் வீட்டில் லஞ்ச ஒழிப்பு சோதனை,entertainment,crime,0.95076746,False
+mBERT,Tamil,"காசா சுற்றுப் பகுதிகளில் 1,500 ஹமாஸ் இயக்கத்தினரின் உடல்கள் கண்டெடுப்பு: இஸ்ரேல் ராணுவம்",entertainment,international,0.9497952,False
+mBERT,Hindi,"कश्मीर प्रीमियर लीग को लेकर शोएब अख्तर ने कहा-‘खेल होना चाहिए खून-खराबा नहीं’, लोगों ने किए ऐसे कमेंट्स; देखें Video",international,sports,0.94910836,False
+IndicBERT-v2,Hindi,"तीन शादियों और नौ अफेयर्स के बाद भी सिंगल हैं हॉलीवुड अभिनेता टॉम क्रूज, जानिए कितनी संपत्ति के हैं मालिक",entertainment,international,0.94887173,False
+mBERT,Marathi,"Salman Khan: मोठा खुलासा! सलमानची सुपारी घेणारा चिरकूट नव्हता; अल्पवयीन असला तरी पाकिस्तानी ISIशी संबंध, झाली अटक",crime,international,0.9487458,False
+IndicBERT-v2,Malayalam,കണ്ണീരണിഞ്ഞ് ഫെഡററും നദാലും; 'അത്ഭുത നിമിഷ'മെന്ന് ഗൂഗിൾ സി.ഇ.ഒ,technology,sports,0.94844466,False
+mBERT,Hindi,"पाकिस्तानी लड़की से इश्क ने झारखंड के युवक को पहुंचाया था जेल, जानें 16 साल पहले कैसे ISI के चंगुल में फंसा था",crime,international,0.948206,False
+mBERT,Hindi,"छात्र को चाइनीज खाना पड़ा महंगा, शरीर का रंग हुआ बैंगनी, काटने पड़े दोनों पैर और अंगुलियां",international,crime,0.94760907,False
+mBERT,Malayalam,"ഫോ​ൺ പി​ടി​ച്ചെ​ടു​ത്തു; 14കാ​രി സ്കൂ​ൾ ഡോ​ർ​മി​റ്റ​റി​ക്ക് ​തീ​വെ​ച്ചു, 19 മ​ര​ണം",international,crime,0.94747305,False
+mBERT,Tamil,"தமிழகத்தில் 1,567 காவல் நிலையங்களில் ரூ.38.35 கோடியில் சிசிடிவி கேமராக்கள்: அரசு தகவல்",crime,entertainment,0.94708496,False
+XLM-RoBERTa,Telugu,"Elon Musk: ట్విటర్ యూజర్లకు షాక్ ఇవ్వనున్న మస్క్, అందరూ డబ్బు కట్టాల్సిందే !",technology,international,0.9462139,False
+XLM-RoBERTa,Malayalam,ഖത്തറിൽ ല​ഹ​രി മ​രു​ന്ന് പി​ടി​കൂ​ടി,crime,international,0.9461714,False
+XLM-RoBERTa,Tamil,தன்பாலின ஈர்ப்பாளர்கள் திருமணத்துக்கு சட்ட அங்கீகாரம் கோரும் வழக்கு: உச்ச நீதிமன்றம் இன்று தீர்ப்பு,entertainment,crime,0.94615805,False
+mBERT,Tamil,யூடியூப்-ன் புதிய தலைமை செயல் அதிகாரியாக அமெரிக்க - இந்தியர் நீல் மோகன் நியமனம்,technology,international,0.94577944,False
+XLM-RoBERTa,Hindi,"कैंसर की लास्‍ट स्‍टेज पर था युवक, कोविड 19 वायरस ने बचा ली जान, बड़ी फिल्‍मी है इनकी कहानी",international,crime,0.9454377,False
+IndicBERT-v2,Tamil,கூகுளில் அதிகம் தேடப்பட்டோர் பட்டியல்: ஜெயலலிதா 5-ம் இடம்,technology,entertainment,0.9452875,False
+XLM-RoBERTa,Malayalam,ചാന്ദ്രദൗത്യത്തിന്‍റെ വിജയത്തിൽ ആർപ്പും ആരവവുമായി തലസ്ഥാനം,technology,entertainment,0.94516927,False
+IndicBERT-v2,Malayalam,ഹോപ്പിൽനിന്ന്​ ചൊവ്വയുടെ ആദ്യ ചിത്രമെത്തി,technology,entertainment,0.94493675,False
+mBERT,Malayalam,വധഭീഷണി വർദ്ധിക്കുന്നു; വിദേശത്ത് നിന്നും ബുള്ളറ്റ് പ്രൂഫ് കാര്‍ വരുത്താന്‍ സല്‍മാന്‍ ഖാൻ,entertainment,international,0.94466317,False
+XLM-RoBERTa,Malayalam,പാകിസ്താന്റെ പണമുപയോഗിച്ച് ഇന്ത്യ സന്ദർശിച്ചിട്ട്  എന്തു നേട്ടമുണ്ടായി? -ബിലാവലിനെ വിമർശിച്ച് ഇംറാൻ ഖാൻ,international,sports,0.94453,False
+mBERT,Tamil,வங்கிப் பணிக்கு ஆட்களைத் தேர்வு செய்யும் ரோபோ: கேரள தனியார் வங்கி அசத்தல்,technology,entertainment,0.9443153,False
+mBERT,Telugu,AP SAP Godava : అవినీతి ఆరోపణల గుప్పిట్లో శాప్ - చైర్మన్ బైరెడ్డి సిద్ధార్థ రెడ్డి ఏం చేశారంటే ?,sports,crime,0.9432428,False
+IndicBERT-v2,Telugu,"WFH Job Scam: వాట్సాప్, టెలిగ్రాంలో ‘వర్క్ ఫ్రం హోం’ జాబ్స్ దందా - యస్ అంటే మీ డబ్బులు గోవిందా!",technology,crime,0.943199,False
+mBERT,Hindi,"यमन में बड़ा हादसा, जकात बांट रहे व्यापारियों के कार्यक्रम में भगदड़, 85 की मौत",international,crime,0.94319105,False
+mBERT,Tamil,"ODI WC 2023 | புதிய வரலாறு படைத்த பும்ரா, விராட் கோலி!",entertainment,sports,0.9427792,False
+XLM-RoBERTa,Hindi,"Sri Lanka Weather Update:श्रीलंका के मौसम पर बड़ा अपडेट, जानें भारत-पाकिस्तान मैच से फाइनल तक बारिश की क्या है संभावना",sports,international,0.9425034,False
+mBERT,Tamil,கலாஷேத்ரா மாணவிகளுக்கு பாலியல் தொல்லை விவகாரம்: ரகசிய புகார் அளிக்க இணையதளம் தொடக்கம்,crime,entertainment,0.9424006,False
+mBERT,Tamil,"காசா மீது 6 நாட்களில் 6,000 குண்டுகள் வீச்சு - ‘இடைவிடாமல் தாக்குவோம்’ என ஹமாஸுக்கு இஸ்ரேல் எச்சரிக்கை",entertainment,international,0.9422481,False
+mBERT,Hindi,"जब स्टॉक मार्केट के बादशाह ने अपने घोटाले से पूरे देश को हिला डाला था, पढ़िए पूरा किस्सा",crime,international,0.9420492,False
+mBERT,Tamil,5 நாளில் முதலீட்டாளர்களுக்கு ரூ.14.6 லட்சம் கோடி இழப்பு,entertainment,crime,0.94194573,False
+mBERT,Malayalam,സ്വന്തം ബഹിരാകാശനിലയം പണിയാൻ റഷ്യ,technology,international,0.94192195,False
+XLM-RoBERTa,Telugu,Virginity Test  : ఫస్ట్ నైట్ కన్యత్వ పరీక్ష - ఫెయిలయిందని రూ.10 లక్షల ఫైన్ !,crime,international,0.94169587,False
+mBERT,Telugu,MIM Akbaruddin Owaisi : ఎంఐఎం ఎమ్మెల్యే అక్బరుద్దీన్ హేట్ స్పీచ్ కేసులో హైకోర్టు నోటీసులు,crime,sports,0.9415402,False
+IndicBERT-v2,Marathi,"Twitter मधून ६ महिन्यांच्या गर्भवती महिलेला काढलं, तिनं घेतली शपथ; म्हणाली...आता थेट कोर्टातच भेटू!",technology,international,0.9413936,False
+mBERT,Malayalam,"‘ചില വിടപറയലുകൾ കഠിനം! അവൻ ഞങ്ങളുടെ ഹൃദയം കവർന്നവനാണ്...’, സഹലിന് ആശംസ നേർന്ന് മഞ്ഞപ്പട",sports,entertainment,0.94065416,False
+XLM-RoBERTa,Hindi,"एक बॉलीवुड अभिनेता की तस्वीर कैसे बनी डॉन श्रीप्रकाश शुक्ला के एनकाउंटर की वजह, पढ़िए यह दिलचस्प किस्सा",crime,entertainment,0.94054425,False
+XLM-RoBERTa,Marathi,"संतापजनक! १८ वर्षीय बास्केटबॉलपटूवर बलात्काराचा प्रयत्न, तीन तरुणांनी स्टेडियमच्या छतावरून फेकले खाली",sports,crime,0.9403763,False
+XLM-RoBERTa,Malayalam,സ്വന്തം ബഹിരാകാശനിലയം പണിയാൻ റഷ്യ,technology,international,0.9384928,False
+mBERT,Tamil,பொய்களைப் பரப்பவே ட்விட்டரை எலான் மஸ்க் வாங்கியுள்ளார்: பைடன் விமர்சனம்,international,technology,0.9381508,False
+mBERT,Malayalam,ഡയമണ്ട് ലീഗിൽ നീരജ് ചോപ്രക്ക് വെള്ളി; സ്വർണം നഷ്ടമായത് നേരിയ വ്യത്യാസത്തിൽ,sports,international,0.9376216,False
+IndicBERT-v2,Tamil,"பெட்ரோல் குண்டு வீசப்பட்ட விவகாரத்தில் ஆளுநர் மாளிகை அளித்தது மிகைப்படுத்தப்பட்ட புகார்: டிஜிபி, காவல் ஆணையர் விளக்கம்",entertainment,crime,0.9374111,False
+mBERT,Malayalam,ഖലിസ്ഥാൻ വാദികൾക്ക് പിന്തുണ; കനേഡിയൻ റാപ്പർ ശുഭ്നീത് സിങ്ങിന്റെ ഇന്ത്യൻ സന്ദർശനം റദ്ദാക്കി; സംഗീത പരിപാടിക്ക് ടിക്കറ്റെടുത്തവർക്ക് പണം തിരിച്ചുനൽകും,international,entertainment,0.93636507,False
+mBERT,Tamil,திருச்சி - சென்னை தேசிய நெடுஞ்சாலையில் அதிநவீன சோதனைச் சாவடி திறப்பு,crime,entertainment,0.935825,False
+mBERT,Marathi,"महिलेने केला होता 9 हजार कोटीचा फ्रॉड, मग 9 वर्ष नाव बदलून आरामात जगत होती",international,crime,0.93531716,False
+mBERT,Tamil,அமெரிக்க போதை ஆட்டம் போகிமான் கோ- சற்றே பெரிய குறிப்பு,technology,international,0.93482965,False
+XLM-RoBERTa,Malayalam,കളക്ഷൻ 80 കോടിയിലധികം; ‘ആർആർആർ’ ജപ്പാനിൽ പുതിയ റെക്കോർഡ് സൃഷ്ടിച്ചു,entertainment,technology,0.9343113,False
+mBERT,Marathi,Free Fire गेममध्ये अवघ्या १२ वर्षांच्या मुलाने उडविले तब्बल १२ लाख,crime,technology,0.9342075,False
+mBERT,Telugu,New York Gun Law: తుపాకీల వాడకంపై సుప్రీం కోర్టు సంచలన తీర్పు- అధ్యక్షుడు బైడెన్‌కు షాక్!,international,crime,0.93310213,False
+mBERT,Hindi,"कोरोना में खराब हो गई थी डायरेक्टर राम गोपाल वर्मा की हालत, बेचना पड़ा था ऑफिस",entertainment,international,0.9329422,False
+mBERT,Malayalam,പഞ്ചാബിനെ പിടിച്ചുകെട്ടി ഗുജറാത്ത്; വിജയലക്ഷ്യം 154,sports,international,0.9326217,False
+mBERT,Telugu,దుబాయ్ జైళ్లలో ఉన్న వారిని విడుదల చేయండి - యూఏఈ రాయబారికి కేటీఆర్ విజ్ఞప్తి,international,crime,0.9313971,False
+IndicBERT-v2,Tamil,அணுமின் நிலையம் மூடப்படுவது தள்ளி போகுமா?,international,entertainment,0.9313614,False
+mBERT,Malayalam,ഇന്ധന ചോർച്ച: നാസ മൂൺ റോക്കറ്റ് വിക്ഷേപണം വീണ്ടും മാറ്റി,technology,sports,0.9302781,False
+mBERT,Tamil,"ODI WC 2023 | சிராஜ், சமி விக்கெட் - நியூசிலாந்துக்கு எதிரான இந்தியாவின் சிறப்பான தொடக்கம்",entertainment,sports,0.9302351,False
+IndicBERT-v2,Malayalam,"ഇ​ര​യോ, അ​തോ വേ​ട്ട​ക്കാ​ര​നോ?",entertainment,technology,0.9299201,False
+mBERT,Malayalam,14 വർഷത്തിന് ശേഷം കരിം ബെൻസേമ റയൽ വിടുന്നു; സ്ഥിരീകരിച്ച് ക്ലബ് അധികൃതർ,sports,international,0.92975914,False
+mBERT,Tamil,ஆஸ்திரேலிய பவுலர்களுக்கு வரலாறு காணாத அடி: பாஸ்பால் அதிரடியில் குழம்பிப் போன கமின்ஸ்!,sports,international,0.92969716,False
+mBERT,Tamil,"இஸ்ரேலை குறிவைத்து ஹமாஸ் மீண்டும் தாக்குதல்: இரு தரப்பு பலி 1,800 ஆக அதிகரிப்பு",entertainment,international,0.92848474,False
+mBERT,Hindi,"शर्मिला टैगोर को मनाने के लिए भारतीय कप्तान ने भेजे थे 7 रेफ्रिजरेटर, राज कपूर की एक्ट्रेस से भी सारा के दादा ने तोड़ दिया था रिश्ता",entertainment,international,0.92846346,False
+mBERT,Marathi,अरेरे! 'त्याने' कचऱ्यात फेकला तब्बल 2000 कोटींचा 'खजिना' अन् आता...; नेमकं काय घडलं?,international,entertainment,0.9278036,False
+IndicBERT-v2,Hindi,"Ind vs Eng: शार्दुल ठाकुर दूसरे टेस्ट से बाहर; भारतीय दिग्गज ने लॉर्ड्स के मैदान पर मढ़ा दोष, लोग बोले- एक म्यान में दो तलवारें नहीं रह सकतीं",international,sports,0.92718,False
+XLM-RoBERTa,Tamil,ஆ’வலை’ வீசுவோம்- 30: இணைய நூலகம் குவெஸ்டியா,technology,entertainment,0.92691064,False
+mBERT,Hindi,"जब लेखक और पत्रकार रहे जॉर्जी मार्कोव का छाते से किया गया था कत्ल, पढ़िए पूरा किस्सा",crime,international,0.9259728,False
+mBERT,Malayalam,ജി​ല്ല സ്കൂ​ൾ കാ​യി​ക മേ​ള: അഞ്ചലോട്ടത്തിന് പൊൻകിരീടം,sports,crime,0.925875,False
+IndicBERT-v2,Tamil,ஐஸ்வர்யா ரஜினிகாந்த் வீட்டில் நகை திருட்டு வழக்கில் கைதான பணிப்பெண்ணிடம் இருந்து மேலும் 43 பவுன் நகைகள் மீட்பு,crime,entertainment,0.92563033,False
+XLM-RoBERTa,Marathi,"PFI फंडिंगबाबत मोठा खुलासा, आखाती देशांमध्ये राहणाऱ्या 500 हून अधिक लोकांची बँक खाती रडारवर!",crime,international,0.92559844,False
+mBERT,Tamil,“முதல்வர் அறிவித்த இழப்பீடு... யானைப் பசிக்கு சோளப் பொரி போல!” - டெல்டா விவசாயிகள் ஏமாற்றம்,entertainment,international,0.92554605,False
+mBERT,Malayalam,വീട്ടമ്മയുടെ അക്കൗണ്ടിൽനിന്ന് 19 ലക്ഷം തട്ടിയ സംഭവം: അന്വേഷണം തുടങ്ങി,crime,international,0.9251549,False
+mBERT,Telugu,Kalki 2898 AD: కల్కి లీక్ - నష్టపరిహారం కోసం VFX కంపెనీపై కేసు నమోదు చేసిన మేకర్స్?,entertainment,technology,0.9250625,False
+XLM-RoBERTa,Malayalam,ചന്ദ്രയാൻ-രണ്ടിന് ആശംസയുമായി ബംഗളൂരുവിലെ ‘ആംസ്ട്രോങ്’,technology,entertainment,0.9249519,False
+mBERT,Malayalam,ഇടിമിന്നലായി.. യൂസഫ് പത്താൻ..!,sports,technology,0.92475694,False
+IndicBERT-v2,Tamil,அகமதாபாத் கிரிக்கெட் மைதானத்தை தகர்க்கப் போவதாக மிரட்டல்: போலீஸ் விசாரணை,entertainment,sports,0.9245753,False
+mBERT,Tamil,கோவை | மத்திய அரசு தேர்வில் ஆள்மாறாட்டம் செய்த ஹரியானா கும்பலை பிடிக்க தனிப்படை,crime,international,0.92365754,False
+mBERT,Malayalam,ചെകുത്താൻ ലാസർ തിരക്കിലാണ്,entertainment,sports,0.9221535,False
+IndicBERT-v2,Telugu,iBomma: తమిళరాకర్జ్ తర్వాత నిలిచిపోతున్నట్లు ప్రకటించిన మరో పైరసీ వెబ్‌సైట్ - కానీ అంతలోనే!,technology,entertainment,0.9219157,False
+XLM-RoBERTa,Tamil,"ரூ.2,000 நோட்டுகளை மாற்ற கமிஷன் தருவதாக கூறி கோவை நகை வியாபாரியிடம் ரூ.1.27 கோடி வழிப்பறி",crime,entertainment,0.9216134,False
+XLM-RoBERTa,Marathi,"एलॉन मस्क घेतात 'श्रीरामांचा' सल्ला, ट्विटरच्या मालकांचा पडद्यामागील सिनेमा",international,entertainment,0.920338,False
+mBERT,Telugu,"కివీస్‌కు షాకిచ్చిన లంక, ‘సూపర్ ఓవర్’లో సూపర్ విక్టరీ",sports,entertainment,0.9200791,False
+mBERT,Marathi,"देवगिरी एक्सप्रेसमध्ये पहाटेच्या सुमारास दरोडा, सापळा रचून दरोडेखोरांना अटक",entertainment,crime,0.9196007,False
+mBERT,Marathi,"देवगिरी एक्सप्रेसमध्ये पहाटेच्या सुमारास दरोडा, सापळा रचून दरोडेखोरांना अटक",entertainment,crime,0.9196007,False
+mBERT,Marathi,"देवगिरी एक्सप्रेसमध्ये पहाटेच्या सुमारास दरोडा, सापळा रचून दरोडेखोरांना अटक",entertainment,crime,0.9196007,False
+mBERT,Marathi,"देवगिरी एक्सप्रेसमध्ये पहाटेच्या सुमारास दरोडा, सापळा रचून दरोडेखोरांना अटक",entertainment,crime,0.9196007,False
+IndicBERT-v2,Marathi,"महिलेने केला होता 9 हजार कोटीचा फ्रॉड, मग 9 वर्ष नाव बदलून आरामात जगत होती",international,crime,0.9192802,False
+IndicBERT-v2,Tamil,கருந்துளை ஒளி எதிரொலிகளை ஒலி அலையாக மாற்றிய நாசா,international,technology,0.91920644,False
+XLM-RoBERTa,Tamil,கோபி அடுத்த வெள்ளாங்கோவிலில் ஆசிரியர் தேர்வு வாரிய செயலர் வீட்டில் லஞ்ச ஒழிப்பு சோதனை,entertainment,crime,0.9180908,False
+mBERT,Telugu,Top 10 Headlines Today: లేటెస్ట్ అప్‌డేట్స్‌తో మే 19 నాటి  మార్నింగ్ టాప్‌ టెన్‌ న్యూస్,international,technology,0.91776764,False
+XLM-RoBERTa,Telugu,Rishabh Pant Accident: పంత్ ను పరామర్శించిన డీడీసీఏ డైరెక్టర్- అభిమానుల తీరుతో పెరుగుతోన్న ఆందోళన,sports,crime,0.91748375,False
+mBERT,Malayalam,ടെക്സസിൽ മാളിലുണ്ടായ വെടിവെപ്പിൽ ഒമ്പത് പേർ കൊല്ലപ്പെട്ടു; അക്രമിയെ വധിച്ചു,international,crime,0.9149377,False
+IndicBERT-v2,Tamil,ஃபிளாஷ்பேக் 2017: ஆட வைத்த பாட்டு,technology,entertainment,0.91427803,False
+mBERT,Hindi,"Tesla की इंडिया में लॉन्चिंग की राह नहीं है आसान, मस्क ने बताई एंट्री में देरी की वजह, जानिए सबकुछ",technology,international,0.9137461,False
+XLM-RoBERTa,Hindi,सौरमंडल के बाहर अब तक का सबसे छोटा ग्रह का पता चला,international,technology,0.91314626,False
+mBERT,Malayalam,തല മുടി മൊട്ടയടിച്ച് സൽമാൻ! കാരണം ഷാറൂഖ് ഖാനാണെന്ന് ആരാധകർ,entertainment,sports,0.91150403,False
+IndicBERT-v2,Telugu,Janaki Kalaganaledhu August 5th: భార్యకు బహుమతి ఇచ్చిన రామ.. వెన్నెలపై అనుమానం పెంచుకున్న జానకి?,entertainment,crime,0.9111303,False
+IndicBERT-v2,Hindi,"Tigers Mysterious Deaths: नीलगिरी में 40 दिनों में 10 बाघों की रहस्यमय मौत, जांच के लिए तमिलनाडु पहुंची NTCA टीम",crime,entertainment,0.90875703,False
+IndicBERT-v2,Marathi,ओटीपी शेअर न करता या बॉलिवूड अभिनेत्रीची लाखोंची फसवणूक;वाचा नेमकं काय घडल?,crime,entertainment,0.9084762,False
+XLM-RoBERTa,Malayalam,ജസ്റ്റിന്‍ ട്രൂഡോയും ഭാര്യ സോഫിയും വേർപിരിഞ്ഞു,entertainment,international,0.9078391,False
+mBERT,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.90539813,False
+mBERT,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.90539813,False
+mBERT,Marathi,"Video: शेतकऱ्याच्या रानात 24 किलोचा महाकाय अजगर, झेडपी सदस्याने घेतली धाव",entertainment,crime,0.90539813,False
+mBERT,Malayalam,അറസ്റ്റിനെതിരായ ഇംറാൻ ഖാന്റെ ഹരജി ഇന്ന് പരിഗണിക്കും,international,crime,0.903965,False
+mBERT,Telugu,"WWDC 2023: కొత్త ఐప్యాడ్ఓఎస్, వాచ్ఓఎస్, మ్యాక్ఓఎస్ వచ్చేశాయ్ - ఫీచర్లు ఎలా ఉన్నాయో చూశారా?",technology,sports,0.90315396,False
+mBERT,Telugu,"రేవ్‌ పార్టీ కల్చర్‌ భారత్‌కు ఎలా వచ్చింది, అసలు రేవ్‌  పార్టీలో ఏం జరుగుతుంది ?",crime,international,0.90293497,False
+XLM-RoBERTa,Tamil,ப்ரீமியம் ட்விட்டரில் எடிட் பட்டன்: கருத்துக் கணிப்பு நடத்தும் மஸ்க் - பராக் அகர்வால் ரியாக்‌ஷன்,technology,sports,0.902875,False
+XLM-RoBERTa,Telugu,Bholaa Shankar Screening: ఏపీలో ‘భోళా శంకర్’కు తప్పని తిప్పలు- ప్రదర్శన నిలిపివేసిన పోలీసులు!,entertainment,crime,0.9020744,False
+mBERT,Marathi,"बॉस असावा तर असा...! स्वखर्चानं कर्मचाऱ्यांना घेऊन गेला परदेशवारीला, १४ दिवस 'बाली'त धमाल",international,crime,0.8946831,False
+XLM-RoBERTa,Telugu,"Actor Manoj Remand: శామీర్‌పేట్‌ కాల్పుల ఘటనలో నటుడు మనోజ్‌కు రిమాండ్‌, చర్లపల్లి జైలుకు తరలింపు",crime,entertainment,0.8939951,False
+mBERT,Marathi,Facebook : फेसबुकच्या ट्रेड टूलद्वारे जगभर होतेय मानवी तस्करी; माजी कर्मचारी फ्रान्सिस होगेन यांच्या आरोपामुळे खळबळ,technology,international,0.8937011,False
+XLM-RoBERTa,Hindi,"Pervez Musharraf Death: आज भी दिल्ली में रहते हैं परवेज मुशर्रफ के रिश्तेदार, जानिए कितनी बदल गई दरियांगज की हवेली",international,crime,0.89142144,False
+mBERT,Telugu,"WFH Job Scam: వాట్సాప్, టెలిగ్రాంలో ‘వర్క్ ఫ్రం హోం’ జాబ్స్ దందా - యస్ అంటే మీ డబ్బులు గోవిందా!",technology,entertainment,0.89123636,False
+XLM-RoBERTa,Tamil,தங்கம் விலை பவுன் ரூ.304 உயர்வு,entertainment,international,0.89002025,False
+mBERT,Malayalam,കോവിഡ്​ സഹായം പ്രഖ്യാപിച്ച സുന്ദർ പിച്ചെയുടെ ട്വീറ്റിൽ 'ജിമെയിൽ പാസ്​വേഡ്​' പുനസ്​ഥാപിക്കണമെന്ന്​ ആവശ്യം; പരിഹാസം,technology,entertainment,0.888734,False
+IndicBERT-v2,Tamil,பெங்களூருவில் ஒப்பந்ததாரர்களின் வீடுகளில் நடந்த‌ வருமான வரி சோதனையில் ரூ.95 கோடி ரொக்கம் பறிமுதல்,entertainment,crime,0.8886625,False
+IndicBERT-v2,Malayalam,ഐപിഎൽ തുണച്ചു; ലോക്​ഡൗൺ കാലത്ത്​ കോളടിച്ചത്​ ഡിസ്​നി പ്ലസ്​ ഹോട്​സ്റ്റാറിന്​,technology,sports,0.88848764,False
+XLM-RoBERTa,Malayalam,ലോകത്തെ ഏറ്റവും സ്വാധീനമുള്ളവരുടെ ടൈം പട്ടികയിൽ മെസ്സിയെയും പിറകിലാക്കി ഷാറൂഖ് ഖാൻ ഒന്നാമത്,sports,technology,0.887274,False
+IndicBERT-v2,Marathi,Facebook : फेसबुकच्या ट्रेड टूलद्वारे जगभर होतेय मानवी तस्करी; माजी कर्मचारी फ्रान्सिस होगेन यांच्या आरोपामुळे खळबळ,technology,international,0.8870649,False
+XLM-RoBERTa,Tamil,இந்திய சதுரங்கத்தின் புதிய அத்தியாயத்தை தொடங்கும் பிரக்ஞானந்தா,sports,technology,0.88569033,False
+mBERT,Hindi,"कंगना की जेल में करणवीर बोहरा ने निशा रावल से पूछ लिया ऐसा पर्सनल सवाल कि रोने लगीं एक्ट्रेस, जानिए",entertainment,crime,0.8839221,False
+IndicBERT-v2,Malayalam,കൗതുകമുണർത്തി  വാലാട്ടിയുടെ തീം സോങ്- വിഡിയോ,entertainment,sports,0.8830889,False
+mBERT,Hindi,OTT पर मौजूद टॉप 5 बेहतरीन क्राइम थ्रिलर शो जो हैं सस्पेंस और रोमांच से भरपूर,crime,technology,0.8828986,False
+mBERT,Telugu,"Gun Fire in US: అమెరికాలో మరోసారి కాల్పుల కలకలం - ఆరుగురి హత్య, నిందితుడూ మృతి",crime,international,0.88178754,False
+XLM-RoBERTa,Tamil,‘டிஎன்பிஎஸ்சி குரூப் 1-க்கும் வயது வரம்பை உயர்த்துங்க...’ - 39 வயதை கடந்த போட்டித் தேர்வர்கள் எதிர்பார்ப்பு,entertainment,sports,0.88098323,False
+XLM-RoBERTa,Tamil,அகமதாபாத் கிரிக்கெட் மைதானத்தை தகர்க்கப் போவதாக மிரட்டல்: போலீஸ் விசாரணை,entertainment,sports,0.87936383,False
+XLM-RoBERTa,Hindi,"शुक्र मनाओ अब तक ज़िंदा हो- यासीन मलिक के समर्थन में पाकिस्तान के पूर्व उच्चायुक्त ने किया ट्वीट तो भड़क उठे फिल्ममेकर, दिया ये जवाब",entertainment,international,0.8788235,False
+mBERT,Telugu,Tollywood: డిసెంబర్‌లో ఈసారి తగ్గేదేలే.. బాక్సాఫీసు వద్ద సందడి చేయనున్న క్రేజీ చిత్రాలు!,entertainment,crime,0.87772495,False
+mBERT,Malayalam,'ലിയോ'ആഘോഷമാക്കാനൊരുങ്ങി വിജയ് ഫാൻസ്‌! ക്ഷേമം പ്രവർത്തനങ്ങളുമായി പ്രിയമുടൻ നൻപൻസ്,entertainment,technology,0.87746185,False
+mBERT,Hindi,"तालिबानी आतंक शुरू: अफगान मूल के भारतीय व्यापारी का अपहरण, दिल्ली में रहता है परिवार",international,crime,0.8769297,False
+IndicBERT-v2,Malayalam,അ​ർ​ബു​ദ വാ​ക്സി​ൻ 2030ഓ​ടെ ത​യാ​റാ​കു​മെ​ന്ന് മോ​ഡേ​ണ,technology,international,0.8766086,False
+XLM-RoBERTa,Malayalam,ഇമ്രാൻ ഖാൻ ‘അഭിനയത്തിൽ ഷാരൂഖിനെയും സൽമാനെയും പിന്നിലാക്കി’; പരിഹാസവുമായി പിഡിഎം നേതാവ്,international,entertainment,0.8757445,False
+mBERT,Tamil,"ஆருத்ரா, ஹிஜாவு போல நூதன முறையில் மோசடி செய்ததாக ‘மோகா எக்ஸ்போர்ட்ஸ்’ நிறுவனம் மீது புகார்",crime,entertainment,0.8729719,False
+IndicBERT-v2,Hindi,"Ind vs Eng: विराट कोहली और केन विलियमसन के क्लब में शामिल हुए जो रूट, इस मामले में बने इंग्लैंड के नंबर वन कप्तान",international,sports,0.87243867,False
+mBERT,Tamil,டொமைன் பெயர் மோசடிக்காக இந்திய நிறுவனங்கள் மீது வழக்கு: ஃபேஸ்புக் நடவடிக்கை,technology,international,0.87119293,False
+mBERT,Tamil,மேற்குகரை பகுதியில் சுட்டு கொல்லப்பட்ட பெண் நிருபரின் உடலில் இருந்த புல்லட் படம் வெளியிட்டது அல்ஜசீரா,international,crime,0.87009495,False
+mBERT,Malayalam,പാലക്കാട് മലയോര മേഖലയിൽ വൻകഞ്ചാവ് വേട്ട,crime,entertainment,0.8699629,False
+XLM-RoBERTa,Telugu,Miss Universe Singapore 2021:  సిక్కోలు చిన్నదానికి సింగపూర్ అందాల కిరీటం.. నెక్ట్స్ ఎక్కడికి వెళ్తుందో తెలుసా,international,sports,0.86835915,False
+mBERT,Tamil,ப்ரீமியம் ட்விட்டரில் எடிட் பட்டன்: கருத்துக் கணிப்பு நடத்தும் மஸ்க் - பராக் அகர்வால் ரியாக்‌ஷன்,technology,sports,0.8678429,False
+mBERT,Telugu,"Kangana Ranaut: బొట్టు, సింధూరం, మంగళసూత్రం.. భారతీయ మహిళలకు వీరే స్ఫూర్తి - కంగనా కామెంట్స్",entertainment,international,0.86780685,False
+IndicBERT-v2,Marathi,"पुलांची माहिती देणारे ॲप! अमेरिकेतील महत्त्वाचे संशोधन, हादऱ्यांची माहिती मिळणार",international,technology,0.8663032,False
+XLM-RoBERTa,Telugu,HCA Elections :  అజారుద్దీన్‌పై అనర్హత - హెచ్‌సీఏ ఎన్నికల్లో పోటీకి చాన్స్ లేనట్లే !,sports,entertainment,0.86620533,False
+mBERT,Malayalam,വാഹനാപകടം; സുരാജ് വെഞ്ഞാറമൂടിന് കാരണം കാണിക്കൽ നോട്ടീസ് നൽകി എംവിഡി,entertainment,technology,0.8656705,False
+mBERT,Malayalam,2024-ൽ ബൈഡൻ മത്സരിക്കണമെന്ന് ഡെമോക്രാറ്റുകളിൽ 50 ശതമാനത്തിൽ താഴെ ആളുകൾ മാത്രമേ ആഗ്രഹിക്കുന്നുള്ളൂ; സർവേ,international,sports,0.86415213,False
+XLM-RoBERTa,Tamil,சேலம் மாவட்டத்தில் உரிமம் இன்றி செயல்பட்டு வந்த 27 மதுபான பார்களுக்கு சீல் வைப்பு,crime,entertainment,0.86406624,False
+mBERT,Tamil,இந்தியாவின் முதல் செங்குத்து லிஃப்ட் ரயில்வே கடல் பாலம் - பாம்பன் மறுசீரமைப்பு பணிகள் 84% நிறைவு,technology,entertainment,0.86353225,False
+mBERT,Marathi,"PFI फंडिंगबाबत मोठा खुलासा, आखाती देशांमध्ये राहणाऱ्या 500 हून अधिक लोकांची बँक खाती रडारवर!",crime,international,0.8628798,False
+IndicBERT-v2,Malayalam,അടുക്കള പുതുക്കിപ്പണിതപ്പോൾ കിട്ടിയത്​ 400 വർഷം പഴക്കമുള്ള അപൂർവ ചിത്രം,international,technology,0.8621048,False
+XLM-RoBERTa,Marathi,जय शाह यांच्याकडून दिवाळी भेट अन् स्मृती मानधनासह भारतीय महिलांनी मानले आभार,sports,international,0.85974044,False
+IndicBERT-v2,Marathi,ऑफर सुरू होती म्हणून केली संपूर्ण कुटुंबाची DNA Test अन् 'बाप' निघाला कुणी दुसराच,international,crime,0.8595869,False
+IndicBERT-v2,Malayalam,ഐഫോൺ ഉപയോഗിക്കേണ്ടെന്ന് റഷ്യ; ഉദ്യോഗസ്ഥർക്ക് നിർദേശം,international,technology,0.8581882,False
+IndicBERT-v2,Malayalam,മഞ്ഞുപുതപ്പിനുള്ളിൽ ആറ് കോടി മത്സ്യക്കൂടുകൾ; ലോകത്തെ അമ്പരപ്പിച്ച് വെഡ്ഡെൽ കടലിലെ മഞ്ഞുമത്സ്യക്കോളനി,technology,international,0.85812,False
+mBERT,Hindi,"मोहम्मद सिराज ने नया घर खरीदने पर विराट कोहली को बुलाया था खाने पर, लेकिन उन्होंने बना दिया था यह बहाना फिर…",sports,entertainment,0.85734105,False
+XLM-RoBERTa,Marathi,धक्कादायक! हॉटेल रुममध्ये गर्लफ्रेंडसोबतच्या सेक्सनंतर इंग्लंडच्या खेळाडूचा मृत्यू; महिलाही जखमी,international,sports,0.85611194,False
+mBERT,Tamil,விம்பிள்டன் ஜாம்பவான் பெடரரை தலைவா என்று அழைத்தது தமிழுக்கு பெருமை - பிரதமர் மோடி பெருமிதம்,sports,entertainment,0.85485786,False
+IndicBERT-v2,Tamil,கணை ஏவு காலம் 1 - ஹமாஸுக்குள் ஒரு புதிய மனிதர்!,entertainment,international,0.854534,False
+XLM-RoBERTa,Telugu,టూర్ వెళ్లేటప్పుడు మీరు ఇలా చేస్తున్నారేమో చూసుకోండి? జాగ్రత్త పడండి!,crime,technology,0.8535326,False
+XLM-RoBERTa,Marathi,IND vs BAN 2nd ODI Live : ६ बाद ६९ धावांवरून बांगलादेश २७० पार! 'M' फॅक्टरने टीम इंडियाला केले बेजार; रोहित फलंदाजीला नाही येणार,entertainment,sports,0.8512783,False
+XLM-RoBERTa,Marathi,IND vs BAN 2nd ODI Live : ६ बाद ६९ धावांवरून बांगलादेश २७० पार! 'M' फॅक्टरने टीम इंडियाला केले बेजार; रोहित फलंदाजीला नाही येणार,entertainment,sports,0.8512783,False
+mBERT,Malayalam,ഹിന്ദി അറിയാത്തതിന്റെ പേരിൽ മാതാപിതാക്കളെ അപമാനിച്ചു; വിമാനത്താവളത്തിലെ സുരക്ഷാ ജീവനക്കാർക്കെതിരെ സിദ്ധാർഥ്,entertainment,international,0.84985286,False
+mBERT,Hindi,"अगर अनजाने में हो गई यह गलती तो तुरंत बदले पासवर्ड, Cyber Dost ने दी चेतावनी",crime,technology,0.8496154,False
+mBERT,Malayalam,ജസ്റ്റിന്‍ ട്രൂഡോയും ഭാര്യ സോഫിയും വേർപിരിഞ്ഞു,entertainment,international,0.84872246,False
+mBERT,Hindi,दिलप्रीत सिंह बाबा : एक कुख्यात गैंगस्टर जो एनकाउंटर के वक्त बोला ‘मुझे मारना मत’,crime,entertainment,0.84802157,False
+XLM-RoBERTa,Telugu,Football Coach: బాలికను వేధించిన ఫుట్‌బాల్ కోచ్ - 2019 నాటి కేసులో దోషికి 20 ఏళ్ల జైలు శిక్ష,crime,sports,0.8478032,False
+mBERT,Hindi,"Ind vs Eng: विराट कोहली और केन विलियमसन के क्लब में शामिल हुए जो रूट, इस मामले में बने इंग्लैंड के नंबर वन कप्तान",international,sports,0.8465351,False
+mBERT,Hindi,"राफेल डीलः दस्तावेज बताते हैं कि बिचौलियों को मिले करोड़ों रुपए- कांग्रेस, 24 घंटे में न आया सरकार का जवाब",international,entertainment,0.845537,False
+mBERT,Tamil,இந்திய சதுரங்கத்தின் புதிய அத்தியாயத்தை தொடங்கும் பிரக்ஞானந்தா,sports,technology,0.8450233,False
+XLM-RoBERTa,Malayalam,തല മുടി മൊട്ടയടിച്ച് സൽമാൻ! കാരണം ഷാറൂഖ് ഖാനാണെന്ന് ആരാധകർ,entertainment,sports,0.84403926,False
+XLM-RoBERTa,Telugu,Chikoti Praveen Whatsapp Data  : చీకోటి ప్రవీణ్ లిస్టులో ఉన్న వాళ్లంతా ఈడీ ముందు క్యూ కట్టాల్సిందే - నోటీసులు రెడీ అయ్యాయా  ?,crime,technology,0.84303415,False
+XLM-RoBERTa,Malayalam,നിദയുടെ അശ്വമേധം,sports,technology,0.84196895,False
+mBERT,Tamil,அகமதாபாத் கிரிக்கெட் மைதானத்தை தகர்க்கப் போவதாக மிரட்டல்: போலீஸ் விசாரணை,entertainment,sports,0.839923,False
+mBERT,Telugu,Miss Universe Singapore 2021:  సిక్కోలు చిన్నదానికి సింగపూర్ అందాల కిరీటం.. నెక్ట్స్ ఎక్కడికి వెళ్తుందో తెలుసా,international,sports,0.8394953,False
+IndicBERT-v2,Malayalam,ആരെയും ഭാവഗായകനാക്കും...,entertainment,technology,0.8392278,False
+IndicBERT-v2,Malayalam,ബലാത്സംഗം പ്രതിരോധിക്കുന്നതിനിടെ അക്രമിയെ കൊന്ന യുവതിക്ക് ആറു വർഷം തടവ്,international,crime,0.83780843,False
+IndicBERT-v2,Tamil,வாரத்துக்கு 70 மணி நேரம் வேலை பார்க்க வேண்டுமா? - பெரு நிறுவனங்களின் சிஇஓக்கள் கூறுவது என்ன?,entertainment,technology,0.83726674,False
+mBERT,Malayalam,"മരണ തടാകം കണ്ടെത്തി ശാസ്ത്രജ്ഞർ; ചെന്നുപെടുന്നവയെല്ലാം അവസാനിക്കും, ജീവനോടെ ആർക്കും തിരിച്ചുവരവില്ല",technology,international,0.8365791,False
+mBERT,Malayalam,ലോകത്തിലെ ഏറ്റവും ശക്തമായ റോക്കറ്റ് എഞ്ചിൻ നിർമ്മിക്കാൻ റഷ്യ,international,sports,0.835356,False
+IndicBERT-v2,Telugu,Flight Tickets Booking: ఈ సైట్ల నుంచి ఫ్లైట్ టికెట్లు బుక్ చేస్తున్నారా? మీ సొమ్ము గోవిందా!,crime,international,0.8352505,False
+XLM-RoBERTa,Telugu,Mobiles Recovery : మీ మొబైల్ మిస్సైందా? అయితే ఇలా చేయండి-కర్నూలు పోలీసుల కొత్త కాన్సెప్ట్,crime,technology,0.8339951,False
+IndicBERT-v2,Malayalam,'പെഗസസ്​ കാരണം എല്ലാവരും രാത്രി സമാധാനമായി ഉറങ്ങുന്നു'; വിചിത്ര ന്യായീകരണവുമായി ഇസ്രായേലി മാതൃകമ്പനി,technology,international,0.8339624,False
+mBERT,Malayalam,സിദ്ദീഖിന്റെ ​കൊലപാതകം; പുനരാവിഷ്‍കരിച്ച് അന്വേഷണ സംഘം,crime,international,0.83323026,False
+IndicBERT-v2,Hindi,"बीते तीन महीने से गायब हैं अर्पिता मुखर्जी की लग्जरी कारें, ड्राइवर बोला- मुझे नहीं थी बाकी गाड़ियों को चलाने की इजाजत",crime,entertainment,0.8327266,False
+IndicBERT-v2,Hindi,"IND vs PAK: पाकिस्तान के पूर्व कप्तान शाहिद अफरीदी ने फिर उगला जहर, कहा- आजादी क्या होती है ये कश्मीरियों से पूछिए",sports,international,0.8327082,False
+IndicBERT-v2,Malayalam,യു.എസിന് പിന്നാലെ ന്യൂസിലാന്‍ഡിലും ടിക്ക് ടോക്കിന് നിരോധനം; മറുപടിയുമായി ചൈന,international,technology,0.83128613,False
+IndicBERT-v2,Telugu,Virginity Test  : ఫస్ట్ నైట్ కన్యత్వ పరీక్ష - ఫెయిలయిందని రూ.10 లక్షల ఫైన్ !,crime,international,0.830181,False
+IndicBERT-v2,Tamil,ப்ரீமியம் நோபல் 2023 - இயற்பியல் | அட்டோநொடியும் நோபல் விருதும்,entertainment,technology,0.8295343,False
+IndicBERT-v2,Tamil,ட்விட்டர் போர்டை கலைத்த எலான் மஸ்க்: ஒற்றை இயக்குநராக தன்னையே அறிவித்தார்,international,technology,0.82908726,False
+IndicBERT-v2,Malayalam,ഇന്ധന ചോർച്ച: നാസ മൂൺ റോക്കറ്റ് വിക്ഷേപണം വീണ്ടും മാറ്റി,technology,international,0.82877403,False
+IndicBERT-v2,Telugu,"Viral Video: కుర్చీలో తలకిందులుగా బాస్కెట్‌ బాల్స్‌తో అదిరిపోయే ఫీట్, వావ్ అంటున్న నెటిజన్లు - వైరల్ వీడియో",international,sports,0.82775676,False
+XLM-RoBERTa,Hindi,"जब एक बक्से में बंद होकर फ्लाइट से भागा था Nissan और Renault कंपनी का बॉस, जानिए क्या थी वजह",crime,international,0.82563585,False
+IndicBERT-v2,Telugu,"రేవ్‌ పార్టీ కల్చర్‌ భారత్‌కు ఎలా వచ్చింది, అసలు రేవ్‌  పార్టీలో ఏం జరుగుతుంది ?",crime,international,0.82467437,False
+mBERT,Malayalam,"കർണാടകയിലെ ബാഹുബലി! ഇത്  രാം ചരണോ ഡേവിഡ് വാർണറോ, വിമർശനവുമായി ആരാധകർ",entertainment,international,0.82294303,False
+mBERT,Malayalam,രാവണൻ ഉള്ളതിനാലാണ് രാമന് എല്ലാ ബഹുമാനവും മര്യാദയും ലഭിച്ചത്; അതുപോലെയാണ് ജയിലറിൽ വർമൻ: രജനീകാന്ത്,entertainment,sports,0.8228096,False
+XLM-RoBERTa,Hindi,"विराट कोहली के साथी खिलाड़ी को दिल्ली पुलिस ने पीटा, मचा बवाल",crime,sports,0.8225044,False
+mBERT,Tamil,‘விராட் கோலி முதல் நபராக வருவார்… கடைசியாக கிளம்புவார்’ - அனுபவங்களை பகிரும் ஜோஷ் ஹேசில்வுட்,sports,international,0.822015,False
+XLM-RoBERTa,Hindi,"17वीं शताब्दी में बने घर पर क्रिकेट मैच कराकर कारोबारी ने इमरान की पार्टी को किया था खड़ा, जानिए पूरी कहानी",international,crime,0.82169604,False
+mBERT,Telugu,HCA Elections :  అజారుద్దీన్‌పై అనర్హత - హెచ్‌సీఏ ఎన్నికల్లో పోటీకి చాన్స్ లేనట్లే !,sports,entertainment,0.82113695,False
+mBERT,Tamil,"பாம்பன் கடற்கரை பகுதியில் ஆயுதக் குவியல், கடத்தல் பொருட்கள் பதுக்கலா? - போலீஸார் தீவிர சோதனை",crime,entertainment,0.8209954,False
+mBERT,Tamil,கணை ஏவு காலம் 1 - ஹமாஸுக்குள் ஒரு புதிய மனிதர்!,entertainment,technology,0.8186232,False
+mBERT,Malayalam,പ്രതിഷേധക്കാരെ പിന്തുണച്ചതിന് ജയിലിലടച്ച നടിയെ ഇറാൻ വിട്ടയച്ചു,international,entertainment,0.8169568,False
+mBERT,Telugu,Gautam Gambhir: గంభీర్‌ను భస్మాసురుడితో పోల్చిన పత్రిక -  పరువు నష్టం దావా వేసిన  బీజేపీ ఎంపీ,sports,entertainment,0.81554985,False
+IndicBERT-v2,Marathi,Pakistan:स्वातंत्र्याची ७५ वर्षे पूर्ण झाल्याबद्दल पाकिस्तानच्या नामांकित खेळाडूंना पुरस्कार जाहीर,sports,international,0.81486726,False
+XLM-RoBERTa,Malayalam,ഫിൻലൻഡിന് അംഗത്വം; നാറ്റോ ആസ്ഥാനത്ത് പതാക ഉയർന്നു,international,sports,0.8126026,False
+mBERT,Hindi,"‘तू चीज़ बड़ी है musk musk … तू चीज़ बड़ी है, मस्क’- वापस मिला ब्लू टिक तो ऐसे ट्वीट कर रहे सेलिब्रिटी",technology,entertainment,0.81133777,False
+mBERT,Tamil,"‘Kannur Squad’ Review - காவல் துறை நடைமுறையும், ‘த்ரில்’ அனுபவமும்!",entertainment,crime,0.80925995,False
+mBERT,Malayalam,ഫിൻലൻഡിന് അംഗത്വം; നാറ്റോ ആസ്ഥാനത്ത് പതാക ഉയർന്നു,international,technology,0.80918646,False
+XLM-RoBERTa,Malayalam,'പ്രിയപ്പെട്ടവരുടെ തുടരേയുള്ള വേർപാടുകൾ... അതുണ്ടാക്കുന്ന നിസ്സീമമായ വ്യഥ...',entertainment,technology,0.8083072,False
+mBERT,Tamil,கன்னியாகுமரி மாவட்டத்தில் கனமழையால் ஆறுகளில் வெள்ளம் - கரையோர மக்களுக்கு எச்சரிக்கை,entertainment,crime,0.8066204,False
+mBERT,Marathi,"बुर्ज खलिफावर पुन्हा झळकला शाहरुख, व्हिडिओतून सांगतिली प्रेरणादायी कथा",international,crime,0.8057519,False
+mBERT,Hindi,"टोक्यो पैरालंपिक्स: इतिहास रचने के बाद भाविना पटेल ने पदक भी पक्का किया, तीरंदाज राकेश कुमार ने भी किया कमाल",international,sports,0.80564225,False
+mBERT,Telugu,Chikoti Praveen Whatsapp Data  : చీకోటి ప్రవీణ్ లిస్టులో ఉన్న వాళ్లంతా ఈడీ ముందు క్యూ కట్టాల్సిందే - నోటీసులు రెడీ అయ్యాయా  ?,crime,entertainment,0.80547327,False
+IndicBERT-v2,Malayalam,'ഞാനൊരു ഭിന്നശേഷിക്കാരിയാണ്; എല്ലാ കുട്ടികളും എന്റെ മക്കളെ പോലെ' -മുസ്‍ലിം വിദ്യാർഥിയെ അടിച്ച സംഭവത്തിൽ വിശദീകരണവുമായി അധ്യാപിക,crime,international,0.8021553,False
+mBERT,Tamil,கரூர் மணல் குவாரிகளில் 3-வது முறையாக அமலாக்கத்துறை சோதனை,entertainment,crime,0.80109656,False
+mBERT,Tamil,எதிரணியை கட்டுப்படுத்த வழியை கண்டறிய வேண்டும்: ரோஹித் சர்மா அறிவுறுத்தல்,sports,entertainment,0.80097866,False
+mBERT,Marathi,"IND vs ZIM 1st ODI Live : नाणेफेकीचा कौल भारताच्या बाजूने; 'या' खेळाडूचं झालं पुनरागमन, जाणून घ्या Playing XI",sports,entertainment,0.80066884,False
+mBERT,Marathi,"ज्या बँकेत काम केले, तिथेच टाकला दरोडा; 68 कोटी घेऊन महिला फरार, नंतर...",international,crime,0.7997161,False
+IndicBERT-v2,Marathi,"PFI फंडिंगबाबत मोठा खुलासा, आखाती देशांमध्ये राहणाऱ्या 500 हून अधिक लोकांची बँक खाती रडारवर!",crime,international,0.79969317,False
+XLM-RoBERTa,Hindi,"UK: गलती से फोन पर रिकॉर्ड हुई चोरी से जुड़ी बातें, चेकिंग में धरा गया; अब चोर को 4 साल की जेल",crime,international,0.7960229,False
+IndicBERT-v2,Tamil,இந்திய கோடீஸ்வரர்கள் பட்டியலில் பின்தங்கினார் அதானி: மீண்டும் முதலிடத்தில் முகேஷ் அம்பானி,entertainment,international,0.79586476,False
+XLM-RoBERTa,Hindi,"नारी निकेतन से सामने आई वार्डन की हिटलरशाही, पैर की मालिश के साथ कराती थी घर का सारा काम, वीडियो वायरल हुआ तो गिरी गाज",crime,international,0.79516065,False
+IndicBERT-v2,Tamil,இன்று என்ன? - வெற்றி சூத்திரத்தின் தந்தை ஹில்,entertainment,international,0.7951578,False
+IndicBERT-v2,Malayalam,കു​ട്ടി​ക​ളി​ൽ ഹ്ര​സ്വ​ദൃ​ഷ്​​ടി; ചൈനയിൽ ഒാ​ൺ​ലൈൻ ഗെ​യി​മു​ക​ൾ​ക്ക്​ നി​യ​ന്ത്ര​ണം,technology,international,0.7932489,False
+XLM-RoBERTa,Malayalam,ചെന്നൈയുടെ ‘തല’പ്പൊക്കം; എം.എസ്.ഡിയെന്ന ബ്രാൻഡ് ലോഗോ,sports,technology,0.7921123,False
+mBERT,Malayalam,"15 വർഷം മുൻപ് മാതാപിതാക്കൾക്ക് ചെലവായത്  70,000 രൂപ, അന്ന് ഷറഫുദ്ദിനോട് ദേഷ്യം തോന്നി; ഭക്ഷ്യവിഷബാധയേറ്റതിനെ കുറിച്ച് അൽഫോൺസ് പുത്രൻ",entertainment,international,0.79131615,False
+IndicBERT-v2,Tamil,வரும் 10 ஆண்டுகளில் உலகின் முதல் 5 கப்பல் கட்டும் நாடுகளில் ஒன்றாக இந்தியா திகழும்: பிரதமர் மோடி,entertainment,international,0.79096997,False
+mBERT,Malayalam,നാട്ടുവൈദ‍്യൻ ഷാബ ഷെരീഫ് വധം; മുഖ‍്യപ്രതിയുടെ അഭിഭാഷകർ  സി.ബി.ഐക്കൊപ്പം നിലമ്പൂരിലെത്തി,crime,entertainment,0.7885629,False
+mBERT,Telugu,Mask: టైమ్ బ్యాడ్... పదహారు సెకన్ల పాటూ మాస్క్ తీసినందుకు రూ.2 లక్షల ఫైన్,international,technology,0.787433,False
+mBERT,Telugu,China Phones: దేశం నుంచి తరలిపోతున్న చైనా స్మార్ట్ ఫోన్ కంపెనీలు!,technology,international,0.7873367,False
+XLM-RoBERTa,Malayalam,ഗഗൻയാൻ പരീക്ഷണ വാഹന വിക്ഷേപണം ഈ മാസം അവസാനത്തിൽ,technology,international,0.78732604,False
+mBERT,Tamil,அணுமின் நிலையம் மூடப்படுவது தள்ளி போகுமா?,international,technology,0.7872178,False
+XLM-RoBERTa,Marathi,UPI पेमेंटमध्ये मोठी वाढ; पुढील 5 वर्षांत दररोज होतील 1 बिलियन पेमेंट्स!,technology,international,0.78584254,False
+mBERT,Marathi,"डेटवर गेलेली अभिनेत्री अचानक गायब झाल्यामुळे उडाली होती खळबळ, आता अशा अवस्थेत सापडली",international,crime,0.78470623,False
+XLM-RoBERTa,Hindi,"इक्वाडोर की जेल में बंद ड्रग्स माफियाओं के बीच गैंगवार, 68 की मौत, 25 घायल",international,crime,0.7846659,False
+IndicBERT-v2,Hindi,"Wrestlers News: बृजभूषण सिंह का दावा- महिला पहलवान के स्तन पर नहीं योग सिखाते हुए अपने पेट पर लगाया हाथ, BJP सांसद ने पूछताछ में बेटे की आत्महत्या का भी किया जिक्र",crime,sports,0.78446037,False
+mBERT,Malayalam,ചന്ദ്രയാൻ-രണ്ടിന് ആശംസയുമായി ബംഗളൂരുവിലെ ‘ആംസ്ട്രോങ്’,technology,entertainment,0.7837711,False
+IndicBERT-v2,Telugu,సోషల్ మీడియా పోస్టులకు లైక్ చేస్తే ఆదాయం- పోలీసులకు రోజుకు ఐదారు ఫిర్యాదులు!,crime,technology,0.7820816,False
+XLM-RoBERTa,Telugu,"Netflix: ఇకపై నెట్‌ఫ్లిక్స్‌లో భారతీయ మహిళల విజయగాథలు, స్వాతంత్ర్య పోరాట ఘట్టాలు",international,technology,0.7814893,False
+IndicBERT-v2,Marathi,"'लग्न, सेक्स आणि पत्नीची प्रेग्नेन्सी', कामाची लिस्ट बनवून व्यक्तीने केला रक्तपात!",international,crime,0.78129894,False
+XLM-RoBERTa,Telugu,"బాలీవుడ్ బాద్ షా షారుక్ ఖాన్ ఇంటి ముందు ఆందోళన, ఆయన చేసిన ప్రమోషన్ పై మండిపాటు",entertainment,international,0.7807529,False
+mBERT,Telugu,AI Girlfriend CarynAI: లవ్ ఫర్ సేల్ - నిమిషానికి డాలరు మాత్రమే - డేంజర్‌లో హ్యూమన్ రిలేషన్ షిప్స్?,international,entertainment,0.78058946,False
+IndicBERT-v2,Marathi,Texas School Firing: नियतीचा क्रूर खेळ; शाळेच्या बक्षीस समारंभातील आई-मुलाची भेट ठरली शेवटची!,international,crime,0.7796836,False
+XLM-RoBERTa,Tamil,தென்னை நார் தொழிற்சாலையை ஆரஞ்சு வகைப்படுத்திய உத்தரவு வாபஸ்,entertainment,international,0.7793588,False
+mBERT,Marathi,चाळीस लाखांच्या फ्लॅटला ४० हजारांचा डोअर लावा ना भाऊ...! घर सुरक्षित कसे राहणार?,crime,international,0.7775187,False
+XLM-RoBERTa,Tamil,"பெட்ரோல் குண்டு வீசப்பட்ட விவகாரத்தில் ஆளுநர் மாளிகை அளித்தது மிகைப்படுத்தப்பட்ட புகார்: டிஜிபி, காவல் ஆணையர் விளக்கம்",entertainment,crime,0.7774175,False
+IndicBERT-v2,Telugu,"Gun Fire in US: అమెరికాలో మరోసారి కాల్పుల కలకలం - ఆరుగురి హత్య, నిందితుడూ మృతి",crime,international,0.77552694,False
+IndicBERT-v2,Marathi,धक्कादायक! हॉटेल रुममध्ये गर्लफ्रेंडसोबतच्या सेक्सनंतर इंग्लंडच्या खेळाडूचा मृत्यू; महिलाही जखमी,international,sports,0.7719921,False
+IndicBERT-v2,Hindi,"Online Games खेलने की लत पड़ी भारी! बच्चे ने खर्च दिए 52 लाख रुपये, मां के अकाउंट में बचे सिर्फ पांच रुपये",international,crime,0.7708838,False
+XLM-RoBERTa,Marathi,"बिल गेट्स म्हणतात, पैसा हे सर्वस्व नव्हे!",international,technology,0.7703379,False
+XLM-RoBERTa,Malayalam,നി​ഖി​ൽ തോ​മ​സി​ന് വ്യാ​ജ സ​ർ​ട്ടി​ഫി​ക്ക​റ്റ് ന​ൽ​കി​യ ഏ​ജ​ൻ​സി ഉ​ട​മ പി​ടി​യി​ൽ,crime,sports,0.76914227,False
+IndicBERT-v2,Malayalam,ആ​ല​പ്പി ക്രി​ക്ക​റ്റ് ടൂ​ർ​ണ​മെൻറ്​ നാ​ളെ​യും മ​റ്റ​ന്നാ​ളും,sports,technology,0.7676978,False
+mBERT,Telugu,Flight Tickets Booking: ఈ సైట్ల నుంచి ఫ్లైట్ టికెట్లు బుక్ చేస్తున్నారా? మీ సొమ్ము గోవిందా!,crime,technology,0.76663315,False
+IndicBERT-v2,Malayalam,ജി​ല്ല സ്കൂ​ൾ കാ​യി​ക മേ​ള: അഞ്ചലോട്ടത്തിന് പൊൻകിരീടം,sports,technology,0.7640681,False
+IndicBERT-v2,Hindi,"वीरेंद्र सहवाग के स्कूल में यौन शोषण का केस, घटना के वक्त बंद थे हॉस्टल के सीसीटीवी कैमरे",crime,sports,0.7634193,False
+XLM-RoBERTa,Marathi,"Dinesh Karthik ला चाहूल लागली, निवृत्तीची घोषणा केली? इस्टाग्रामवरील पोस्टची जोरदार चर्चा",sports,entertainment,0.76190555,False
+XLM-RoBERTa,Malayalam,ഏഷ്യയിലെ ആദ്യത്തെ 'മെറ്റാവേഴ്സ് വിവാഹ സൽക്കാരം' കഴിഞ്ഞു; ചിത്രങ്ങളും വിഡിയോയും കാണാം...,technology,international,0.76149607,False
+XLM-RoBERTa,Marathi,मुलींना मांडीवर बसवून अश्लील सिनेमे दाखवायचा शिक्षक; पालकांनी चपलांचा हार घालून धिंडच काढली!,crime,entertainment,0.7597647,False
+XLM-RoBERTa,Marathi,"राणी एलिझाबेथ यांच्या शवपेटीजवळ रॉयल गार्ड अचानक पडला बेशुद्ध, पाहा व्हायरल व्हिडीओ",international,crime,0.7578133,False
+mBERT,Hindi,संजू सैमसन अब क्या कर दे? शशि थरूर ने सूर्यकुमार यादव की विफलता के बाद RR के कप्तान की गैरमौजूदगी पर उठाया सवाल,sports,entertainment,0.75204355,False
+IndicBERT-v2,Malayalam,ചെകുത്താൻ ലാസർ തിരക്കിലാണ്,entertainment,international,0.7510118,False
+mBERT,Tamil,ட்விட்டர் போர்டை கலைத்த எலான் மஸ்க்: ஒற்றை இயக்குநராக தன்னையே அறிவித்தார்,international,technology,0.7505274,False
+XLM-RoBERTa,Telugu,"Plane Collision Video: ఎయిర్‌షోలో ఊహించని ఘటన, ఢీ కొట్టుకున్న రెండు విమానాలు - ఆరుగురు మృతి",international,crime,0.750018,False
+XLM-RoBERTa,Marathi,"फिनलँड सलग पाचव्यांदा ठरला सर्वात आनंदी देश, असं काय आहे या देशात अन् भारताचा क्रमांक कितवा? वाचा...",international,sports,0.74770737,False
+XLM-RoBERTa,Tamil,"விஷால், எஸ்.ஜே.சூர்யாவின் ‘மார்க் ஆண்டனி’ அக்.13-ல் ஓடிடியில் ரிலீஸ்",entertainment,sports,0.7476854,False
+IndicBERT-v2,Marathi,"Parag Agrawal: ट्विटरचं भविष्य अंधारात, मस्कसोबत डिल होताच पराग अग्रवालांचं भाकीत",international,technology,0.7451979,False
+mBERT,Malayalam,പാരമ്പര്യ വേഷമണിഞ്ഞും വാളേന്തിയും നൃത്തംവെച്ചും​ ​റൊണാൾഡോയും നെയ്​മറും,sports,entertainment,0.7426391,False
+mBERT,Tamil,வெம்பாக்கம் | வலுக்கட்டாயமாக சிறுவன் வாயில் மதுபானம் ஊற்றியதால் மயக்கம்: மருத்துவமனையில் தீவிர சிகிச்சை,crime,entertainment,0.73987174,False
+mBERT,Tamil,ப்ரீமியம் மாறட்டும் கல்விமுறை - 18: ஒன்றும் ஒன்றும் இரண்டல்ல!,entertainment,technology,0.73920804,False
+mBERT,Hindi,"रोज रात भेजो एक लड़की या फिर खुद आ जाओ…वार्डन के SDM पर गंभीर आरोप, कहा- हॉस्टल भी कराया बंद",crime,international,0.7389312,False
+XLM-RoBERTa,Marathi,"खासगी फोटोंवरुन 50 महिलांना केलं ब्लॅकमेक; टिकटॉक स्टार गजाआड, 'असा' ओढायचा जाळ्यात",crime,entertainment,0.73868084,False
+XLM-RoBERTa,Hindi,"Online Games खेलने की लत पड़ी भारी! बच्चे ने खर्च दिए 52 लाख रुपये, मां के अकाउंट में बचे सिर्फ पांच रुपये",international,technology,0.73859656,False
+IndicBERT-v2,Telugu,China Phones: దేశం నుంచి తరలిపోతున్న చైనా స్మార్ట్ ఫోన్ కంపెనీలు!,technology,international,0.73744243,False
+IndicBERT-v2,Telugu,"Netflix: ఇకపై నెట్‌ఫ్లిక్స్‌లో భారతీయ మహిళల విజయగాథలు, స్వాతంత్ర్య పోరాట ఘట్టాలు",international,entertainment,0.736509,False
+IndicBERT-v2,Hindi,सौरमंडल के बाहर अब तक का सबसे छोटा ग्रह का पता चला,international,technology,0.7358243,False
+mBERT,Hindi,"Bomb Threat: तेहरान से चीन जा रहे विमान में बम की खबर, पायलट ने दिल्ली ATC से मांगी थी मदद",crime,international,0.7353532,False
+mBERT,Marathi,CoronaVirus : अजूनही मास्क काढायची चूक करू नका; अडीच कोटी लोकसंख्या असलेल्या 'या' शहरात लागला लॉकडाऊन,international,technology,0.7353468,False
+XLM-RoBERTa,Hindi,"राफेल डीलः दस्तावेज बताते हैं कि बिचौलियों को मिले करोड़ों रुपए- कांग्रेस, 24 घंटे में न आया सरकार का जवाब",international,crime,0.7343389,False
+mBERT,Telugu,టూర్ వెళ్లేటప్పుడు మీరు ఇలా చేస్తున్నారేమో చూసుకోండి? జాగ్రత్త పడండి!,crime,technology,0.7329434,False
+IndicBERT-v2,Telugu,Microsoft CMO:  జీతం పెరగలేదా? ఈ చిట్కా పాటిస్తే హైక్ వచ్చేస్తుంది - మైక్రోసాఫ్ట్ సీఎమ్‌వో సలహా,international,technology,0.72774345,False
+mBERT,Marathi,नोबेल पारितोषिक विजेत्या 'आंग सान सू कीं'ना 5 वर्षांचा तुरुंगावास,international,entertainment,0.7276968,False
+IndicBERT-v2,Malayalam,ഇൻസ്റ്റഗ്രാമിൽ ആദ്യം; 600 മില്യൺ​ ഫോളോവേഴ്സിനെ നേടി ക്രിസ്റ്റ്യാനോ റൊണാൾഡോ,sports,technology,0.7274453,False
+mBERT,Hindi,"ससुर पर लगाया था दुष्कर्म का झूठा केस, 8 साल बाद कोर्ट ने बहू और उसके पिता के खिलाफ सुनाया यह फैसला",crime,international,0.72356594,False
+XLM-RoBERTa,Marathi,"IND vs BAN 2nd ODI Live : रोहित शर्मा बोटाला पट्टी बांधून हॉस्पिटलमधून परतला, तोपर्यंत भारताचा आणखी एक गोलंदाज जखमी झाला",entertainment,sports,0.72032857,False
+XLM-RoBERTa,Marathi,"IND vs BAN 2nd ODI Live : रोहित शर्मा बोटाला पट्टी बांधून हॉस्पिटलमधून परतला, तोपर्यंत भारताचा आणखी एक गोलंदाज जखमी झाला",entertainment,sports,0.72032857,False
+mBERT,Malayalam,ബ്രിജ് ഭൂഷണെ സംരക്ഷിച്ചു സർക്കാർ നിയോഗിച്ച അന്വേഷണ സമിതിയുടെ പ്രാഥമിക റിപ്പോർട്ട്; പ്രതിഷേധവുമായി താരങ്ങൾ,sports,technology,0.71994555,False
+mBERT,Malayalam,‘ആ കുഞ്ഞുങ്ങൾക്ക് ഒരു പാവ സഹായം’- തുർക്കിയിൽ ഭൂകമ്പത്തിനിരയായ കുരുന്നുകൾക്ക് വേറിട്ട സഹായവുമായി ഫുട്ബാൾ മത്സരം- വിഡിയോ,international,sports,0.71871156,False
+IndicBERT-v2,Marathi,"स्टीव्ह जॉब्स यांच्या 'या' सँडल इतक्या कोटींना विकल्या, कारण जाणून तुम्हाला वाटेल आश्चर्य!",international,technology,0.71531343,False
+IndicBERT-v2,Tamil,அமெரிக்காவின் நாசா தயாரித்துள்ள மின்சார விமானம் இந்த ஆண்டு அறிமுகம்,international,technology,0.71505064,False
+mBERT,Tamil,தரவரிசையில் பி.வி.சிந்து முன்னேற்றம்,sports,international,0.71043843,False
+mBERT,Malayalam,പ്രശസ്തരായ രണ്ടുപേർ ഒന്നിക്കുന്നത് ലോകം ഇഷ്ടപ്പെടുന്നില്ല -നഗ്മ,entertainment,international,0.70402366,False
+mBERT,Marathi,"फूड डिलिव्हरी करण्यासाठी मुलीचा 30000 किमी प्रवास, पाहा व्हिडीओ",international,technology,0.7035568,False
+mBERT,Marathi,"Dinesh Karthik ला चाहूल लागली, निवृत्तीची घोषणा केली? इस्टाग्रामवरील पोस्टची जोरदार चर्चा",sports,entertainment,0.70347846,False
+mBERT,Telugu,"ఏడుగురిని పెళ్లాడిన మహిళ, చివరకు ఏమైందంటే?",crime,international,0.7011446,False
+mBERT,Malayalam,രസതന്ത്ര നൊ​േബൽ ജേതാവ്​ ഷിമോമുറ നിര്യാതനായി,technology,international,0.7001644,False
+mBERT,Telugu,Yashasvi Jaiswal: 98పై ఆగిపోవడానికి కారణం అదే - నా మైండ్‌లో అదే ఉంది: యశస్వి,sports,entertainment,0.698785,False
+IndicBERT-v2,Hindi,नेपाल के क्रिकेट को चाहिए चौतरफा मदद और समर्थन,sports,international,0.6972177,False
+mBERT,Tamil,"""வடக்கிலிருந்து வெளியேறுங்கள்; இல்லாவிட்டால் தீவிரவாதிகளாகக் கருதுவோம்"" - காசாவாசிகளுக்கு இஸ்ரேல் அவசர எச்சரிக்கை",entertainment,international,0.6960464,False
+mBERT,Marathi,नो वन फाइट्स अलोन-मुलांची अजब दोस्ती!,international,technology,0.69514304,False
+XLM-RoBERTa,Tamil,விம்பிள்டன் ஜாம்பவான் பெடரரை தலைவா என்று அழைத்தது தமிழுக்கு பெருமை - பிரதமர் மோடி பெருமிதம்,sports,international,0.6937656,False
+IndicBERT-v2,Malayalam,ലോകത്തിലെ ഏറ്റവും ശക്തമായ റോക്കറ്റ് എഞ്ചിൻ നിർമ്മിക്കാൻ റഷ്യ,international,technology,0.6919641,False
+mBERT,Malayalam,"ഇ​ര​യോ, അ​തോ വേ​ട്ട​ക്കാ​ര​നോ?",entertainment,technology,0.69150233,False
+XLM-RoBERTa,Marathi,"नर्सचा कारनामा वाचून चक्रावून गेले लोक, १०० रूग्णांचा जीव टाकला धोक्यात; कसा तो वाचा!",international,crime,0.68891597,False
+XLM-RoBERTa,Telugu,Gautam Gambhir: గంభీర్‌ను భస్మాసురుడితో పోల్చిన పత్రిక -  పరువు నష్టం దావా వేసిన  బీజేపీ ఎంపీ,sports,entertainment,0.68783164,False
+XLM-RoBERTa,Tamil,வாரத்துக்கு 70 மணி நேரம் வேலை பார்க்க வேண்டுமா? - பெரு நிறுவனங்களின் சிஇஓக்கள் கூறுவது என்ன?,entertainment,technology,0.6865804,False
+XLM-RoBERTa,Tamil,பன்னாட்டு அலை சறுக்குப் போட்டி | ஜப்பான் வீராங்கனைகளுக்கு முதல்வர் ஸ்டாலின் வாழ்த்து,sports,international,0.68506163,False
+XLM-RoBERTa,Malayalam,ആരെയും ഭാവഗായകനാക്കും...,entertainment,technology,0.6850128,False
+mBERT,Malayalam,ഏഴ് നവജാതശിശുക്കളെ കൊന്ന സംഭവത്തിൽ നഴ്സ് കുറ്റക്കാരി,crime,international,0.6847269,False
+mBERT,Marathi,"तरूणींना मारून त्यांचं मांस बर्गरमध्ये टाकून विकायचा, खतरनाक होता हा सीरीअल किलर",crime,international,0.68077314,False
+mBERT,Hindi,"Elon Musk vs Trudeau: जस्टिन ट्रूडो पर भड़के एलन मस्क, कनाडा के इस फैसले को बताया शर्मनाक",international,sports,0.6790777,False
+mBERT,Telugu,"MGNREGS: బ్యాంకు ఖాతాలోనే ఉపాధి హామీ డబ్బుల జమా, సెప్టెంబర్ 1 నుంచి తప్పనిసరి చేస్తూ ఆదేశాలు",technology,crime,0.67900825,False
+XLM-RoBERTa,Marathi,"कारागृहे कैद्यांनी ओव्हर फ्लो, पण अधिकाऱ्यांची पदोन्नतीसाठी चढाओढ",crime,international,0.6780613,False
+XLM-RoBERTa,Marathi,'या' देशात दारू पिणाऱ्यांमुळे पसरला कोरोना? आता टेस्टसाठी लागतायत लांबच लांब रांगा,international,technology,0.67784894,False
+IndicBERT-v2,Hindi,"दिन में 15 घंटे काम, जबरन साइबर क्राइम और इलेक्ट्रिक शॉक- थाईलैंड में दिया जॉब का झांसा, म्यांमार में बंधक बनाए गए 300 भारतीय",crime,international,0.67704767,False
+mBERT,Tamil,பகுதி நேர வேலை தருவதாக பண மோசடி: தாம்பரம் மாநகர போலீஸார் எச்சரிக்கை,crime,entertainment,0.6743776,False
+IndicBERT-v2,Telugu,టూర్ వెళ్లేటప్పుడు మీరు ఇలా చేస్తున్నారేమో చూసుకోండి? జాగ్రత్త పడండి!,crime,technology,0.6717463,False
+mBERT,Hindi,"जब एक बक्से में बंद होकर फ्लाइट से भागा था Nissan और Renault कंपनी का बॉस, जानिए क्या थी वजह",crime,international,0.6715638,False
+XLM-RoBERTa,Malayalam,ബെൻസെമ ഇത്തിഹാദിലേക്ക്; പ്രാഥമിക കരാർ ഒപ്പുവെച്ചു,sports,international,0.67113405,False
+mBERT,Marathi,Pakistan:स्वातंत्र्याची ७५ वर्षे पूर्ण झाल्याबद्दल पाकिस्तानच्या नामांकित खेळाडूंना पुरस्कार जाहीर,sports,international,0.6697141,False
+mBERT,Malayalam,ഐശ്വര്യ രജനികാന്തിന്റെ  വസതിയിൽ മോഷണം; ലക്ഷങ്ങൾ വിലമതിക്കുന്ന സ്വർണാഭരണങ്ങളും വജ്രവും നഷ്ടപ്പെട്ടു,entertainment,international,0.66952646,False
+IndicBERT-v2,Telugu,"MGNREGS: బ్యాంకు ఖాతాలోనే ఉపాధి హామీ డబ్బుల జమా, సెప్టెంబర్ 1 నుంచి తప్పనిసరి చేస్తూ ఆదేశాలు",technology,entertainment,0.665831,False
+XLM-RoBERTa,Marathi,Free Fire गेममध्ये अवघ्या १२ वर्षांच्या मुलाने उडविले तब्बल १२ लाख,crime,technology,0.66538715,False
+XLM-RoBERTa,Malayalam,പാലക്കാട് മലയോര മേഖലയിൽ വൻകഞ്ചാവ് വേട്ട,crime,entertainment,0.66479313,False
+IndicBERT-v2,Malayalam,യുക്രെയ്ൻ വിഡിയോ: ഗൂഗിളിന് 30 ലക്ഷം റൂബിൾ പിഴയിട്ട് റഷ്യ,international,technology,0.6643806,False
+mBERT,Hindi,"अफगानिस्तान में मर्दों को 400 खेल खेलने की मंजूरी, तालिबान से बचकर पाकिस्तान पहुंचीं अफगानी महिला फुटबॉलर्स",international,sports,0.6639403,False
+mBERT,Malayalam,സീരിയൽ കില്ലർ ചാൾസ് ശോഭരാജ് ജയിൽ മോചിതനാകുന്നു,international,entertainment,0.663495,False
+mBERT,Telugu,Samson Post Viral: సంజూ శాంసన్‌ పోస్ట్‌! టీమ్‌ఇండియాపై 'బాహుబలి' ఇంటర్వెల్‌ సీన్‌ రిపీట్‌!,sports,entertainment,0.6623363,False
+mBERT,Malayalam,ഗൂഗ്​ളിനും ഫേസ്​ബുക്കിനുമെതിരെ നിയമം പാസാക്കി ആസ്​ട്രേലിയ; വാർത്തകൾക്ക്​ പണം ഒടുക്കണം,technology,international,0.6615851,False
+XLM-RoBERTa,Telugu,దుబాయ్ జైళ్లలో ఉన్న వారిని విడుదల చేయండి - యూఏఈ రాయబారికి కేటీఆర్ విజ్ఞప్తి,international,crime,0.6600531,False
+mBERT,Malayalam,പാകിസ്താനെ പരാജയപ്പെടുത്തി അണ്ടര്‍ 19 സാഫ് കിരീടം ഇന്ത്യയ്ക്ക്,sports,international,0.6586177,False
+mBERT,Tamil,ப்ரீமியம் வெள்ளித்திரை வகுப்பறை 15: அற்புதம் சூழ் உலகு,entertainment,technology,0.65832484,False
+mBERT,Malayalam,ആർ.സി.ബിക്കെതിരെയും പൂജ്യത്തിന് പുറത്ത്; ജോസ് ബട്ലർക്ക് ‘ഡക്ക്’ റെക്കോഡ്,sports,entertainment,0.657887,False
+mBERT,Marathi,"Girlfriend Killed Boyfriend: गर्लफ्रेंडने रागाच्या भरात घेतला प्रियकराचा जीव, नंतर स्वत:ला वाचवण्यासाठी केला वेगळाच 'प्लॅन'",crime,international,0.6567377,False
+IndicBERT-v2,Telugu,"Mark Zuckerberg: ఆ విషయంలో అంబానీ కంటే ముందున్న జుకర్‌బర్గ్‌, టైమ్‌ వస్తే ఎవర్నీ ఆపలేం!",international,technology,0.65307313,False
+XLM-RoBERTa,Malayalam,ആന്‍റിഗ്വയിൽ നിന്ന് നാടുകടത്തരുത്; അനുകൂല വിധി സമ്പാദിച്ച് മെഹുൽ ചോസ്കി,international,sports,0.65239555,False
+IndicBERT-v2,Malayalam,കോഹ്‍ലി- അനുഷ്ക വിവാഹം പോലെയല്ല കെ.എൽ രാഹുലിന്റേയും ആതിയയുടേയും; അതിഥികൾക്ക് നിർദേശങ്ങൾ ഇല്ല...,entertainment,sports,0.6523111,False
+mBERT,Tamil,தமிழகத்தில் 14 உதவி ஆணையர்கள் அதிரடி மாற்றம்: டிஜிபி திரிபாதி உத்தரவு,crime,entertainment,0.6512613,False
+mBERT,Marathi,Texas School Firing: नियतीचा क्रूर खेळ; शाळेच्या बक्षीस समारंभातील आई-मुलाची भेट ठरली शेवटची!,international,sports,0.6494118,False
+XLM-RoBERTa,Hindi,"बंटवारे में बिछड़ा परिवार, 92 साल के सरवन सिंह की भतीजे अब्‍दुल खालिक से 75 साल बाद हुई मुलाकात, करतारपुर साहिब में हुआ आमना-सामना",international,crime,0.6442232,False
+mBERT,Telugu,Virginity Test  : ఫస్ట్ నైట్ కన్యత్వ పరీక్ష - ఫెయిలయిందని రూ.10 లక్షల ఫైన్ !,crime,technology,0.6415679,False
+XLM-RoBERTa,Marathi,"आदल्या दिवशी प्रियकरासोबत नववधूच्या वेशात संबंध ठेवले; लग्नानंतर पतीला समजले, पोलीस ठाणे गाठले",entertainment,crime,0.6373213,False
+XLM-RoBERTa,Hindi,"जूता पहनने का भी नहीं मिला मौका, चप्पल पहनकर भागना पड़ा, बोले अशरफ गनी",international,sports,0.637044,False
+mBERT,Malayalam,തിയേറ്ററുകളിൽ തരംഗം തീർക്കാൻ 33 വർഷങ്ങൾക്ക് ശേഷം; റീ റിലീസിനൊരുങ്ങി ദളപതി,entertainment,technology,0.6354256,False
+mBERT,Tamil,ஆன்லைனில் வாங்கிய ரூ.350 போர்வைக்கு ரூ.12 லட்சம் கார் பரிசு என நூதன மோசடி: போலீஸிடம் சென்றதால் தப்பிய பஞ்சர் கடைக்காரர்,crime,international,0.63316727,False
+mBERT,Malayalam,ആ​ഘോ​ഷ​മാ​സം; ഉ​ത്സ​വ​മേ​ളം,sports,entertainment,0.63293093,False
+mBERT,Marathi,"विदर्भ एक्स्प्रेससमोर युगुलाची आत्महत्या, दोघेही अनोळखी",crime,international,0.6302392,False
+IndicBERT-v2,Malayalam,"ഷിയെ ക്ഷ​ണി​ച്ച് പു​ടി​ൻ; റ​ഷ്യ, ചൈ​ന സൈ​നി​ക​സ​ഹ​ക​ര​ണം ശ​ക്തി​പ്പെ​ടു​ത്തും",international,crime,0.62940526,False
+XLM-RoBERTa,Malayalam,ബി.​ബി.​സി ഡോ​ക്യു​മെ​ന്‍ററി; മോ​ദി​യെ പ്ര​തി​രോ​ധി​ച്ച് ഋ​ഷി സു​ന​ക്,international,sports,0.6290639,False
+mBERT,Malayalam,കി​രീ​ട​മി​ല്ലാ​ത്ത രാ​ജാ​ക്ക​ന്മാ​ർ...പ​ഞ്ചാ​ബ് കി​ങ്സ്,sports,international,0.62668544,False
+mBERT,Marathi,डीएनए नमुने न जुळल्याने निर्दोषत्व सिद्ध होत नाही,crime,international,0.62500006,False
+XLM-RoBERTa,Malayalam,യുക്രെയ്ൻ വിഡിയോ: ഗൂഗിളിന് 30 ലക്ഷം റൂബിൾ പിഴയിട്ട് റഷ്യ,international,technology,0.62492687,False
+mBERT,Hindi,"Online Games खेलने की लत पड़ी भारी! बच्चे ने खर्च दिए 52 लाख रुपये, मां के अकाउंट में बचे सिर्फ पांच रुपये",international,technology,0.623958,False
+mBERT,Telugu,"Jacqueline Fernandes: ముద్దుగుమ్మల పోట్లాట - అనవసర విషయాల్లోకి ఆమెను లాగోద్దు, నోరా ఫతేహీపై జాక్వెలిన్ లాయర్ ఫైర్ - వీరి గొడవేంటీ?",entertainment,sports,0.6226607,False
+mBERT,Tamil,2030-ம் ஆண்டில் இந்தியா உலகின் 3-வது பெரிய பொருளாதார நாடாக மாறும்: சர்வதேச பொருளாதார மதிப்பீட்டு நிறுவனம் தகவல்,entertainment,international,0.62170416,False
+XLM-RoBERTa,Malayalam,അടുക്കള പുതുക്കിപ്പണിതപ്പോൾ കിട്ടിയത്​ 400 വർഷം പഴക്കമുള്ള അപൂർവ ചിത്രം,international,entertainment,0.62069386,False
+mBERT,Hindi,"नारी निकेतन से सामने आई वार्डन की हिटलरशाही, पैर की मालिश के साथ कराती थी घर का सारा काम, वीडियो वायरल हुआ तो गिरी गाज",crime,international,0.61406666,False
+IndicBERT-v2,Malayalam,അ​ർ​മീ​നി​യ​ൻ വം​ശ​ജ​രുടെ പ​ലാ​യ​നം പൂർണ്ണം,international,sports,0.61393154,False
+mBERT,Telugu,"Tollywood News Today : ఏపీ ప్రభుత్వానికి చిరు చురకలు, 'జైలర్' ప్రీ రిలీజ్ బిజినెస్, 'OMG 2' అప్డేట్స్ - నేటి టాప్ సినీ విశేషాలివే!",entertainment,crime,0.61393136,False
+XLM-RoBERTa,Malayalam,"ഷിയെ ക്ഷ​ണി​ച്ച് പു​ടി​ൻ; റ​ഷ്യ, ചൈ​ന സൈ​നി​ക​സ​ഹ​ക​ര​ണം ശ​ക്തി​പ്പെ​ടു​ത്തും",international,sports,0.6124215,False
+XLM-RoBERTa,Tamil,ஜி20 தலைமை பொறுப்பில் பன்முகத்தன்மையை பறைசாற்றுவோம் - வெளியுறவுத் துறை அமைச்சர் ஜெய்சங்கர் நம்பிக்கை,international,entertainment,0.61146694,False
+IndicBERT-v2,Hindi,"सीरियल किलर जॉली अम्मा: जायदाद के लिए 14 साल में 6 परिजनों को सायनाइड से दी मौत, जानें क्या था पूरा किस्सा",crime,international,0.6092517,False
+mBERT,Hindi,"Sachin Tendulkar car collection: मास्टर ब्लास्टर सचिन तेंदुलकर को है कारों से प्यार, Ferrari से लेकर Maruti 800 तक ऐसा है स्पेशल कार कलेक्शन",sports,international,0.6090151,False
+IndicBERT-v2,Marathi,"एलॉन मस्क घेतात 'श्रीरामांचा' सल्ला, ट्विटरच्या मालकांचा पडद्यामागील सिनेमा",international,technology,0.60716915,False
+IndicBERT-v2,Telugu,Top Headlines Today:  ఇవాళ్టి షెడ్యూల్‌లో ఏమున్నాయంటే?,international,sports,0.60703874,False
+mBERT,Marathi,नशीबाने थट्टा मांडली! Amazonसाठी Googleची नोकरी सोडली; आता दोन्ही कंपन्यांनी हात काढून घेतला...,entertainment,international,0.60589826,False
+mBERT,Marathi,नशीबाने थट्टा मांडली! Amazonसाठी Googleची नोकरी सोडली; आता दोन्ही कंपन्यांनी हात काढून घेतला...,entertainment,international,0.60589826,False
+mBERT,Marathi,नशीबाने थट्टा मांडली! Amazonसाठी Googleची नोकरी सोडली; आता दोन्ही कंपन्यांनी हात काढून घेतला...,entertainment,international,0.60589826,False
+mBERT,Marathi,नशीबाने थट्टा मांडली! Amazonसाठी Googleची नोकरी सोडली; आता दोन्ही कंपन्यांनी हात काढून घेतला...,entertainment,international,0.60589826,False
+mBERT,Marathi,नशीबाने थट्टा मांडली! Amazonसाठी Googleची नोकरी सोडली; आता दोन्ही कंपन्यांनी हात काढून घेतला...,entertainment,international,0.60589826,False
+mBERT,Marathi,"'लग्न, सेक्स आणि पत्नीची प्रेग्नेन्सी', कामाची लिस्ट बनवून व्यक्तीने केला रक्तपात!",international,crime,0.6057892,False
+mBERT,Tamil,சென்னை | ரஷ்யா சென்ற மாணவர் 3 மாதத்தில் சென்னை திரும்பினார்: வெளிநாட்டில் மருத்துவம் படிக்க அனுப்பி மோசடி,crime,international,0.60374665,False
+mBERT,Malayalam,ടൈ​റ്റ​ൻ ദുരന്തം; സു​ലൈ​മാ​ൻ പോ​കാ​ൻ മ​ടി​കാ​ണി​ച്ചെ​ന്ന് ബ​ന്ധു,international,sports,0.60158235,False
+XLM-RoBERTa,Telugu,"Guinness World Record: వారెవ్వా, ఒక్క కోన్‌పై 125 ఐస్‌ స్కూప్‌లు- గిన్నిస్ రికార్డ్!",international,sports,0.5999931,False
+mBERT,Malayalam,നിത്യയൗവനത്തിന് 45കാരൻ പ്രതിവർഷം ചെലവിടുന്നത് 16 കോടി; 5.1 വയസ് കുറഞ്ഞെന്ന് അവകാശവാദം,technology,international,0.59714836,False
+mBERT,Malayalam,സ്കോട്ട്‍ലൻഡിനെ നയിക്കാൻ ഇനി ഹംസ യൂസഫ്,international,technology,0.5961446,False
+mBERT,Hindi,किम जोंग उन को सता रहा हत्‍या का डर? बनवा रहा आठ नए लग्जरी बंगले ताकि हमलावर जाए उलझ,international,crime,0.5957663,False
+IndicBERT-v2,Malayalam,ദ​യ​നീ​യ തോ​ൽ​വി ഏ​റ്റു​വാ​ങ്ങി വീ​ന​സ്; യു.​എ​സ് ഓ​പ​ണി​ൽ വീ​ണ്ടും ഒ​ന്നാം റൗ​ണ്ടി​ൽ പു​റ​ത്ത്,sports,international,0.59503436,False
+mBERT,Hindi,"Provident Fund खाते में जमा है अच्छी खासी रकम, पर नहीं चेक कर पा रहे बैलेंस? यह है सरल तरीका",technology,international,0.5881551,False
+mBERT,Malayalam,ആരെയും ഭാവഗായകനാക്കും...,entertainment,technology,0.5877699,False
+XLM-RoBERTa,Malayalam,ചെകുത്താൻ ലാസർ തിരക്കിലാണ്,entertainment,international,0.58582646,False
+mBERT,Tamil,மதுரை | தமுக்கம் மைதானத்தில் 12-ம் தேதி முதல் புத்தகத் திருவிழா,entertainment,crime,0.5846387,False
+mBERT,Tamil,காஷ்மீரில் அமைதி ஏற்படுத்திய பிரதமர் மோடி: ஜேஎன்யு முன்னாள் மாணவர் சங்க துணை தலைவர் பாராட்டு,entertainment,international,0.583583,False
+mBERT,Hindi,"Bihar: ब‍िहार में शराबबंदी का असर: लगातार तीन साल ‘गर्भवती’ रही थीं ‘भाभी जी’, पोल खुली तो सब हैरान",crime,entertainment,0.58320594,False
+mBERT,Malayalam,"ചരിത്രം സൃഷ്ടിച്ച്  ഷാറൂഖ് ഖാൻ, ജവാൻ 1000 കോടി ക്ലബ്ബിൽ; സന്തോഷം പങ്കുവെച്ച്  റെഡ് ചില്ലീസ്",entertainment,technology,0.5831237,False
+IndicBERT-v2,Hindi,"डोनाल्ड ट्रंप का सोशल मीडिया प्लेटफॉर्म Truth Social आज होगा लॉन्च, जानें इसके बारे में सबकुछ",technology,international,0.5829321,False
+mBERT,Malayalam,ജർമ്മനിയുടെ ലോകകപ്പിൽ നിന്നുള്ള പുറത്താകൽ ഒരു ഹൊറർ സിനിമ പോലെ: കെയ് ഹാവെർട്സ്,sports,entertainment,0.5816224,False
+IndicBERT-v2,Telugu,"YS Sharmila : పోలీసులే దురుసుగా ప్రవర్తించారు, కోర్టులో షర్మిల వాదనలు",crime,entertainment,0.5813737,False
+mBERT,Malayalam,ബി.​ബി.​സി ഡോ​ക്യു​മെ​ന്‍ററി; മോ​ദി​യെ പ്ര​തി​രോ​ധി​ച്ച് ഋ​ഷി സു​ന​ക്,international,entertainment,0.5788165,False
+XLM-RoBERTa,Telugu,'సలార్' ఖాతాలో మరో రికార్డ్ - లక్ష డాలర్లు దాటేసిన USA ప్రీ సేల్స్ !,entertainment,international,0.57818586,False
+mBERT,Malayalam,ഗഗൻയാൻ പരീക്ഷണ വാഹന വിക്ഷേപണം ഈ മാസം അവസാനത്തിൽ,technology,international,0.57785475,False
+XLM-RoBERTa,Malayalam,2024-ൽ ബൈഡൻ മത്സരിക്കണമെന്ന് ഡെമോക്രാറ്റുകളിൽ 50 ശതമാനത്തിൽ താഴെ ആളുകൾ മാത്രമേ ആഗ്രഹിക്കുന്നുള്ളൂ; സർവേ,international,sports,0.57466435,False
+IndicBERT-v2,Malayalam,സ്വന്തം ബഹിരാകാശനിലയം പണിയാൻ റഷ്യ,technology,international,0.5721418,False
+mBERT,Telugu,"Elon Musk: ట్విటర్ యూజర్లకు షాక్ ఇవ్వనున్న మస్క్, అందరూ డబ్బు కట్టాల్సిందే !",technology,international,0.56974715,False
+IndicBERT-v2,Tamil,பிரபஞ்சத்தின் வயது 13.7 பில்லியன் ஆண்டுகள் அல்ல: விஞ்ஞானிகளை குழப்பத்தில் ஆழ்த்திய புதிய ஆய்வு,international,technology,0.5685041,False
+mBERT,Hindi,"बीमार जानवर देखने गया था वेटरनरी डॉक्टर, करा दिया “पकड़ौआ विवाह”, अपहरण का केस दर्ज",crime,international,0.56684965,False
+mBERT,Malayalam,പട്ടാപ്പകൽ ജോലി വാഗ്ദാനം ചെയ്ത് തട്ടിപ്പ്,crime,international,0.56681246,False
+mBERT,Malayalam,അർജുൻ ടെണ്ടുൽകറിന്‍റെ ആദ്യ ഐ.പി.എൽ സിക്സ്; പിതാവിനോട് താരതമ്യപ്പെടുത്തി ആരാധകർ; സമൂഹമാധ്യമങ്ങളിൽ വൈറൽ,sports,technology,0.5658137,False
+mBERT,Tamil,WWE முன்னாள் சாம்பியன் ப்ரே வியாட் உடல்நலக்குறைவால் மறைவு,sports,international,0.5655714,False
+IndicBERT-v2,Telugu,"Elon Musk Twitter: ఆఫీసు అద్దె కట్టలేక గిన్నెలు, తపేళాలు అమ్ముకుంటున్న ఎలాన్‌ మస్క్‌",international,technology,0.5645766,False
+mBERT,Malayalam,ബഹിരാകാശ യാത്രക്കിടെ ആരെങ്കിലും മരിച്ചാൽ മൃതശരീരം എന്ത് ചെയ്യും? ഉത്തരം ഇതാ...,technology,international,0.56082064,False
+mBERT,Tamil,"பெட்ரோல் குண்டு வீசப்பட்ட விவகாரத்தில் ஆளுநர் மாளிகை அளித்தது மிகைப்படுத்தப்பட்ட புகார்: டிஜிபி, காவல் ஆணையர் விளக்கம்",entertainment,crime,0.55993956,False
+XLM-RoBERTa,Tamil,கோவை | மத்திய அரசு தேர்வில் ஆள்மாறாட்டம் செய்த ஹரியானா கும்பலை பிடிக்க தனிப்படை,crime,entertainment,0.55782247,False
+IndicBERT-v2,Telugu,"ఏడుగురిని పెళ్లాడిన మహిళ, చివరకు ఏమైందంటే?",crime,international,0.55761266,False
+XLM-RoBERTa,Malayalam,ജീവിത പ്രാരാബ്​ധങ്ങളോട്​ പടവെട്ടി ഉയരങ്ങളിലെത്തിയ പ്രതിഭ,entertainment,technology,0.5569185,False
+XLM-RoBERTa,Malayalam,കാലാവസ്ഥാ വ്യതിയാനമോ? 'ഷേപ്പ് ഞാൻ മാറ്റിക്കളയും',technology,international,0.55691403,False
+IndicBERT-v2,Malayalam,ഇ​ന്ധ​നം തീ​ർ​ന്നു; നാ​സ​യു​ടെ കെ​പ്ല​ർ  ടെ​ലി​സ്​​കോ​പ്​ ദൗ​ത്യം അ​വ​സാ​നി​പ്പി​ച്ചു,technology,international,0.556838,False
+mBERT,Marathi,जय शाह यांच्याकडून दिवाळी भेट अन् स्मृती मानधनासह भारतीय महिलांनी मानले आभार,sports,international,0.5540431,False
+XLM-RoBERTa,Tamil,பணி நிரந்தரம் கோரி மின்வாரிய ஒப்பந்த தொழிலாளர் போராட்டம்,entertainment,international,0.55237013,False
+mBERT,Telugu,"Top Headlines Today: నేటి నుంచి యువగళం పునఃప్రారంభం, విజయవాడలో సీఎం జగన్ టూర్",international,crime,0.5495273,False
+mBERT,Malayalam,നെല്ലിയമ്പം ഇരട്ടക്കൊല: വിചാരണ തുടങ്ങി,crime,technology,0.5475234,False
+IndicBERT-v2,Malayalam,ചന്ദ്രയാൻ-രണ്ടിന് ആശംസയുമായി ബംഗളൂരുവിലെ ‘ആംസ്ട്രോങ്’,technology,entertainment,0.54459596,False
+mBERT,Telugu,Ishan Kishan: పంత్ బ్యాట్‌తో ఇషాన్  దూకుడు - అతడి వల్లే ఇది సాధ్యమైందన్న కీపర్,sports,entertainment,0.5443883,False
+IndicBERT-v2,Malayalam,ആ​ഘോ​ഷ​മാ​സം; ഉ​ത്സ​വ​മേ​ളം,sports,technology,0.5437103,False
+IndicBERT-v2,Marathi,IND vs BAN 2nd ODI Live : ६ बाद ६९ धावांवरून बांगलादेश २७० पार! 'M' फॅक्टरने टीम इंडियाला केले बेजार; रोहित फलंदाजीला नाही येणार,entertainment,sports,0.5404031,False
+IndicBERT-v2,Marathi,IND vs BAN 2nd ODI Live : ६ बाद ६९ धावांवरून बांगलादेश २७० पार! 'M' फॅक्टरने टीम इंडियाला केले बेजार; रोहित फलंदाजीला नाही येणार,entertainment,sports,0.5404031,False
+XLM-RoBERTa,Hindi,"शर्मिला टैगोर को मनाने के लिए भारतीय कप्तान ने भेजे थे 7 रेफ्रिजरेटर, राज कपूर की एक्ट्रेस से भी सारा के दादा ने तोड़ दिया था रिश्ता",entertainment,international,0.5403567,False
+IndicBERT-v2,Marathi,"वाह रे पठाण! Irfan Pathan ने पाकिस्तानच्या पंतप्रधानांना सुनावले; म्हणाला, तुम्ही दुसऱ्याच्या दुःखात आनंदी होणारे...",sports,international,0.536824,False
+mBERT,Telugu,Mobiles Recovery : మీ మొబైల్ మిస్సైందా? అయితే ఇలా చేయండి-కర్నూలు పోలీసుల కొత్త కాన్సెప్ట్,crime,technology,0.53677106,False
+XLM-RoBERTa,Tamil,"தமிழகத்தில் 1,567 காவல் நிலையங்களில் ரூ.38.35 கோடியில் சிசிடிவி கேமராக்கள்: அரசு தகவல்",crime,entertainment,0.5366523,False
+XLM-RoBERTa,Marathi,"Twitter मधून ६ महिन्यांच्या गर्भवती महिलेला काढलं, तिनं घेतली शपथ; म्हणाली...आता थेट कोर्टातच भेटू!",technology,crime,0.5316291,False
+mBERT,Hindi,"डिप्टी CM की पत्नी पर अभद्र टिप्पणी करने वाली महिला अरेस्ट, दो साल में बनाए 53 फेक फेसबुक और 13 जीमेल अकाउंट",crime,international,0.5295909,False
+mBERT,Malayalam,"‘ആറ് ദിവസമായി ഒരു പോസ്റ്റ് പോലുമില്ല, ത്രെഡ്സിനെ കൈവിട്ടോ’..? സക്കർബർഗിനെ കൊട്ടി മസ്ക്",technology,sports,0.5275159,False
+XLM-RoBERTa,Hindi,"अहमदाबाद ब्लॉस्टः गुजरात बीजेपी के ट्वीट पर बढ़ी रार तो ट्विटर ने हटा दी पोस्ट, जानिए किस बात को लेकर था विवाद",crime,entertainment,0.5254071,False
+mBERT,Tamil,"கொடைக்கானலை பதறவைக்கும் பைக்கர்கள்! - பொதுமக்கள், சுற்றுலா பயணிகள் அச்சம்",entertainment,international,0.5248511,False
+mBERT,Tamil,மதுரை மத்திய சிறைச்சாலையில் தடை செய்யப்பட்ட பொருட்களை தடுக்கும் வகையில் ‘எக்ஸ்ரே பேக்கேஜ்’ இயந்திரம்,crime,entertainment,0.52294225,False
+mBERT,Telugu,పూనమ్ కౌర్ సుదీర్ఘ సందేశం - పవన్ ఫ్యాన్స్ కోసమేనా?,entertainment,sports,0.5226561,False
+mBERT,Malayalam,കു​ട്ടി​ക​ളി​ൽ ഹ്ര​സ്വ​ദൃ​ഷ്​​ടി; ചൈനയിൽ ഒാ​ൺ​ലൈൻ ഗെ​യി​മു​ക​ൾ​ക്ക്​ നി​യ​ന്ത്ര​ണം,technology,international,0.522558,False
+mBERT,Telugu,"Ravi Teja Family: జపాన్‌ వెకేషన్‌లో రవితేజ, ఫ్యామిలీతో కలిసి ఎంజాయ్!",entertainment,sports,0.520872,False
+mBERT,Marathi,ट्रॅफिक जामचे टेन्शन संपले! खरेदी करा हवेत उडणारी बाइक,international,crime,0.51883507,False
+XLM-RoBERTa,Hindi,OTT पर मौजूद टॉप 5 बेहतरीन क्राइम थ्रिलर शो जो हैं सस्पेंस और रोमांच से भरपूर,crime,entertainment,0.5182726,False
+mBERT,Telugu,"Mark Zuckerberg: ఆ విషయంలో అంబానీ కంటే ముందున్న జుకర్‌బర్గ్‌, టైమ్‌ వస్తే ఎవర్నీ ఆపలేం!",international,sports,0.5156058,False
+XLM-RoBERTa,Malayalam,ലോകത്തിലെ ഏറ്റവും ശക്തമായ റോക്കറ്റ് എഞ്ചിൻ നിർമ്മിക്കാൻ റഷ്യ,international,technology,0.5144131,False
+IndicBERT-v2,Hindi,"भारत के खिलाफ मैच में ब्रायन लारा की हुई थी बेइज्जती, ड्रेसिंग रूम से फेंक दिया गया था किटबैग",international,sports,0.51398087,False
+mBERT,Malayalam,അടുക്കള പുതുക്കിപ്പണിതപ്പോൾ കിട്ടിയത്​ 400 വർഷം പഴക്കമുള്ള അപൂർവ ചിത്രം,international,technology,0.5137296,False
+IndicBERT-v2,Malayalam,"മരണ തടാകം കണ്ടെത്തി ശാസ്ത്രജ്ഞർ; ചെന്നുപെടുന്നവയെല്ലാം അവസാനിക്കും, ജീവനോടെ ആർക്കും തിരിച്ചുവരവില്ല",technology,international,0.5137181,False
+XLM-RoBERTa,Malayalam,ഒരു ബൗണ്ടറിയുടെ പേരിൽ തുടങ്ങിയ കലഹം; കരഞ്ഞുകലങ്ങി നടി റിപ; ബംഗ്ലാദേശ് സെലബ്രിറ്റി ക്രിക്കറ്റ് ലീഗിൽ കൈയാങ്കളി,sports,entertainment,0.51356435,False
+IndicBERT-v2,Marathi,ऋषी सुनक इतिहासाच्या उंबरठ्यावर! अधिकृत दावेदारीची केली घोषणा,international,sports,0.5117346,False
+XLM-RoBERTa,Telugu,Viral Video :  ఎవరి పిచ్చి వాళ్లకానందం అంటే ఇదే- మొహాన ఏం కొట్టించుకుంటున్నారో తెలుసా ?,international,technology,0.5109003,False
+XLM-RoBERTa,Tamil,கேமராவுடன் பேசுவேன்... கொக்கு போல் காத்திருப்பேன்… - விளையாட்டுத்துறை போட்டோகிராபியின் சவால் பகிரும் எல்.ராமச்சந்திரன்,sports,entertainment,0.51039875,False
+mBERT,Malayalam,ഗള്‍ഫ് രാജ്യങ്ങളില്‍ ജീവിതച്ചെലവ് ഏറ്റവും കുറഞ്ഞ രാജ്യമായി കുവൈറ്റ്,international,technology,0.5103303,False
+mBERT,Tamil,இந்திய கோடீஸ்வரர்கள் பட்டியலில் பின்தங்கினார் அதானி: மீண்டும் முதலிடத்தில் முகேஷ் அம்பானி,entertainment,international,0.50994146,False
+mBERT,Tamil,சக்லைன் முஷ்டாக்கின் அசிங்கமான ஸ்லெட்ஜிங்கும்.. சச்சின் டெண்டுல்கரின் விவேகமான பதிலடியும்,sports,technology,0.50931555,False
+XLM-RoBERTa,Malayalam,എൻ.ഐ.ടി വിദ്യാർഥിയെ  തേടി ഗൂഗ്ൾ അവാർഡ്,technology,international,0.5088443,False
+XLM-RoBERTa,Malayalam,ദ​ക്ഷി​ണ കൊ​റി​യ​യി​ൽ പേ​മാ​രി; 20 മ​ര​ണം,international,crime,0.5086529,False
+XLM-RoBERTa,Marathi,"लगीन ठरलं, मंडप सजला, वाजत गाजत वऱ्हाड आले; इतक्यात नवऱ्याला मिळाला १ फोटो, मग..",crime,entertainment,0.5072214,False
+mBERT,Telugu,"Hisense U7H TV Series: సూపర్ డిస్‌ప్లే, అదిరిపోయే సౌండ్‌తో హైసెన్స్ కొత్త టీవీలు - ధర ఎంతంటే?",technology,entertainment,0.50508773,False
+IndicBERT-v2,Telugu,"Guinness World Record: వారెవ్వా, ఒక్క కోన్‌పై 125 ఐస్‌ స్కూప్‌లు- గిన్నిస్ రికార్డ్!",international,technology,0.5048484,False
+mBERT,Hindi,बप्पी लहरी क्यों पहनते थे इतना सोना? खुद बताई थी वजह,entertainment,international,0.50108796,False
+mBERT,Telugu,iBomma: తమిళరాకర్జ్ తర్వాత నిలిచిపోతున్నట్లు ప్రకటించిన మరో పైరసీ వెబ్‌సైట్ - కానీ అంతలోనే!,technology,entertainment,0.50001895,False
+IndicBERT-v2,Malayalam,അ​ര​ങ്ങി​ൽ തീ ​പ​ട​ർ​ത്തു​ന്ന പ്ര​തി​ച​രി​ത്രം,entertainment,crime,0.49886242,False
+XLM-RoBERTa,Malayalam,ലൈം​ഗി​കാ​തി​ക്ര​മം; യു​വാ​വ് പി​ടി​യി​ൽ,crime,technology,0.4983657,False
+IndicBERT-v2,Hindi,"भारतीय क्रिकेटर्स को गाली बकते थे अजहर महमूद; पाकिस्तानी ऑलराउंडर ने कबूला सच, सचिन तेंदुलकर को भी कही यह बात",international,sports,0.49793214,False
+XLM-RoBERTa,Hindi,"तीन शादियों और नौ अफेयर्स के बाद भी सिंगल हैं हॉलीवुड अभिनेता टॉम क्रूज, जानिए कितनी संपत्ति के हैं मालिक",entertainment,international,0.49727243,False
+XLM-RoBERTa,Marathi,"तरूणींना मारून त्यांचं मांस बर्गरमध्ये टाकून विकायचा, खतरनाक होता हा सीरीअल किलर",crime,international,0.495529,False
+mBERT,Malayalam,ഐ.വി.എഫ് ചികിത്സക്കും എ. ഐ,technology,international,0.4951389,False
+XLM-RoBERTa,Tamil,"அக்.5, 2023 | 14 நாட்களுக்கு பின்னர் தங்கம் விலை ஏற்றம்; சவரனுக்கு ரூ.80 உயர்வு",entertainment,technology,0.4943528,False
+mBERT,Malayalam,ഏഷ്യയിലെ ആദ്യത്തെ 'മെറ്റാവേഴ്സ് വിവാഹ സൽക്കാരം' കഴിഞ്ഞു; ചിത്രങ്ങളും വിഡിയോയും കാണാം...,technology,international,0.49297184,False
+mBERT,Marathi,"Parag Agrawal: ट्विटरचं भविष्य अंधारात, मस्कसोबत डिल होताच पराग अग्रवालांचं भाकीत",international,crime,0.4910043,False
+XLM-RoBERTa,Tamil,இந்திய கோடீஸ்வரர்கள் பட்டியலில் பின்தங்கினார் அதானி: மீண்டும் முதலிடத்தில் முகேஷ் அம்பானி,entertainment,sports,0.49040437,False
+XLM-RoBERTa,Malayalam,ഹോപ്പിൽനിന്ന്​ ചൊവ്വയുടെ ആദ്യ ചിത്രമെത്തി,technology,entertainment,0.49025166,False
+XLM-RoBERTa,Malayalam,ഇവരാണ് ചാൾസ് രാജാവിന്റെ കിരീട ധാരണ ചടങ്ങിൽ പ​ങ്കെടുക്കുന്നവർ...,international,sports,0.4882321,False
+mBERT,Tamil,சென்சார் போர்டில் ஊழல் விவகாரம்: விஷால் புகாரில் சிபிஐ வழக்குப் பதிவு,entertainment,international,0.4881925,False
+mBERT,Malayalam,മിഷയുടെ തട്ടിപ്പ് ലക്ഷങ്ങളിൽ ഒതുങ്ങില്ല; കെണിയൊരുക്കിയത് വമ്പൻ പലിശ വാഗ്ദാനം ചെയ്ത്,crime,technology,0.48500955,False
+XLM-RoBERTa,Marathi,Facebook : फेसबुकच्या ट्रेड टूलद्वारे जगभर होतेय मानवी तस्करी; माजी कर्मचारी फ्रान्सिस होगेन यांच्या आरोपामुळे खळबळ,technology,international,0.48403704,False
+IndicBERT-v2,Malayalam,ഏ​ഷ്യ​ൻ ക​പ്പി​ൽ വ​നി​തറ​ഫ​റി​മാ​ർ​ക്ക് അ​ര​ങ്ങേ​റ്റം,international,sports,0.48174873,False
+mBERT,Telugu,"Guinness World Record: వారెవ్వా, ఒక్క కోన్‌పై 125 ఐస్‌ స్కూప్‌లు- గిన్నిస్ రికార్డ్!",international,technology,0.4810476,False
+mBERT,Tamil,"""தொடக்க நிலையிலேயே சிகிச்சை அளித்தால் மன நல பாதிப்புகளை குணப்படுத்த முடியும்""",entertainment,international,0.47714776,False
+XLM-RoBERTa,Malayalam,മ്യാ​ന്മ​റി​ൽ വ്യോ​മാ​​ക്ര​മ​ണം; 53 പേ​ർ കൊ​ല്ല​പ്പെ​ട്ടു,international,sports,0.4679407,False
+mBERT,Telugu,Imran Khan: 'యాక్టింగ్‌లో షారూక్ ఖాన్‌ను మించిపోయారు'- ఇమ్రాన్‌ ఖాన్‌పై సెటైర్లు,international,sports,0.45933938,False
+mBERT,Marathi,ऋषी सुनक इतिहासाच्या उंबरठ्यावर! अधिकृत दावेदारीची केली घोषणा,international,entertainment,0.45757964,False
+mBERT,Malayalam,കൗമാര കായിക കുതിപ്പിന്​ തുടക്കം,sports,technology,0.45533898,False
+mBERT,Malayalam,അ​ര​ങ്ങി​ൽ തീ ​പ​ട​ർ​ത്തു​ന്ന പ്ര​തി​ച​രി​ത്രം,entertainment,technology,0.45208237,False
+XLM-RoBERTa,Marathi,"'लग्न, सेक्स आणि पत्नीची प्रेग्नेन्सी', कामाची लिस्ट बनवून व्यक्तीने केला रक्तपात!",international,crime,0.44965827,False
+XLM-RoBERTa,Malayalam,മരണവീട് പോലെയായി ‘ക്ലബ്ഹൗസ്’; രക്ഷയില്ലാതെ പാതിയിലേറെ ജീവനക്കാരെയും പിരിച്ചുവിടുന്നു...,international,technology,0.44497207,False
+XLM-RoBERTa,Hindi,कोरोना के कमजोर पड़ते ही मजबूत हुआ बालीवुड,entertainment,international,0.44420373,False
+mBERT,Malayalam,'ഞാനൊരു ഭിന്നശേഷിക്കാരിയാണ്; എല്ലാ കുട്ടികളും എന്റെ മക്കളെ പോലെ' -മുസ്‍ലിം വിദ്യാർഥിയെ അടിച്ച സംഭവത്തിൽ വിശദീകരണവുമായി അധ്യാപിക,crime,international,0.44195905,False
+mBERT,Hindi,"मुकेश अंबानी की JIO ने पहले एक रुपए वाले पैक में घटाया था डेटा, अब हटा ही लिया प्लान",technology,crime,0.4390531,False
+mBERT,Malayalam,ബെൻസെമ ഇത്തിഹാദിലേക്ക്; പ്രാഥമിക കരാർ ഒപ്പുവെച്ചു,sports,technology,0.43196627,False
+XLM-RoBERTa,Malayalam,അമീർ കപ്പിൽ അൽ അറബി മുത്തം,sports,entertainment,0.43010178,False
+XLM-RoBERTa,Malayalam,"ഇ​ര​യോ, അ​തോ വേ​ട്ട​ക്കാ​ര​നോ?",entertainment,sports,0.42992288,False
+IndicBERT-v2,Marathi,"बुर्ज खलिफावर पुन्हा झळकला शाहरुख, व्हिडिओतून सांगतिली प्रेरणादायी कथा",international,entertainment,0.42939353,False
+mBERT,Tamil,ஏமனில் பதற்றம்: சவுதி தாக்குதல்,international,entertainment,0.4207964,False
+XLM-RoBERTa,Malayalam,അഡ്വാൻസ് തിരികെ നൽകിയതിന്‍റെ ബാങ്ക് സ്റ്റേറ്റ്മെന്‍റ് അടക്കം പുറത്തുവിട്ട് ആന്‍റണി വർഗീസ്,entertainment,international,0.41918117,False
+mBERT,Malayalam,വിനീഷ്യസിന്‍റെ ചുവപ്പ് കാർഡ് റദ്ദാക്കി; വലൻസിയക്ക് പിഴയും കാണികളെ പ്രവേശിപ്പിക്കുന്നതിന് ഭാഗിക വിലക്കും,sports,international,0.41903463,False
+mBERT,Tamil,“உலகின் தலைசிறந்த பேட்ஸ்மேன்களில் ஒருவர் பாபர் அஸம்” - கோலி புகழாரம்,sports,international,0.40854982,False
+mBERT,Malayalam,'പ്രിയപ്പെട്ടവരുടെ തുടരേയുള്ള വേർപാടുകൾ... അതുണ്ടാക്കുന്ന നിസ്സീമമായ വ്യഥ...',entertainment,technology,0.4066218,False
+mBERT,Malayalam,ജയിച്ചു പക്ഷെ...,sports,international,0.40594527,False
+IndicBERT-v2,Malayalam,ക​മ്യൂ​ണി​റ്റി വോ​ളി​ബാ​ൾ ടൂ​ർ​ണ​മെ​ന്‍റ്​ സം​ഘ​ടി​പ്പി​ച്ചു,sports,technology,0.4002141,False
+mBERT,Malayalam,സാങ്കേതിക തകരാർ; ‘അമാൻ’ വിക്ഷേപണം പരാജയം,technology,international,0.39695764,False
+XLM-RoBERTa,Marathi,Twitter Blue Tick : 29 नोव्हेंबरला लाँच होणार नाही ब्लू टिक सबस्क्रिप्शन प्लॅन; 'या' कारणामुळे इलॉन मस्क यांनी बदलली रणनीती,international,sports,0.3966904,False
+mBERT,Malayalam,നിദയുടെ അശ്വമേധം,sports,entertainment,0.38414302,False
+mBERT,Malayalam,കൊ​ല്ലം: ജില്ല സ്കൂൾ കായികമേള ആറുമുതൽ,sports,entertainment,0.38405907,False
+mBERT,Malayalam,ജീവിത പ്രാരാബ്​ധങ്ങളോട്​ പടവെട്ടി ഉയരങ്ങളിലെത്തിയ പ്രതിഭ,entertainment,technology,0.37902403,False
+XLM-RoBERTa,Malayalam,ഈ​യാ​ഴ്ച ഖ​ത്ത​റി​ന് സൗ​ഹൃ​ദ മ​ത്സ​ര​ങ്ങ​ൾ,sports,international,0.37138134,False
+mBERT,Malayalam,എട്ട്​ ജി.ബി റാമി​െൻറ കരുത്തിൽ ഷവോമിയുടെ ‘പോക്കോ’ എഫ്​ 1,technology,entertainment,0.36904,False
+mBERT,Tamil,பார்பிக்யூ உணவகம் முதல் ராக்கெட் லாஞ்சர் வரை - கவனம் ஈர்க்கும் கிம் ஜாங் உன்னின் கவச ரயில்,international,entertainment,0.36614195,False
+mBERT,Malayalam,അത്യപൂർവ കാഴ്ചയുമായി ഡിസംബർ 26ന്​ വലയ സൂര്യഗ്രഹണം,technology,international,0.3496888,False
+XLM-RoBERTa,Malayalam,ഇ​ന്ധ​നം തീ​ർ​ന്നു; നാ​സ​യു​ടെ കെ​പ്ല​ർ  ടെ​ലി​സ്​​കോ​പ്​ ദൗ​ത്യം അ​വ​സാ​നി​പ്പി​ച്ചു,technology,international,0.33874565,False
+XLM-RoBERTa,Malayalam,വ്യാ​പാ​രി​യെ സം​ഘം ചേ​ർ​ന്ന് ആ​ക്ര​മി​ച്ച​താ​യി പ​രാ​തി,crime,sports,0.32432488,False
+mBERT,Tamil,இன்று என்ன? - வெற்றி சூத்திரத்தின் தந்தை ஹில்,entertainment,technology,0.32176864,False
+XLM-RoBERTa,Malayalam,ആ​ഘോ​ഷ​മാ​സം; ഉ​ത്സ​വ​മേ​ളം,sports,technology,0.29833147,False
+XLM-RoBERTa,Malayalam,ന്യൂ​സി​ല​ൻ​ഡി​ൽ പ്ര​ള​യം; അ​ടി​യ​ന്ത​രാ​വ​സ്ഥ,international,sports,0.2957523,False
